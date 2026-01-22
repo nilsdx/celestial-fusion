@@ -26,7 +26,7 @@ export default async function ArticlePage({ params }: PageProps) {
     const { data, content } = matter(fileContent);
 
     return (
-        <article className="prose lg:prose-xl mx-auto py-10 px-6">
+        <article className="mx-auto py-10 px-6 article-styling">
             {data.title && <h1>{data.title}</h1>}
             <ReactMarkdown remarkPlugins={[remarkGfm]}>
                 {content}

@@ -1,4 +1,4 @@
-# PRIMAL NEXUS
+# Primal Nexus
 
 Primal Nexus is a rare frame that boosts all offensive techniques damages by 30%.
 
