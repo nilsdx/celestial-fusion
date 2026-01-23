@@ -39,4 +39,9 @@ body {
       padding: 4px;
     }
   }
+
+  a {
+    color:darkblue;
+    text-decoration: underline;
+  }
 }

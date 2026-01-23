@@ -48,7 +48,6 @@ export const getItemDatas = async (item: string): Promise<ItemDatas | null> => {
         return formattedData;
 
     } catch (error) {
-        console.error("Error fetching item data:", error);
         return null;
     }
 }

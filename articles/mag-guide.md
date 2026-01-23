@@ -12,7 +12,7 @@ All you need is a Bluefull ranger.
 - Step 4: Feed your Mitra antiparalysis until it reaches level 50 and evolves into Kaitabha
 
 Congratulations ! You now have a 0 defense Kaitabha with Mylla & Youlla and Pilla !
-Yo  u can give it a mag cell right away and refer to the "What now ?" section to know what to feed your mag ! However, the following Mag cells will require you some more work. Let's go over them.
+You can give it a mag cell right away and refer to the "What now ?" section to know what to feed your mag ! However, the following Mag cells will require you some more work. Let's go over them.
 
 ## Tellusis, Gael Giel, Recon
 
