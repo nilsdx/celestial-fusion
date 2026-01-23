@@ -82,7 +82,7 @@ export default async function ArticlePage({ params }: PageProps) {
 
     const { data, content } = itemData;
 
-    const views = await incrementViews(article);
+    const views = await incrementViews(data.title, category, article);
 
     return (
         <div className="flex w-full justify-between">
@@ -90,7 +90,7 @@ export default async function ArticlePage({ params }: PageProps) {
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
-                <p>This page has been viewed {views} times.</p>
+                <p>Views: {views}</p>
             </article>
             <ItemCard item={article}/>
         </div>

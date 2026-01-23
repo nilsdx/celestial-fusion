@@ -1,4 +1,4 @@
-# Linis's 0 DEF Mag feeding guide
+# 0 DEF Mag feeding guide
 
 This guide aims to help people who just acquired a 0 DEF Mag and don't know how to feed it, with all commonly sought after Mag cell Mags guides.
 

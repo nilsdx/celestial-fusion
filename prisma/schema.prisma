@@ -13,6 +13,10 @@ datasource db {
 
 model ArticleStats {
   slug      String   @id
+  name      String
+  category  String
   views     Int      @default(0)
   updatedAt DateTime @updatedAt
+
+  @@index([category]) // Optionnel : accélère les recherches par catégorie
 }
