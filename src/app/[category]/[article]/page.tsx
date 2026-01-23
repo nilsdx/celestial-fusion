@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 import ReactMarkdown from 'react-markdown';
 import { notFound } from 'next/navigation';
 import remarkGfm from 'remark-gfm';
-import ItemCard from './_components/ItemCard';
+import ItemCard from '../../../components/ItemCard';
 import { Metadata } from 'next';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');

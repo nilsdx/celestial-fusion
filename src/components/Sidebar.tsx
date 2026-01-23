@@ -6,8 +6,8 @@ const Sidebar = () => {
             <Link href="/">
                 Main page
             </Link>
-            <Link href="/mag-guide">
-                Mag Guide
+            <Link href="/api/random">
+                Random page
             </Link>
         </div>
     )

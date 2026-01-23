@@ -10,16 +10,21 @@ export const allClasses = [
 
 const AvailableClasses: React.FC<AvailableClassesProps> = ({classes}) => {
     const availability = classes.split("").map((a) => a == "1");
-
-    console.log(availability);
     
     return (
-        <div>
+        <div className="flex flex-col gap-1 w-full">
             {allClasses.map((cat, i) => (
-                <div className="flex" key={`category-${i}`}>
+                <div 
+                    className="grid grid-cols-4 gap-1"
+                    key={`category-${i}`}
+                >
                     {cat.map((cls, j) => (
                         <p 
-                            className={`p-1 ${availability[ ( i*cat.length )+j ] ? "bg-green-400" : "bg-red-400"}`}
+                            className={`p-1 text-center text-xs ${
+                                availability[(i * cat.length) + j] 
+                                ? "bg-green-500/80 text-green-950" 
+                                : "bg-red-500/80 text-red-950"
+                            }`}
                             key={`class-${i}-${j}`}
                         >
                             {cls}
