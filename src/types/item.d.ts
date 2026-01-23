@@ -29,10 +29,6 @@ export type ItemDatas = {
     special?: string,
     stats?: StatBoost[],
     angles?: Angles,
-    minDfp?: number,
-    maxDfp?: number,
-    minEvp?: number,
-    maxEvp?: number,
     resistances?: Resistances
     classes: string,
     description: string

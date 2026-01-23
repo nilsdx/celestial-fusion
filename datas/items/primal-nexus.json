@@ -3,15 +3,23 @@
     "icon": "frame",
     "type": "Frame",
     "requirement": "Level 200",
-    "minDfp": 180,
-    "maxDfp": 200,
-    "minEvp": 250,
-    "maxEvp": 300,
-    "efr": 45,
-    "eth": 45,
-    "eic": 45,
-    "edk": 40,
-    "elt": 40,
+    "stats": [
+        {
+            "label": "DFP",
+            "value": "180-200"
+        },
+        {
+            "label": "EVP",
+            "value": "250-300"
+        }
+    ],
+    "resistances": {
+        "efr": 45,
+        "eth": 45,
+        "eic": 45,
+        "edk": 40,
+        "elt": 40
+    },
     "classes": "000000001111",
     "description": "This strange artifact is embedded with ancient magic. A proficient caster can harness this magic to empower offensive techniques and magic resistance."
 }

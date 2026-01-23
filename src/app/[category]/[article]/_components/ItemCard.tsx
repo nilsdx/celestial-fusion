@@ -14,16 +14,35 @@ const ItemCard: React.FC<ItemCardProps> = async ({item}) => {
     }
 
     return (
-        <div className="flex flex-col items-center m-4 bg-amber-200 absolute right-0 w-64">
+        <div className="flex flex-col items-center m-4 bg-amber-200 absolute right-0 w-64 p-4">
             <p>{itemDatas.name}</p>
             {itemDatas.image && (
                 <Image src={itemDatas.image} alt={`${itemDatas.name} image`} width={300} height={200}/>
             )}
             <p>Type : {itemDatas.type}</p>
             <p>Requirements : {itemDatas.requirement}</p>
-            {itemDatas.grind && (
+            {itemDatas.grind !== undefined && (
                 <p>Grind : {itemDatas.grind}</p>
             )}
+            {itemDatas.special !== undefined && (
+                <p>Special : {itemDatas.special}</p>
+            )}
+            {itemDatas.targets !== undefined && (
+                <p>Targets : {itemDatas.targets}</p>
+            )}
+            {itemDatas.stats !== undefined && (
+                <div className="flex space-x-3 flex-wrap">
+                    {itemDatas.stats.map((ids) => (
+                        <div className="text-center" key={`${ids.label}-stat`}>
+                            <p>{ids.label}</p>
+                            <p>{ids.value}</p>
+                        </div>
+                    ))}
+                </div> 
+            )}
+            <p className="italic">
+                {itemDatas.description}
+            </p>
         </div>
     )
 

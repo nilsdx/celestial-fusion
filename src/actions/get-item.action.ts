@@ -35,11 +35,6 @@ export const getItemDatas = async (item: string): Promise<ItemDatas | null> => {
             stats: rawData.stats,
             angles: rawData.angles,
 
-            minDfp: rawData.minDfp,
-            maxDfp: rawData.maxDfp,
-            minEvp: rawData.minEvp,
-            maxEvp: rawData.maxEvp,
-
             resistances: resistances,
 
             special: rawData.special 
