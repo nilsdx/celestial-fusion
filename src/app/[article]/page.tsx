@@ -27,13 +27,16 @@ export default async function ArticlePage({ params }: PageProps) {
     const { data, content } = matter(fileContent);
 
     return (
-        <article className="mx-auto py-10 px-6 article-styling">
-            {data.title && <h1>{data.title}</h1>}
-            <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                {content}
-            </ReactMarkdown>
+        <div className="flex">
+            <article className="mx-auto py-10 px-6 article-styling">
+                {data.title && <h1>{data.title}</h1>}
+                <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                    {content}
+                </ReactMarkdown>
+                
+            </article>
             <ItemCard item={article}/>
-        </article>
+        </div>
     );
 }
 

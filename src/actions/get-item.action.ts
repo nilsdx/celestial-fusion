@@ -25,7 +25,6 @@ export const getItemDatas = async (item: string): Promise<ItemDatas | null> => {
             name: rawData.name,
             icon: rawData.icon,
             image: rawData.image,
-            stars: rawData.stars,
             type: rawData.type,
             requirement: rawData.requirement,
             classes: rawData.classes,

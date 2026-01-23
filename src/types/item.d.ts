@@ -22,7 +22,6 @@ export type ItemDatas = {
     name: string,
     icon: "hu"|"ra"|"fo"|"frame"|"barrier"|"item",
     image?: string
-    stars: number,
     type: string,
     requirement: string,
     grind?: number,

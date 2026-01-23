@@ -14,7 +14,7 @@ const ItemCard: React.FC<ItemCardProps> = async ({item}) => {
     }
 
     return (
-        <div className="border">
+        <div className="border flex flex-col items-center">
             <p>{itemDatas.name}</p>
             {itemDatas.image && (
                 <Image src={itemDatas.image} alt={`${itemDatas.name} image`} width={300} height={200}/>

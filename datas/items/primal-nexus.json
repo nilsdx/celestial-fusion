@@ -1,7 +1,6 @@
 {
     "name": "Primal Nexus",
     "icon": "frame",
-    "stars": 11,
     "type": "Frame",
     "requirement": "Level 200",
     "minDfp": 180,

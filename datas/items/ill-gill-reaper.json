@@ -2,7 +2,6 @@
     "name": "Ill Gill Reaper",
     "icon": "hu",
     "image": "/images/items/igr.jpg",
-    "stars": 11,
     "type": "Partisan",
     "requirement": "900 ATP",
     "grind": 0,
