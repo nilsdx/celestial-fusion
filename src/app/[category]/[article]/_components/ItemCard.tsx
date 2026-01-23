@@ -1,6 +1,7 @@
 import { getItemDatas } from "@/src/actions/get-item.action"
 import { ItemDatas } from "@/src/types/item";
 import Image from "next/image";
+import AvailableClasses from "./AvailableClasses";
 
 interface ItemCardProps {
     item: string
@@ -40,6 +41,7 @@ const ItemCard: React.FC<ItemCardProps> = async ({item}) => {
                     ))}
                 </div> 
             )}
+            <AvailableClasses classes={itemDatas.classes}/>
             <p className="italic">
                 {itemDatas.description}
             </p>
