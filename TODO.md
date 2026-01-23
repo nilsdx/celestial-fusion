@@ -3,7 +3,7 @@
 - [x] Redo the article routing/organization process
 - [ ] Home page
     - [ ] Most viewed
-    - [ ] Random page
+    - [x] Random page
 - [ ] Translations
     - [ ] Progress tracker
     - [ ] Middleware
