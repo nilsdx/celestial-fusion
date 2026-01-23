@@ -2,8 +2,8 @@
 // learn more about it in the docs: https://pris.ly/d/prisma-schema
 
 generator client {
-  provider = "prisma-client-ts"
-  output   = "../src/generated/prisma"
+  provider = "prisma-client-js"
+  output   = "./generated/prisma"
 }
 
 datasource db {
@@ -12,7 +12,7 @@ datasource db {
 }
 
 model ArticleStats {
-  slug      String   @id // Le nom du fichier sans .md
+  slug      String   @id
   views     Int      @default(0)
   updatedAt DateTime @updatedAt
 }

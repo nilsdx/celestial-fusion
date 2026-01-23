@@ -6,6 +6,7 @@ import { notFound } from 'next/navigation';
 import remarkGfm from 'remark-gfm';
 import ItemCard from '../../../components/ItemCard';
 import { Metadata } from 'next';
+import { incrementViews } from '@/src/actions/views.action';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
@@ -81,12 +82,15 @@ export default async function ArticlePage({ params }: PageProps) {
 
     const { data, content } = itemData;
 
+    const views = await incrementViews(article);
+
     return (
         <div className="flex w-full justify-between">
             <article className="py-10 px-6 article-styling">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
+                <p>This page has been viewed {views} times.</p>
             </article>
             <ItemCard item={article}/>
         </div>
