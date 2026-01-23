@@ -43,5 +43,6 @@ body {
   a {
     color:darkblue;
     text-decoration: underline;
+    border: unset;
   }
 }

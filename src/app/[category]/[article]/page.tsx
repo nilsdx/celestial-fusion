@@ -10,11 +10,11 @@ import { Metadata } from 'next';
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
 interface PageProps {
-    params: Promise<{ article: string }>;
+    params: Promise<{ category: string; article: string }>;
 }
 
-function getArticleData(slug: string) {
-    const filePath = path.join(articlesDirectory, `${slug}.md`);
+function getArticleData(category: string, slug: string) {
+    const filePath = path.join(articlesDirectory, category, `${slug}.md`);
 
     if (!fs.existsSync(filePath)) return null;
 
@@ -42,8 +42,8 @@ function getArticleData(slug: string) {
         
         if (firstParagraph) {
             extractedDescription = firstParagraph
-                .replace(/[#*`_~]/g, '')        // remove markdown #
-                .replace(/\[(.*?)\]\(.*?\)/g, '$1') // clean
+                .replace(/[#*`_~]/g, '')
+                .replace(/\[(.*?)\]\(.*?\)/g, '$1')
                 .slice(0, 160);
         }
     }
@@ -59,29 +59,27 @@ function getArticleData(slug: string) {
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-    const { article } = await params;
-    const articleData = getArticleData(article);
+    const { category, article } = await params;
+    const articleData = getArticleData(category, article);
 
     if (!articleData) return { title: "Not found" };
 
     return {
         title: `${articleData.data.title} - Linis's Archives`,
-        description: articleData.data.description || "Unofficial Destiny PSOBB strategy guide website",
+        description: articleData.data.description,
     };
 }
 
 export default async function ArticlePage({ params }: PageProps) {
-    const { article } = await params;
+    const { category, article } = await params;
     
-    const itemData = getArticleData(article);
+    const itemData = getArticleData(category, article);
 
     if (!itemData) {
         notFound();
     }
 
     const { data, content } = itemData;
-
-    console.log("Lecture article :", article);
 
     return (
         <div className="flex w-full justify-between">
@@ -98,9 +96,20 @@ export default async function ArticlePage({ params }: PageProps) {
 export async function generateStaticParams() {
     if (!fs.existsSync(articlesDirectory)) return [];
     
-    const files = fs.readdirSync(articlesDirectory);
-    
-    return files.map((filename) => ({
-        article: filename.replace('.md', ''), 
-    }));
+    const categories = fs.readdirSync(articlesDirectory, { withFileTypes: true })
+                         .filter(dirent => dirent.isDirectory())
+                         .map(dirent => dirent.name);
+
+    const paths = categories.flatMap(category => {
+        const categoryPath = path.join(articlesDirectory, category);
+        
+        return fs.readdirSync(categoryPath)
+            .filter(filename => filename.endsWith('.md'))
+            .map(filename => ({
+                category: category,
+                article: filename.replace('.md', ''),
+            }));
+    });
+
+    return paths;
 }
