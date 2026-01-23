@@ -2,13 +2,15 @@
 
 - [x] Redo the article routing/organization process
 - [ ] Home page
-    - [ ] Most viewed
+    - [ ] Categories and links to most places
+    - [x] Most viewed
     - [x] Random page
 - [ ] Translations
     - [ ] Progress tracker
     - [ ] Middleware
     - [ ] Articles organization
 - [ ] Styling
+- [ ] Search function
 
 # Articles
 
