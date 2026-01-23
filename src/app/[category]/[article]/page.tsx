@@ -86,7 +86,7 @@ export default async function ArticlePage({ params }: PageProps) {
 
     return (
         <div className="flex w-full justify-between">
-            <article className="py-10 px-6 article-styling">
+            <article className="m-6 article-styling">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>

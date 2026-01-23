@@ -29,9 +29,9 @@ const Footer = () => {
                         Privacy policy
                     </Link>
                     <Link
-                        href="/legal"
+                        href="/about"
                     >
-                        Legal notice
+                        About Linis's Archives
                     </Link>
                 </div>
             </div>

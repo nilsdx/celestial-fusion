@@ -17,7 +17,7 @@ export default async function PrivacyPage() {
     const { content } = matter(fileContent);
 
     return (
-        <div className="article-styling">
+        <div className="article-styling m-6">
             <ReactMarkdown remarkPlugins={[remarkGfm]}>
                 {content}
             </ReactMarkdown>
