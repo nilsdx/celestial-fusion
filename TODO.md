@@ -1,16 +1,13 @@
 # General
 
-- [ ] Redo the article routing process
-- [ ] Separate articles in multiple categories
-    - [ ] Enemies
-    - [ ] Quests
-    - [ ] Items (which includes weapons, frames, barriers, units, mags, and more)
+- [x] Redo the article routing/organization process
 - [ ] Home page
     - [ ] Most viewed
     - [ ] Random page
 - [ ] Translations
     - [ ] Progress tracker
     - [ ] Middleware
+    - [ ] Articles organization
 - [ ] Styling
 
 # Articles
