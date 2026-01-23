@@ -15,18 +15,19 @@ export type Angles = {
 
 export type StatBoost = {
     label: string,
-    value: number
+    value: string
 }
 
 export type ItemDatas = {
     name: string,
     icon: "hu"|"ra"|"fo"|"frame"|"barrier"|"item",
+    image?: string
     stars: number,
     type: string,
     requirement: string,
     grind?: number,
     targets?: number,
-    special?: number,
+    special?: string,
     stats?: StatBoost[],
     angles?: Angles,
     minDfp?: number,

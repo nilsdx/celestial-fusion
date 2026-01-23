@@ -5,7 +5,7 @@
     "type": "Frame",
     "requirement": "Level 200",
     "minDfp": 180,
-    "max-Dfp": 200,
+    "maxDfp": 200,
     "minEvp": 250,
     "maxEvp": 300,
     "efr": 45,

@@ -1,0 +1,24 @@
+{
+    "name": "Ill Gill Reaper",
+    "icon": "hu",
+    "image": "/images/items/igr.jpg",
+    "stars": 11,
+    "type": "Partisan",
+    "requirement": "900 ATP",
+    "grind": 0,
+    "targets": 10,
+    "special": "Tempest/Blizzard/Hell",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "900"
+        },
+        {
+            "label": "ATA",
+            "value": "45"
+        }
+    ],
+    "classes": "11111111",
+    "description": "An ultimate scythe worn by Ill Gill. When equipped, three different attacks can be used."
+
+}

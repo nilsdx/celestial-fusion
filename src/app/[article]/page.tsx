@@ -4,6 +4,7 @@ import matter from 'gray-matter';
 import ReactMarkdown from 'react-markdown';
 import { notFound } from 'next/navigation';
 import remarkGfm from 'remark-gfm';
+import ItemCard from './_components/ItemCard';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
@@ -31,6 +32,7 @@ export default async function ArticlePage({ params }: PageProps) {
             <ReactMarkdown remarkPlugins={[remarkGfm]}>
                 {content}
             </ReactMarkdown>
+            <ItemCard item={article}/>
         </article>
     );
 }
