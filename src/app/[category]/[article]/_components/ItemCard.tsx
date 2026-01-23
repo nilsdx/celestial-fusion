@@ -14,13 +14,16 @@ const ItemCard: React.FC<ItemCardProps> = async ({item}) => {
     }
 
     return (
-        <div className="border flex flex-col items-center">
+        <div className="flex flex-col items-center m-4 bg-amber-200 absolute right-0 w-64">
             <p>{itemDatas.name}</p>
             {itemDatas.image && (
                 <Image src={itemDatas.image} alt={`${itemDatas.name} image`} width={300} height={200}/>
             )}
             <p>Type : {itemDatas.type}</p>
             <p>Requirements : {itemDatas.requirement}</p>
+            {itemDatas.grind && (
+                <p>Grind : {itemDatas.grind}</p>
+            )}
         </div>
     )
 
