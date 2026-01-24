@@ -41,6 +41,30 @@ const ItemCard: React.FC<ItemCardProps> = async ({item}) => {
                     ))}
                 </div> 
             )}
+            {itemDatas.resistances !== undefined && (
+                <div className="flex space-x-3 flex-wrap">
+                    <div className="text-center">
+                        <p>EFR</p>
+                        <p>{itemDatas.resistances.efr}</p>
+                    </div>
+                    <div className="text-center">
+                        <p>ETH</p>
+                        <p>{itemDatas.resistances.eth}</p>
+                    </div>
+                    <div className="text-center">
+                        <p>EIC</p>
+                        <p>{itemDatas.resistances.eic}</p>
+                    </div>
+                    <div className="text-center">
+                        <p>EDK</p>
+                        <p>{itemDatas.resistances.edk}</p>
+                    </div>
+                    <div className="text-center">
+                        <p>ELT</p>
+                        <p>{itemDatas.resistances.elt}</p>
+                    </div>
+                </div>
+            )}
             <AvailableClasses classes={itemDatas.classes}/>
             <p className="italic">
                 {itemDatas.description}

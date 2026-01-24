@@ -11,13 +11,14 @@ export const getItemDatas = async (item: string): Promise<ItemDatas | null> => {
 
         let resistances: Resistances | undefined = undefined;
         
-        if ('efr' in rawData || 'eth' in rawData) {
+        // if there's efr, then there must be the rest
+        if ('efr' in rawData.resistances) {
             resistances = {
-                efr: rawData.efr ?? 0,
-                eth: rawData.eth ?? 0,
-                eic: rawData.eic ?? 0,
-                edk: rawData.edk ?? 0,
-                elt: rawData.elt ?? 0
+                efr: rawData.resistances.efr,
+                eth: rawData.resistances.eth,
+                eic: rawData.resistances.eic,
+                edk: rawData.resistances.edk,
+                elt: rawData.resistances.elt
             };
         }
 
