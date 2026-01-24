@@ -1,0 +1,22 @@
+{
+    "name": "Desert Eagle",
+    "icon": "ra",
+    "image": "",
+    "type": "Mechgun",
+    "requirement": "200 ATA",
+    "grind": 80,
+    "targets": 1,
+    "special": "Long Range Piercing",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "255"
+        },
+        {
+            "label": "ATA",
+            "value": "50"
+        }
+    ],
+    "classes": "110011000000",
+    "description": "Pair of extremely powerful guns. Can fire a special long range piercing shot."
+}

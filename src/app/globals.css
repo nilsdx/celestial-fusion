@@ -36,7 +36,7 @@ body {
     text-align: center;
     * {
       border: solid;
-      padding: 4px;
+      padding: 0 4px;
     }
   }
 

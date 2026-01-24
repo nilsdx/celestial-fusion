@@ -13,6 +13,10 @@
             "value": "820-900"
         },
         {
+            "label": "ATA",
+            "value": "40"
+        },
+        {
             "label": "EVP",
             "value": "-30"
         }

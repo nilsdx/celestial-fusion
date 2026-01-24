@@ -1,0 +1,17 @@
+# Dark Flow
+
+Dark Flow (also known as DF) is a rare Sword that is part of the 'Dark' weapon trio. It is not a Destiny exclusive weapon, but it has been combo unlocked.
+
+It is the strongest single target weapon in the game, especially when not combo locked, as the 5 projectiles it fires when under 12.5% of your max health can all hit a single enemy, regardles of their height. The Sword's swing is also no longer ignored when at low health, making you hit 6 times instead of 5.
+
+## Availability
+
+### Item Combination
+
+| Material 1 | Grind | Material 2 | Class | Stats | Result |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Sword](https://wiki.pioneer2.net/w/Sword) | +46 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Hunter | 971 ATP, Level 100 | Dark Bridge |
+| [Gigush](https://wiki.pioneer2.net/w/Gigush) | +32 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 110 | Dark Bridge |
+| [Breaker](https://wiki.pioneer2.net/w/Breaker) | +18 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 120 | Dark Bridge |
+| [Claymore](https://wiki.pioneer2.net/w/Claymore) | +16 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 130 | Dark Bridge |
+| [Calibur](https://wiki.pioneer2.net/w/Calibur) | +10 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 140 | Dark Bridge |

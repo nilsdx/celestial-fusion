@@ -8,6 +8,6 @@ Its special is Unreduced Blizzard, making it a powerful crowd control tool for H
 
 ### Item Combination
 
-| Material 1 | Material 2 | Result |
-| ----------- | ----------- | ----------- |
-| [Iron Faust](https://wiki.pioneer2.net/w/Iron_Faust) | [Cryo Warhead](/items/cryo-warhead) | Arctic Faust |
+| Material 1 | Grind | Material 2 | Class | Stats | Result |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Iron Faust](https://wiki.pioneer2.net/w/Iron_Faust) | Any | [Cryo Warhead](/items/cryo-warhead) | Any Ranger | Level 200 | Arctic Faust |

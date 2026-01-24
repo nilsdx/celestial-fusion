@@ -1,0 +1,22 @@
+{
+    "name": "Dark Meteor",
+    "icon": "ra",
+    "image": "",
+    "type": "Shot",
+    "requirement": "200 ATA",
+    "grind": 25,
+    "targets": 7,
+    "special": "Energy Beam",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "700"
+        },
+        {
+            "label": "ATA",
+            "value": "45"
+        }
+    ],
+    "classes": "000011110000",
+    "description": "Long range weapon eroded by Olga Flow DNA. When equipped, two different attacks can be used."
+}

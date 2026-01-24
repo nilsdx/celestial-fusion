@@ -17,11 +17,13 @@ Their set effect with [Jointparts](/items/jointparts) gives tremendous range and
 
 | Item | Effect |
 | ----------- | ----------- |
-| [Jointparts](/items/jointparts) | Range +150, ATA +20, MST+100, Dual Casting: Jellen + Zalure (FO only) |
+| [Jointparts](/items/jointparts) | Range +90.0, ATA +20, MST+100, Dual Casting: Jellen + Zalure (FO only) |
 
 ## Availability
 
-| Material 1 | Material 2 | Result |
-| ----------- | ----------- | ----------- |
-| [Taste of Affection](/items/taste-of-affection) | [Passion Haze](/items/passion-haze) | Celestial Fusion |
-| [Passion Haze](/items/passion-haze) | [Taste of Affection](/items/taste-of-affection) | Celestial Fusion |
+### Item Combination
+
+| Material 1 | Grind | Material 2 | Class | Stats | Result |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Taste of Affection](/items/taste-of-affection) | +15 | [Passion Haze](/items/passion-haze) | All | Any | Celestial Fusion |
+| [Passion Haze](/items/passion-haze) | +15 | [Taste of Affection](/items/taste-of-affection) | All | Any | Celestial Fusion |
