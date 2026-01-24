@@ -4,12 +4,13 @@ import Image from "next/image";
 import AvailableClasses from "./AvailableClasses";
 
 interface ItemCardProps {
-    item: string
+    item: string,
+    category: string
 }
 
-const ItemCard: React.FC<ItemCardProps> = async ({item}) => {
+const ItemCard: React.FC<ItemCardProps> = async ({item, category}) => {
     
-    const itemDatas: ItemDatas|null = await getItemDatas(item);
+    const itemDatas: ItemDatas|null = await getItemDatas(category, item);
     if (itemDatas == null) {
         return (<></>)
     }

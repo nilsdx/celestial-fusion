@@ -1,18 +1,22 @@
-import { ItemDatas, Resistances } from "@/src/types/item";
 import { promises as fs } from 'fs';
 import path from 'path';
+import { ItemDatas, Resistances } from '../types/item';
 
-export const getItemDatas = async (item: string): Promise<ItemDatas | null> => {
+/**
+ * Gets datas of a given item from a given category
+ * @param category parent folder
+ * @param item json file name of the item
+ */
+export const getItemDatas = async (category: string, item: string): Promise<ItemDatas | null> => {
     try {
-        const filePath = path.join(process.cwd(), `datas/items/${item}.json`);
+        const filePath = path.join(process.cwd(), 'datas', category, `${item}.json`);
         
         const fileContent = await fs.readFile(filePath, 'utf8');
         const rawData = JSON.parse(fileContent);
 
         let resistances: Resistances | undefined = undefined;
         
-        // if there's efr, then there must be the rest
-        if ('efr' in rawData.resistances) {
+        if (rawData.resistances && 'efr' in rawData.resistances) {
             resistances = {
                 efr: rawData.resistances.efr,
                 eth: rawData.resistances.eth,
@@ -22,7 +26,7 @@ export const getItemDatas = async (item: string): Promise<ItemDatas | null> => {
             };
         }
 
-        const formattedData: ItemDatas = {
+        return {
             name: rawData.name,
             icon: rawData.icon,
             image: rawData.image,
@@ -41,9 +45,8 @@ export const getItemDatas = async (item: string): Promise<ItemDatas | null> => {
             special: rawData.special 
         };
 
-        return formattedData;
-
     } catch (error) {
+        console.error(`Erreur lors de la lecture de l'item ${item} dans ${category}:`, error);
         return null;
     }
 }

@@ -47,7 +47,7 @@ export default async function ArticlePage({ params }: PageProps) {
                     {content}
                 </ReactMarkdown>
             </article>
-            <ItemCard item={article}/>
+            <ItemCard item={article} category={category}/>
         </div>
     );
 }
