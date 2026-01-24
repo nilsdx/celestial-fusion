@@ -46,7 +46,6 @@ export const getItemDatas = async (category: string, item: string): Promise<Item
         };
 
     } catch (error) {
-        console.error(`Erreur lors de la lecture de l'item ${item} dans ${category}:`, error);
         return null;
     }
 }
