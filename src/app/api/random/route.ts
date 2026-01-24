@@ -12,24 +12,35 @@ export async function GET() {
             .filter(dir => dir.isDirectory())
             .map(dir => dir.name);
 
-        if (categories.length === 0) throw new Error("No category found");
+        if (categories.length === 0) throw new Error("No categories found");
 
-        const randomCategory = categories[Math.floor(Math.random() * categories.length)];
-        const categoryPath = path.join(articlesPath, randomCategory);
+        const allArticles: { category: string; slug: string }[] = [];
 
-        const files = await fs.readdir(categoryPath, { withFileTypes: true });
-        const articles = files
-            .filter(file => file.isFile() && file.name.endsWith('.md'))
-            .map(file => file.name.replace('.md', ''));
+        await Promise.all(
+            categories.map(async (category) => {
+                const categoryPath = path.join(articlesPath, category);
+                const files = await fs.readdir(categoryPath, { withFileTypes: true });
+                
+                const articlesInCat = files
+                    .filter(file => file.isFile() && file.name.endsWith('.md'))
+                    .map(file => ({
+                        category: category,
+                        slug: file.name.replace('.md', '')
+                    }));
+                
+                allArticles.push(...articlesInCat);
+            })
+        );
 
-        if (articles.length === 0) throw new Error("No article found");
+        if (allArticles.length === 0) throw new Error("No articles found");
 
-        const randomArticle = articles[Math.floor(Math.random() * articles.length)];
+        const randomIndex = Math.floor(Math.random() * allArticles.length);
+        const selected = allArticles[randomIndex];
 
-        targetUrl = `/${randomCategory}/${randomArticle}`;
+        targetUrl = `/${selected.category}/${selected.slug}`;
 
     } catch (error) {
-        console.error("Error log: ", error);
+        console.error("Random article error:", error);
         return new Response("Internal server error", { status: 500 });
     }
 
