@@ -7,6 +7,7 @@ import remarkGfm from 'remark-gfm';
 import ItemCard from '../../../components/ItemCard';
 import { Metadata } from 'next';
 import { incrementViews } from '@/src/actions/views.action';
+import { getArticleData } from '@/src/actions/articles.action';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
@@ -14,54 +15,9 @@ interface PageProps {
     params: Promise<{ category: string; article: string }>;
 }
 
-const getArticleData = (category: string, slug: string) => {
-    const filePath = path.join(articlesDirectory, category, `${slug}.md`);
-
-    if (!fs.existsSync(filePath)) return null;
-
-    const fileContent = fs.readFileSync(filePath, 'utf8');
-    const { data, content } = matter(fileContent);
-
-    const lines = content.split('\n').map(line => line.trim());
-
-    let extractedTitle = data.title;
-    let titleLineIndex = -1;
-
-    if (!extractedTitle) {
-        titleLineIndex = lines.findIndex(line => line.startsWith('# '));
-        if (titleLineIndex !== -1) {
-            extractedTitle = lines[titleLineIndex].replace('# ', '').trim();
-        }
-    } else {
-        titleLineIndex = lines.findIndex(line => line.startsWith('# '));
-    }
-
-    let extractedDescription = data.description;
-
-    if (!extractedDescription) {
-        const firstParagraph = lines.slice(titleLineIndex + 1).find(line => line.length > 0);
-        
-        if (firstParagraph) {
-            extractedDescription = firstParagraph
-                .replace(/[#*`_~]/g, '')
-                .replace(/\[(.*?)\]\(.*?\)/g, '$1')
-                .slice(0, 160);
-        }
-    }
-
-    return { 
-        data: { 
-            ...data, 
-            title: extractedTitle || slug,
-            description: extractedDescription || "Unofficial Destiny PSOBB strategy guide website"
-        },
-        content 
-    };
-}
-
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
     const { category, article } = await params;
-    const articleData = getArticleData(category, article);
+    const articleData = await getArticleData(category, article);
 
     if (!articleData) return { title: "Not found" };
 
@@ -74,7 +30,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 export default async function ArticlePage({ params }: PageProps) {
     const { category, article } = await params;
     
-    const itemData = getArticleData(category, article);
+    const itemData = await getArticleData(category, article);
 
     if (!itemData) {
         notFound();
