@@ -7,8 +7,6 @@ const MAX_ARTICLES = 12
 const MostViewed = async () => {
     const views: ArticleViews[] = await getAllArticleViews();
 
-    console.log(views)
-
     return (
         <div>
             <h2>

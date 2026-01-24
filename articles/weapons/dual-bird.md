@@ -14,7 +14,4 @@ When [Jointparts](/units/jointparts) are equipped, they become strong long range
 
 ### Item Combination
 
-| Material 1 | Grind | Material 2 | Class | Stats | Result |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Master Raven](https://wiki.pioneer2.net/w/Master_Raven) | +9 | [Last Swan](https://wiki.pioneer2.net/w/Last_Swan) | Male Ranger | Level 100, 210 ATA | Dual Bird |
-| [Last Swan](https://wiki.pioneer2.net/w/Last_Swan) | +9 | [Master Raven](https://wiki.pioneer2.net/w/Master_Raven) | Female Ranger or [HUcaseal](/classes/hucaseal) | Level 100, 210 ATA | Dual Bird |
+Dual Bird can be made by a level 100 Ranger with at least 210 ATA (or a [HUcaseal](/classes/hucaseal) with the same stats if equipping Last Swan) by equipping either [Master Raven](https://wiki.pioneer2.net/w/Master_Raven) or [Last Swan](https://wiki.pioneer2.net/w/Last_Swan), and then using the left out weapon from the inventory. All stats from the equipped weapon will be transfered over. The equipped weapon must be ground up to +9.

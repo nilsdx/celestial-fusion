@@ -8,7 +8,4 @@
 
 ## Availability
 
-| Material 1 | Grind | Material 2 | Class | Stats | Result |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Handgun:Guld](https://wiki.pioneer2.net/w/Handgun:_Guld) | +9 | [Handgun:Milla](https://wiki.pioneer2.net/w/Handgun:_Milla) | Any Ranger | Level 100, 190 ATA | Guld Milla |
-| [Handgun:Milla](https://wiki.pioneer2.net/w/Handgun:_Milla) | +9 | [Handgun:Guld](https://wiki.pioneer2.net/w/Handgun:_Guld) | Any Ranger | Level 100, 190 ATA | Guld Milla |
+Guld Milla can be made by a level 100 Ranger with at least 190 ATA by equipping either [Handgun:Guld](https://wiki.pioneer2.net/w/Handgun:_Guld) or [Handgun:Milla](https://wiki.pioneer2.net/w/Handgun:_Milla), and then using the left out weapon from the inventory. All stats from the equipped weapon will be transfered over. The equipped weapon must be ground up to +9.

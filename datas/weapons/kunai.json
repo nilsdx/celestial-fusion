@@ -1,0 +1,22 @@
+{
+    "name": "Kunai",
+    "icon": "hu",
+    "image": "",
+    "type": "Card",
+    "requirement": "900 412",
+    "grind": 0,
+    "targets": 1,
+    "special": "Arrest",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "95-175"
+        },
+        {
+            "label": "ATA",
+            "value": "32"
+        }
+    ],
+    "classes": "111111111111",
+    "description": "An old tool, now a weapon, used by ninja clans in days gone by."
+}

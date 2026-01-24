@@ -1,0 +1,22 @@
+{
+    "name": "Hell Striker",
+    "icon": "ra",
+    "image": "",
+    "type": "Handgun",
+    "requirement": "120 ATA",
+    "grind": 0,
+    "targets": 1,
+    "special": "Hell",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "380-380"
+        },
+        {
+            "label": "ATA",
+            "value": "60"
+        }
+    ],
+    "classes": "111111110000",
+    "description": "Based on a corrupted set of secret blueprints, this handgun is capable of slaying any nearby foe in one shot."
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Hellion Sword",
+    "icon": "hu",
+    "image": "",
+    "type": "Sword",
+    "requirement": "380 ATP",
+    "grind": 31,
+    "targets": 10,
+    "special": "None",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "450-550"
+        },
+        {
+            "label": "ATA",
+            "value": "45"
+        }
+    ],
+    "classes": "111111111111",
+    "description": "A fiendish sword from the underworld."
+}

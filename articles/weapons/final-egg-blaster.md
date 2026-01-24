@@ -1,6 +1,6 @@
 # Final Egg Blaster
 
-Final Egg Blaster are rare Mechguns that are two Egg Blasters in one weapon.
+Final Egg Blaster (also known as FEB) are rare Mechguns that are two Egg Blasters in one weapon.
 
 They have the widest angle out of all mechguns, and their special, Final Explosion, triggers when the owner is bellow 12.5% HP, where every single shot will have another projectile added that explodes like a Bazooka on impact, hitting everything in a wide area around.
 

@@ -23,7 +23,4 @@ Their set effect with [Jointparts](/units/jointparts) gives tremendous range and
 
 ### Item Combination
 
-| Material 1 | Grind | Material 2 | Class | Stats | Result |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Taste of Affection](/weapons/taste-of-affection) | +15 | [Passion Haze](/weapons/passion-haze) | All | Any | Celestial Fusion |
-| [Passion Haze](/weapons/passion-haze) | +15 | [Taste of Affection](/weapons/taste-of-affection) | All | Any | Celestial Fusion |
+Celestial Fusion can be made by any character by equipping either [Taste of Affection](/weapons/taste-of-affection) or [Passion Haze](/weapons/passion-haze), and then using the left out weapon from the inventory. All stats from the equipped weapon will be transfered over. The equipped weapon must be ground up to +15.
