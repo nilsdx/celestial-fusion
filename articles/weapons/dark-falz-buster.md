@@ -7,4 +7,5 @@ Dark Falz Buster is a rare Twin Sword. It is currently unobtainable, despite it 
 This weapon is currently unobtainable.
 
 ## Trivia
+- The blades are based off of [Dark Falz (phase 3)](/enemies/dark-falz)'s arms.
 - This weapon used to be an old Dark Falz drop early into Destiny PSOBB's lifespan, but got replaced for other drops, being completely removed from the game.

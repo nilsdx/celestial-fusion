@@ -4,13 +4,13 @@ Ill Gill Reaper (also known as IGR) is a rare partisan.
 
 Ill Gill Reaper has three different specials that can be used, depending on the attack type: Tempest with Normal Attacks, Blizzard with Heavy Attacks, and Unreduced Hell with Special Attacks.
 
-When equipping [Chaos Engine](/items/chaos-engine), it becomes one of the strongest Hell Weapon in the game.
+When equipping [Chaos Engine](/units/chaos-engine), it becomes one of the strongest Hell Weapon in the game.
 
 ## Set Effect
 
 | Item | Effect |
 | ----------- | ----------- |
-| [Chaos Engine](/items/chaos-engine) | Hits: 2-2-3(Normal) / 2-2-2(Heavy/Special), Animation: Custom, Targets: 6, Speed+15%, Buffed Angle |
+| [Chaos Engine](/units/chaos-engine) | Hits: 2-2-3(Normal) / 2-2-2(Heavy/Special), Animation: Custom, Targets: 6, Speed+15%, Buffed Angle |
 
 ## Availability
 

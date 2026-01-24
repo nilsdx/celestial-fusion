@@ -2,7 +2,7 @@
 
 Death Cannon is a rare Handgun that looks like a hand cannon.
 
-With Destiny PSOBB heavily favoring Berserk over Charge, it is outclassed by [Heaven Striker](https://wiki.pioneer2.net/w/Heaven_Striker) when it comes to Rangers. On HUcast and HUcaseal, Death Cannon becomes a decent trap shooting option, despite competing against [Hell Striker](/items/hell-striker)
+With Destiny PSOBB heavily favoring Berserk over Charge, it is outclassed by [Heaven Striker](https://wiki.pioneer2.net/w/Heaven_Striker) when it comes to Rangers. On HUcast and HUcaseal, Death Cannon becomes a decent trap shooting option, despite competing against [Hell Striker](/weapons/hell-striker)
 
 ## Availability
 

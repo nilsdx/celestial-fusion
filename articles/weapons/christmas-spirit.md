@@ -1,6 +1,6 @@
 # Christmas Spirit
 
-Christmas Spirit is a rare Shot that behaves similarly to [L&K38 Combat](/items/lk38-combat), but equippable by all classes, and with a damage increase special in the form of Spirit.
+Christmas Spirit is a rare Shot that behaves similarly to [L&K38 Combat](/weapons/lk38-combat), but equippable by all classes, and with a damage increase special in the form of Spirit.
 
 It is a staple for a lot of classes as its projectiles bypassing manual evasion.
 

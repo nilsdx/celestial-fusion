@@ -2,7 +2,7 @@
 
 Armageddon are rare mechguns. Their special are Charge, but the projectiles automatically targets enemies.
 
-With Destiny PSOBB heavily favoring Berserk over Charge, Armageddon are outclassed by other Berserk alternatives, and [Final Egg Blaster](/items/final-egg-blaster).
+With Destiny PSOBB heavily favoring Berserk over Charge, Armageddon are outclassed by other Berserk alternatives, and [Final Egg Blaster](/weapons/final-egg-blaster).
 
 ## Availability
 

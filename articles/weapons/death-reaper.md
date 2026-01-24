@@ -2,7 +2,7 @@
 
 Death Reaper is a rare Partisan that looks like Soul Banish, but black and red.
 
-It is strictly outclassed by [Ill Gill Reaper](/items/ill-gill-reaper), as they both share a Hell special, but Ill Gill is more accurate since it has unreduced Hell and 2 more ATA points.
+It is strictly outclassed by [Ill Gill Reaper](/weapons/ill-gill-reaper), as they both share a Hell special, but Ill Gill is more accurate since it has unreduced Hell and 2 more ATA points.
 
 ## Technique Boosts
 
