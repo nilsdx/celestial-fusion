@@ -21,7 +21,7 @@ export default async function SearchPage({
     const searchParamsResult = await searchArticles(query);
 
     return (
-        <Suspense fallback={<div className="m-6">Loading...</div>}>
+        <Suspense fallback={<div className="m-6 w-full">Loading...</div>}>
             <div className="m-6 w-full">
                 <h2 className="text-2xl">Search result for: {query}</h2>
                 <hr/>

@@ -1,0 +1,22 @@
+{
+    "name": "Boondock Saints",
+    "icon": "ra",
+    "image": "",
+    "type": "Mechgun",
+    "requirement": "190 ATA",
+    "grind": 50,
+    "targets": 1,
+    "special": "Hell",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "430"
+        },
+        {
+            "label": "ATA",
+            "value": "40"
+        }
+    ],
+    "classes": "000011110000",
+    "description": "Sourced from an underground arms dealer, this powerful set of guns is capable of great offense and defense."
+}
