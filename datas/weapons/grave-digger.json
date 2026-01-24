@@ -1,0 +1,22 @@
+{
+    "name": "Grave Digger",
+    "icon": "ra",
+    "image": "",
+    "type": "Needle",
+    "requirement": "190 ATA",
+    "grind": 9,
+    "targets": 5,
+    "special": "Demon's",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "400-460"
+        },
+        {
+            "label": "ATA",
+            "value": "40"
+        }
+    ],
+    "classes": "000011110000",
+    "description": "A ghastly shotgun with exceptional range. Its special attack fires highly lethal bullets which can send your enemies to their graves."
+}

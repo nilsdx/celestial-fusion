@@ -1,0 +1,22 @@
+{
+    "name": "Excalibur",
+    "icon": "hu",
+    "image": "",
+    "type": "Saber",
+    "requirement": "800 ATP",
+    "grind": 0,
+    "targets": 3,
+    "special": "Berserk",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "900-950"
+        },
+        {
+            "label": "ATA",
+            "value": "60"
+        }
+    ],
+    "classes": "111111111111",
+    "description": "A golden sword that gets even more powerful as HP drops."
+}
