@@ -14,7 +14,7 @@ interface PageProps {
     params: Promise<{ category: string; article: string }>;
 }
 
-function getArticleData(category: string, slug: string) {
+const getArticleData = (category: string, slug: string) => {
     const filePath = path.join(articlesDirectory, category, `${slug}.md`);
 
     if (!fs.existsSync(filePath)) return null;
@@ -90,7 +90,6 @@ export default async function ArticlePage({ params }: PageProps) {
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
-                <p>Views: {views}</p>
             </article>
             <ItemCard item={article}/>
         </div>
