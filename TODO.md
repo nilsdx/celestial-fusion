@@ -10,7 +10,7 @@
     - [ ] Middleware
     - [ ] Articles organization
 - [ ] Styling
-- [ ] Search function
+- [x] Search function
 
 # Articles
 

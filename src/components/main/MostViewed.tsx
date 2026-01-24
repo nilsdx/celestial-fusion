@@ -15,7 +15,7 @@ const MostViewed = async () => {
                 Most viewed
             </h2>
             <div className="grid grid-cols-4 gap-2 text-center">
-                {views.slice(0,MAX_ARTICLES-1).map((a) => (
+                {views.slice(0,MAX_ARTICLES).map((a) => (
                     <Link
                         key={`${a.slug}-viewcount`}
                         href={`/${a.category}/${a.slug}`}
