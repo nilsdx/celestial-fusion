@@ -15,6 +15,10 @@
         {
             "label": "ATA",
             "value": "70"
+        },
+        {
+            "label": "MST",
+            "value": "30"
         }
     ],
     "classes": "000011110000",
