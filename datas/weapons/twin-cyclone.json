@@ -1,0 +1,22 @@
+{
+    "name": "Twin Cyclone",
+    "icon": "hu",
+    "image": "",
+    "type": "Dagger",
+    "requirement": "800 ATP",
+    "grind": 14,
+    "targets": 3,
+    "special": "Freeze Mist",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "645-715"
+        },
+        {
+            "label": "ATA",
+            "value": "50"
+        }
+    ],
+    "classes": "111100000000",
+    "description": "Twin daggers imbued with the destructive capabilities of a cold hearted goddess."
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Yasminkov 7000V",
+    "icon": "ra",
+    "image": "",
+    "type": "Rifle",
+    "requirement": "190 ATA",
+    "grind": 25,
+    "targets": 1,
+    "special": "None",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "370-450"
+        },
+        {
+            "label": "ATA",
+            "value": "67"
+        }
+    ],
+    "classes": "000011110000",
+    "description": "An antique model that's popular among certain hardcore fans. The power is as strong as the new model."
+}

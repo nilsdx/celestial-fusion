@@ -1,0 +1,22 @@
+{
+    "name": "Rathalos Greatsword",
+    "icon": "hu",
+    "image": "",
+    "type": "Sword",
+    "requirement": "1200 ATP",
+    "grind": 15,
+    "targets": 10,
+    "special": "Explosion",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "900"
+        },
+        {
+            "label": "ATA",
+            "value": "55"
+        }
+    ],
+    "classes": "111100000000",
+    "description": "A legendary sword made from a Rathalos. It has the power to explode a target, dealing damage to enemies around it."
+}

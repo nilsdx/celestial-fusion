@@ -3,7 +3,7 @@
     "icon": "hu",
     "image": "",
     "type": "Slicer",
-    "requirement": "820 AT",
+    "requirement": "820 ATP",
     "grind": 9,
     "targets": 4,
     "special": "Devil's",

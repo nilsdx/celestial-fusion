@@ -7,6 +7,12 @@
 | Rafoie | Power +30% |
 | Megid | Penetration |
 
+## Set Effect
+
+| Item | Effect |
+| ----------- | ----------- |
+| [Hallowed Garment](/frames/hallowed-garment), [Haunted Helm](/barriers/haunted-helm)  | ATP +387, ATA +21 |
+
 ## Availability
 
 ### Event (Halloween)

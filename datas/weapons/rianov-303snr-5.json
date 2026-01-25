@@ -1,0 +1,22 @@
+{
+    "name": "Rianov 303SNR-5",
+    "icon": "ra",
+    "image": "",
+    "type": "Rifle",
+    "requirement": "194 ATA",
+    "grind": 0,
+    "targets": 1,
+    "special": "Dark",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "550"
+        },
+        {
+            "label": "ATA",
+            "value": "70"
+        }
+    ],
+    "classes": "000011110000",
+    "description": "A high end sniper rifle from the old world, upgraded to output damage rivalling even modern technology. Serial No.1000"
+}
