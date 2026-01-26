@@ -1,14 +1,14 @@
 # Paragon Frame
 
-Paragon Frame is a rare Frame that boosts Shifta and Deband's level by 5, making level 35 reachable.
+Paragon Frame is a rare Frame that boosts Shifta and Deband's level by 5, making level 35 reachable, and also boosts Resta's healing power by 800 more HP.
 
-Paired with a Resta Power Boost, it is the best support Force armor in the game.
+These effects makes it the best support Force armor in the game, and is mandatory for endgame support Forces.
 
 ## Technique Boosts
 
 | Technique | Boost |
 | ----------- | ----------- |
-| Resta | Power +800 |
+| Resta | Heals 800 more HP (flat) |
 
 ## Set Effect
 
