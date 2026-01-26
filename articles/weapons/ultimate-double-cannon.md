@@ -13,7 +13,7 @@ Ultimate Double Cannon has two cosmetic variants that can be acquired by combini
 
 | Item | Effect |
 | ----------- | ----------- |
-| [Jointparts](/units/jointparts) | Animation: Dagger, Hits: 2-2-2, Targets: 5, Buffed Angle, Buffed Special Range (no value) |
+| [Jointparts](/units/jointparts) | Speed: +15%, Buffed Range/Angle of Special Attack, Targets: 5, ATA +20, [Satellite Lizards](/enemies/satellite-lizard) and [Yowies](/enemies/yowie) can now be hit by Ultimate Destruction |
 
 ## Trivia
 

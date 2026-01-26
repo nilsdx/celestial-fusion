@@ -4,4 +4,4 @@
 
 | Item | Effect |
 | ----------- | ----------- |
-| [Raster Scope](/units/vector-scope) | Range -70.0, Hits: 3-3-3 |
+| [Raster Scope](/units/raster-scope) | Range -70.0, Hits: 3-3-3 |
