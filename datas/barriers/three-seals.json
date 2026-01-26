@@ -1,0 +1,25 @@
+{
+    "name": "Three Seals",
+    "icon": "barrier",
+    "type": "Barrier",
+    "requirement": "Level 100",
+    "stats": [
+        {
+            "label": "DFP",
+            "value": "140"
+        },
+        {
+            "label": "EVP",
+            "value": "145"
+        }
+    ],
+    "resistances": {
+        "efr": 33,
+        "eth": 33,
+        "eic": 33,
+        "edk": 33,
+        "elt": 33
+    },
+    "classes": "000000001111",
+    "description": "This shield contains great magic, suppressed by three seals which protects the user from harm."
+}
