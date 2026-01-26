@@ -4,7 +4,7 @@ Dark Bridge is a rare Rod that is part of the 'Dark' weapon trio. It is not a De
 
 It is one of the best RA techniques boosting weapon in the game, surpassing the infamous [Psycho Wand](https://wiki.pioneer2.net/w/Psycho_Wand).
 
-It can be enhanced further by equipping [Parasitic Armor "Predator"](/frames/parasitic-armor-predator), giving it new animations.
+It can be enhanced further by equipping [Parasitic Armor 'Predator'](/frames/parasitic-armor-predator), giving it new animations.
 
 ## Technique Boosts
 
@@ -19,7 +19,7 @@ It can be enhanced further by equipping [Parasitic Armor "Predator"](/frames/par
 
 | Item | Effect |
 | ----------- | ----------- |
-| [Parasitic Armor "Predator"](/frames/parasitic-armor-predator) | When the owner's HP is low -> Hits: 1-1-4, Animation: Custom |
+| [Parasitic Armor 'Predator'](/frames/parasitic-armor-predator) | When the owner's HP is low -> Hits: 1-1-4, Animation: Custom |
 
 ## Availability
 

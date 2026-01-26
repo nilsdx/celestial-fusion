@@ -1,0 +1,25 @@
+{
+    "name": "Astral Cloak",
+    "icon": "frame",
+    "type": "Frame",
+    "requirement": "Level 200",
+    "stats": [
+        {
+            "label": "DFP",
+            "value": "255"
+        },
+        {
+            "label": "EVP",
+            "value": "255"
+        }
+    ],
+    "resistances": {
+        "efr": 35,
+        "eth": 35,
+        "eic": 35,
+        "edk": 35,
+        "elt": 35
+    },
+    "classes": "111111111111",
+    "description": "A Divine armor that significantly boosts power of Si, Gi techs and Rabarta."
+}
