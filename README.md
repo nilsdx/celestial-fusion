@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<img src="public/images/logo.png" alt="Logo" width="200" height="auto" />
 
-## Getting Started
+Project Name
 
-First, run the development server:
+My Strategy Guide website for the Destiny Phantasy Star Online Blue Burst private server
 
+<details>
+<summary>Screenshots</summary>
+<p>Insert screen 1 here</p>
+<p>Insert screen 2 here</p>
+<p>Insert screen 3 here</p>
+</details>
+
+- [About the Project](#about-the-project)
+  * [Screenshots](#camera-screenshots)
+  * [Stack](#stack)
+  * [Features](#features)
+- [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+  * [Run Locally](#run-locally)
+  * [Deployment](#deployment)
+- [Usage](#usage)
+- [Contributing](#wave-contributing)
+- [FAQ](#faq)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## About the project
+
+## Stack
+
+- TypeScript
+- Next.js
+- SQLite3 w/ Prisma
+- TailwindCSS, and CSS3 for Markdown styling
+- Lucide React
+
+## Run locally
+
+### Prerequisites
+
+- Node.js version 23 or later
+
+### Installation
+
+After cloning this repository, install all dependencies
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm i
+```
+Setup the Database
+```bash
+npm run setup
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Run the local server
+```bash
+npm run dev
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Then access [127.0.0.1:3000](127.0.0.1:3000) to see the result.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Contributing
 
-## Learn More
+You can contribute to articles by creating [Pull Requests](https://github.com/nilsdx/linis-archives/pulls), which will be manually reviewed.
 
-To learn more about Next.js, take a look at the following resources:
+See [CONTRIBUTING.md](/CONTRIBUTING.md) for more informations.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Acknowledgements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [The Destiny PSOBB Development Team](https://www.playpso.net)
+- [The Ephinea Wiki (for informations about certain vanilla items)](https://wiki.pioneer2.net/)
