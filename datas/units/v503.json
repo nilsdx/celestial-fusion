@@ -1,0 +1,14 @@
+{
+    "name": "V503",
+    "icon": "unit",
+    "type": "Unit",
+    "requirement": "None",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "5"
+        }
+    ],
+    "classes": "111111111111",
+    "description": "This unit increases the success rate of special attacks. In addition, raises ATA for Hunters and Forces using ranged attacks."
+}

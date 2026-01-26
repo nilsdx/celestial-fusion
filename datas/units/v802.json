@@ -1,0 +1,14 @@
+{
+    "name": "V802",
+    "icon": "unit",
+    "type": "Unit",
+    "requirement": "None",
+    "stats": [
+        {
+            "label": "MST",
+            "value": "80"
+        }
+    ],
+    "classes": "111111111111",
+    "description": "When equipped, this unit significantly decreases techinque casting time."
+}
