@@ -1,0 +1,15 @@
+{
+    "name": "Ignis Engine",
+    "icon": "unit",
+    "type": "Unit",
+    "requirement": "None",
+    "resistances": {
+        "efr": 15,
+        "eth": 0,
+        "eic": 0,
+        "edk": 0,
+        "elt": 0
+    },
+    "classes": "111111111111",
+    "description": "A destructive device built by Dr. Robotonik. It's said it empowers certain flame weapons..."
+}
