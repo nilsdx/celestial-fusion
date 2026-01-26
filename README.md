@@ -11,21 +11,6 @@ My Strategy Guide website for the Destiny Phantasy Star Online Blue Burst privat
 <p>Insert screen 3 here</p>
 </details>
 
-- [About the Project](#about-the-project)
-  * [Screenshots](#camera-screenshots)
-  * [Stack](#stack)
-  * [Features](#features)
-- [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-  * [Run Locally](#run-locally)
-  * [Deployment](#deployment)
-- [Usage](#usage)
-- [Contributing](#wave-contributing)
-- [FAQ](#faq)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ## About the project
 
 ## Stack
