@@ -3,7 +3,7 @@ import FooterCard from "./FooterCard";
 
 const Footer = () => {
     return (
-        <footer className="bg-yellow-900 text-white p-8 w-full space-y-4">
+        <footer className="bg-slate-900 text-slate-200 p-8 w-full space-y-4">
             <div className="flex justify-center space-x-4">
                 <FooterCard 
                     link="https://github.com/nilsdx/linis-archives"
@@ -22,7 +22,7 @@ const Footer = () => {
                 <p className="text-center text-white/55">
                     © 2026 Nils Durieux. All rights reserved.
                 </p>
-                <div className="flex justify-center space-x-4 text-amber-200">
+                <div className="flex justify-center space-x-4 text-slate-200">
                     <Link
                         href="/privacy"
                     >

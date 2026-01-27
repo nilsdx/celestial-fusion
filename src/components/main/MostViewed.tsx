@@ -17,7 +17,7 @@ const MostViewed = async () => {
                     <Link
                         key={`${a.slug}-viewcount`}
                         href={`/${a.category}/${a.slug}`}
-                        className="bg-amber-200 p-2"
+                        className="bg-red-500 p-2 text-slate-100"
                     >
                         {a.name}
                     </Link>

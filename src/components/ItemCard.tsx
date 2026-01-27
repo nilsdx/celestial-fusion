@@ -16,11 +16,16 @@ const ItemCard: React.FC<ItemCardProps> = async ({item, category}) => {
     }
 
     return (
-        <div className="flex flex-col items-center m-4 bg-amber-200 absolute right-0 w-64 p-4">
+        <div className="flex flex-col items-center m-4 bg-sky-950 p-4 text-slate-200 h-fit flex-1">
             <p>{itemDatas.name}</p>
-            {itemDatas.image && (
-                <Image src={itemDatas.image} alt={`${itemDatas.name} image`} width={300} height={200}/>
-            )}
+            <div className="flex flex-col items-center bg-sky-800 p-2 space-y-2">
+                {itemDatas.image && (
+                    <Image src={itemDatas.image} alt={`${itemDatas.name} image`} width={300} height={200}/>
+                )}
+                <p className="italic text-center text-sm">
+                    {itemDatas.description}
+                </p>
+            </div>
             <p>Type : {itemDatas.type}</p>
             <p>Requirements : {itemDatas.requirement}</p>
             {itemDatas.grind !== undefined && (
@@ -67,9 +72,6 @@ const ItemCard: React.FC<ItemCardProps> = async ({item, category}) => {
                 </div>
             )}
             <AvailableClasses classes={itemDatas.classes}/>
-            <p className="italic">
-                {itemDatas.description}
-            </p>
         </div>
     )
 

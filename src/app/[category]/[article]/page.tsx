@@ -41,8 +41,8 @@ export default async function ArticlePage({ params }: PageProps) {
     const views = await incrementViews(data.title, category, article);
 
     return (
-        <div className="flex w-full justify-between">
-            <article className="m-6 article-styling">
+        <div className="flex w-full">
+            <article className="m-6 article-styling flex-4 min-w-0">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
