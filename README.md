@@ -17,7 +17,6 @@ My Strategy Guide website for the Destiny Phantasy Star Online Blue Burst privat
 
 - TypeScript
 - Next.js
-- SQLite3 w/ Prisma
 - TailwindCSS, and CSS3 for Markdown styling
 - Lucide React
 
@@ -32,10 +31,6 @@ My Strategy Guide website for the Destiny Phantasy Star Online Blue Burst privat
 After cloning this repository, install all dependencies
 ```bash
 npm i
-```
-Setup the Database
-```bash
-npm run setup
 ```
 
 Run the local server

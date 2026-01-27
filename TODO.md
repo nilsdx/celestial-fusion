@@ -3,7 +3,6 @@
 - [x] Redo the article routing/organization process
 - [ ] Home page
     - [ ] Categories and links to most places
-    - [x] Most viewed
     - [x] Random page
 - [ ] Translations
     - [ ] Progress tracker
@@ -12,6 +11,11 @@
 - [ ] Styling
 - [x] Search function
 - [ ] CI/CD pipeline (this way I can exercise myself in that department since I've only done Gitlab pipelines so far)
+
+# Tools
+
+- [ ] Stats calculator (because rollandrate isn't up to date)
+- [ ] Combo calculator (if possible)
 
 # Articles
 

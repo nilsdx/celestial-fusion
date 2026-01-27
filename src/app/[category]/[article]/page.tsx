@@ -1,12 +1,10 @@
 import fs from 'fs';
 import path from 'path';
-import matter from 'gray-matter';
 import ReactMarkdown from 'react-markdown';
 import { notFound } from 'next/navigation';
 import remarkGfm from 'remark-gfm';
 import ItemCard from '../../../components/ItemCard';
 import { Metadata } from 'next';
-import { incrementViews } from '@/src/actions/views.action';
 import { getArticleData } from '@/src/actions/articles.action';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
@@ -37,8 +35,6 @@ export default async function ArticlePage({ params }: PageProps) {
     }
 
     const { data, content } = itemData;
-
-    const views = await incrementViews(data.title, category, article);
 
     return (
         <div className="flex w-full">
