@@ -11,14 +11,18 @@
     - [ ] Articles organization
 - [ ] Styling
 - [x] Search function
+- [ ] CI/CD pipeline (this way I can exercise myself in that department since I've only done Gitlab pipelines so far)
 
 # Articles
 
 Note: articles should only take care of Destiny exclusive content, or things buffed in this server (such as enemies or weapons)
-- [ ] Write all item articles
-- [ ] Write all enemy articles
-- [ ] Write all quest articles
-- [ ] Write all class articles
+
+- [ ] Add range and angles whenever we can on weapons
+- [ ] Add articles on items
+- [ ] Add articles on mags
+- [ ] Add articles on events (Halloween, Christmas, Valentine, Easter, Summer, Anniversary, Mini events)
+
+- [ ] Crates guide
 
 - [ ] Destiny server features guide
 - [ ] Commands guide
