@@ -1,8 +1,8 @@
 <img src="public/images/logo.png" alt="Logo" width="200" height="auto" />
 
-Project Name
+Celestial
 
-My Strategy Guide website for the Destiny Phantasy Star Online Blue Burst private server
+Unofficial database for the Destiny Phantasy Star Online Blue Burst private server
 
 <details>
 <summary>Screenshots</summary>

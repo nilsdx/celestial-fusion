@@ -7,7 +7,7 @@ import path from "path";
 
 export const metadata: Metadata = {
   title: "Privacy policy - Celestial Fusion",
-  description: "Unofficial Destiny PSOBB strategy guide website",
+  description: "Unofficial database for the Destiny Phantasy Star Online Blue Burst private server",
 };
 
 export default async function PrivacyPage() {

@@ -9,6 +9,9 @@ const Sidebar = () => {
             <Link href="/api/random">
                 Random page
             </Link>
+            <Link href="/contribute">
+                How to contribute
+            </Link>
         </div>
     )
 }

@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Celestial Fusion",
-  description: "Unofficial Destiny PSOBB strategy guide website",
+  description: "Unofficial database for the Destiny Phantasy Star Online Blue Burst private server",
 };
 
 export default function RootLayout({

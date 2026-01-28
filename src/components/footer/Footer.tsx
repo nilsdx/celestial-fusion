@@ -3,7 +3,7 @@ import FooterCard from "./FooterCard";
 
 const Footer = () => {
     return (
-        <footer className="bg-slate-900 text-slate-200 p-8 w-full space-y-4">
+        <footer className="bg-sky-950 text-slate-200 p-8 w-full space-y-4">
             <div className="flex justify-center space-x-4">
                 <FooterCard 
                     link="https://github.com/nilsdx/celestial-fusion"

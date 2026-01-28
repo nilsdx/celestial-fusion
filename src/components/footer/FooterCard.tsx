@@ -13,7 +13,7 @@ const FooterCard: React.FC<FooterCardProps> = ({link, label, icon, size}) => {
         <Link 
             href={link}
             target="_blank"
-            className="bg-white/20 w-40 p-4 flex flex-col items-center justify-between"
+            className="bg-white/20 w-40 p-4 flex flex-col items-center justify-between rounded-lg"
         >
             <p className="text-center">
                 {label}
