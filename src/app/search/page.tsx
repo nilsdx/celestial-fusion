@@ -1,4 +1,5 @@
 import { searchArticles } from "@/src/actions/articles.action";
+import Card from "@/src/components/Card";
 import Link from "next/link";
 import { Suspense } from "react";
 
@@ -22,23 +23,23 @@ export default async function SearchPage({
 
     return (
         <Suspense fallback={<div className="m-6 w-full">Loading...</div>}>
-            <div className="m-6 w-full">
-                <h2 className="text-2xl">Search result for: {query}</h2>
+            <div className="m-6 space-y-2">
+                <h2 className="text-4xl">Search result for: {query}</h2>
                 <hr/>
-                <div>
+                <div className="space-y-4">
                     {searchParamsResult.map((res, i) => (
-                        <div
-                            key={`result-${i}`}
-                            className="bg-black/25 m-4 p-4"
-                        >
-                            <Link
-                                href={`/${res.category}/${res.slug}`}
-                                className="text-2xl"
-                            >
-                                {res.title}
-                            </Link>
-                            <p>{res.description}</p>
-                        </div>
+                        <Card key={`result-${i}`}>
+                            <div className="p-2">
+                                <Link
+                                    href={`/${res.category}/${res.slug}`}
+                                    className="text-2xl"
+                                >
+                                    {res.title}
+                                </Link>
+                                <p>{res.description}</p>
+                            </div> 
+                            
+                        </Card>
                     ))}
                 </div>
             </div>
