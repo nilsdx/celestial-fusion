@@ -6,7 +6,7 @@ import { Metadata } from "next";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "Privacy policy - Linis's Archives",
+  title: "Privacy policy - Celestial Fusion",
   description: "Unofficial Destiny PSOBB strategy guide website",
 };
 

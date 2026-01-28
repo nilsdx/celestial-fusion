@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     if (!articleData) return { title: "Not found" };
 
     return {
-        title: `${articleData.data.title} - Linis's Archives`,
+        title: `${articleData.data.title} - Celestial Fusion`,
         description: articleData.data.description,
     };
 }

@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Linis's Archives",
+  title: "Celestial Fusion",
   description: "Unofficial Destiny PSOBB strategy guide website",
 };
 

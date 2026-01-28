@@ -42,7 +42,7 @@ Then access [127.0.0.1:3000](127.0.0.1:3000) to see the result.
 
 ## Contributing
 
-You can contribute to articles by creating [Pull Requests](https://github.com/nilsdx/linis-archives/pulls), which will be manually reviewed.
+You can contribute to articles by creating [Pull Requests](https://github.com/nilsdx/celestial-fusion/pulls), which will be manually reviewed.
 
 See [CONTRIBUTING.md](/CONTRIBUTING.md) for more informations.
 
