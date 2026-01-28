@@ -37,7 +37,7 @@ export default async function ArticlePage({ params }: PageProps) {
     const { data, content } = itemData;
 
     return (
-        <div className="flex w-full">
+        <div className="flex min-h-screen">
             <article className="m-6 article-styling flex-4 min-w-0">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}

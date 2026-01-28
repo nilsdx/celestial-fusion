@@ -4,6 +4,7 @@ import "./globals.css";
 import Sidebar from "../components/Sidebar";
 import TopBar from "../components/header/TopBar";
 import Footer from "../components/footer/Footer";
+import SearchBar from "../components/header/SearchBar";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -31,9 +32,14 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <TopBar/>
-        <div className="flex min-h-screen">
-          <Sidebar/>
-          {children}
+        <div className="min-h-screen mx-16 my-8 flex flex-col">
+          <SearchBar/>
+          <div className="flex">
+            <Sidebar/>
+            <div className="border w-full">
+              {children}
+            </div>
+          </div>
         </div>
         <Footer/>
       </body>
