@@ -16,7 +16,7 @@ const ItemCard: React.FC<ItemCardProps> = async ({item, category}) => {
     }
 
     return (
-        <div className="flex flex-col items-center m-4 bg-sky-950 p-4 text-slate-200 h-fit flex-1">
+        <div className="flex flex-col items-center m-4 bg-sky-950 p-4 text-slate-200 h-fit w-70">
             <p>{itemDatas.name}</p>
             <div className="flex flex-col items-center bg-sky-800 p-2 space-y-2">
                 {itemDatas.image && (

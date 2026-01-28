@@ -32,11 +32,11 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <TopBar/>
-        <div className="min-h-screen mx-16 my-8 flex flex-col">
+        <div className="min-h-screen mx-16 my-2 flex flex-col">
           <SearchBar/>
           <div className="flex">
             <Sidebar/>
-            <div className="border w-full">
+            <div className="border w-full rounded-lg">
               {children}
             </div>
           </div>
