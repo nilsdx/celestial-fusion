@@ -8,11 +8,11 @@ interface CategoryCardProps {
 }
 export const CategoryCard: React.FC<CategoryCardProps> = ({label, image, href}) => {
     return (
-        <div className="relative w-48 h-48 overflow-hidden group">
+        <div className="relative w-40 h-40 overflow-hidden group">
             <Link
                 href={href}
             >
-                <p className="absolute bottom-0 bg-red-500 w-full z-10 text-white font text-sm p-1">{label}</p>
+                <p className="absolute bottom-0 bg-rose-500 w-full z-10 text-white font text-sm p-1">{label}</p>
                 <Image
                     src={image} alt={`${label} image`}
                     fill
