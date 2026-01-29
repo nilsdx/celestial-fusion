@@ -1,6 +1,6 @@
 <img src="public/images/logo.png" alt="Logo" width="200" height="auto" />
 
-Celestial
+Celestial Fusion
 
 Unofficial database for the Destiny Phantasy Star Online Blue Burst private server
 
@@ -15,10 +15,10 @@ Unofficial database for the Destiny Phantasy Star Online Blue Burst private serv
 
 ## Stack
 
-- TypeScript
-- Next.js
-- TailwindCSS, and CSS3 for Markdown styling
-- Lucide React
+- Language: TypeScript
+- Frameworks: React, Next.js
+- Styling: TailwindCSS, and CSS3 for Markdown styling
+- Icon libraries: Lucide React, React-Icons
 
 ## Run locally
 

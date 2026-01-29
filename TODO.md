@@ -2,8 +2,9 @@
 
 - [x] Redo the article routing/organization process
 - [ ] Home page
-    - [ ] Categories and links to most places
+    - [x] Categories and links to most places
     - [x] Random page
+    - [ ] Latest page updates
 - [ ] Translations
     - [ ] Progress tracker
     - [ ] Middleware

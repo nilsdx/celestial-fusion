@@ -2,7 +2,7 @@ import { CategoryCard } from "./CategoryCard";
 
 const CategoriesSection = () => {
     return (
-        <div className="flex flex-col gap-2 flex-wrap m-2">
+        <div className="flex flex-col gap-2 flex-wrap m-2 flex-1">
             
             <CategoryCard 
                 href="/categories/classes"
