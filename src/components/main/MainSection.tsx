@@ -1,6 +1,7 @@
 import Card from "../Card";
 import CategoriesSection from "./CategoriesSection"
 
+const YOUTUBE_EMBED_TITLE = "What's coming to Destiny PSOBB ?"
 const YOUTUBE_EMBED = "https://www.youtube.com/embed/h2Hjuc0qE_o";
 
 const MainSection = () => {
@@ -24,10 +25,10 @@ const MainSection = () => {
                         <iframe
                             className="w-full h-full"
                             src={YOUTUBE_EMBED}
-                            title="What&#39;s coming to Destiny PSOBB?"
+                            title={YOUTUBE_EMBED_TITLE}
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowFullScreen
-                            ></iframe>
+                        />
                     </div>
                 </Card>
             </div>
