@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --foreround: #ffffff;
+  --background: #232830;
 }
 
 @theme inline {
@@ -34,16 +34,25 @@ body {
 
   table {
     text-align: center;
+    border:solid;
+    border-width:1px;
+    border-radius:24px;
+
     * {
-      border: solid;
       padding: 0 4px;
+    }
+
+    thead {
+      background-color: #3f4b5d;
+    }
+
+    tbody tr:nth-child(even) {
+      background-color: #000000D0;
     }
   }
 
   a {
-    color:darkblue;
     text-decoration: underline;
-    border: unset;
   }
 
   ul li {
