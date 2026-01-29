@@ -12,4 +12,4 @@ While [Tsumiki-J-Sword](/weapons/tsumikiri-j-sword) is buffed and thus is more p
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Skyly | Ultimate | [Del Lily](/enemies/del-lily) | 1/2127.8 |
+| @Skyly | Ultimate | [Del Lily](/enemies/del-lily) | 1/2127.8 |

@@ -14,5 +14,5 @@ Ano Rifle is a rare rifle. It is not a Destiny exclusive weapon. When equipped b
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Greenill | Ultimate | [Epsilon](/enemies/epsilon) | 1/525.13 |
-| Redria | Ultimate | [Sinow Zoa](/enemies/sinow-zoa) | 1/1050.25 |
+| @Greenill | Ultimate | [Epsilon](/enemies/epsilon) | 1/525.13 |
+| @Redria | Ultimate | [Sinow Zoa](/enemies/sinow-zoa) | 1/1050.25 |

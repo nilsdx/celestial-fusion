@@ -14,5 +14,5 @@
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Skyly | Ultimate | [Vol Opt ver.2](/enemies/vol-opt) | 1/73.14 |
-| Redria | Ultimate | [Vol Opt ver.2](/enemies/vol-opt) | 1/73.14 |
+| @Skyly | Ultimate | [Vol Opt ver.2](/enemies/vol-opt) | 1/73.14 |
+| @Redria | Ultimate | [Vol Opt ver.2](/enemies/vol-opt) | 1/73.14 |

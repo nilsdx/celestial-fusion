@@ -16,9 +16,9 @@ It is strictly outclassed by [Ill Gill Reaper](/weapons/ill-gill-reaper), as the
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Purplenum | Very Hard | [Chaos Bringer](https://wiki.pioneer2.net/w/Chaos_Bringer) | 1/517.17 |
-| Viridia | Very Hard | [Dark Belra (Ep1)](https://wiki.pioneer2.net/w/Dark_Belra) | 1/455.11 |
-| Bluefull | Very Hard | [Dark Belra (Ep1)](https://wiki.pioneer2.net/w/Dark_Belra) | 1/455.11 |
-| Greenill | Very Hard | [Goran Detonator](/enemies/goran-detonator) | 417.96 |
-| Yellowboze | Very Hard | [Pyro Goran](/enemies/pyro-goran) | 1/900.22 |
-| Pinkal | Ultimate | [Hildelt (Ep1)](/enemies/hildelt) | 1/900.22 |
+| @Purplenum | Very Hard | [Chaos Bringer](https://wiki.pioneer2.net/w/Chaos_Bringer) | 1/517.17 |
+| @Viridia | Very Hard | [Dark Belra (Ep1)](https://wiki.pioneer2.net/w/Dark_Belra) | 1/455.11 |
+| @Bluefull | Very Hard | [Dark Belra (Ep1)](https://wiki.pioneer2.net/w/Dark_Belra) | 1/455.11 |
+| @Greenill | Very Hard | [Goran Detonator](/enemies/Goran-detonator) | 417.96 |
+| @Yellowboze | Very Hard | [Pyro Goran](/enemies/pyro-Goran) | 1/900.22 |
+| @Pinkal | Ultimate | [Hildelt (Ep1)](/enemies/hildelt) | 1/900.22 |

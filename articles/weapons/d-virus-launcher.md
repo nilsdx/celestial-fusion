@@ -15,15 +15,15 @@ In combination with its Berserk special, it is considered to be the strongest sh
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Bluefull | Ultimate | [Baranz (Ep1)](/enemies/baranz) | 1/3855.05 |
-| Bluefull | Ultimate | [Baranz (Ep2)](/enemies/baranz) | 1/3640.87 |
+| @Bluefull | Ultimate | [Baranz (Ep1)](/enemies/baranz) | 1/3855.05 |
+| @Bluefull | Ultimate | [Baranz (Ep2)](/enemies/baranz) | 1/3640.87 |
 
 ### Event Drops (Easter)
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Viridia | Ultimate | [D-Virus Baranz (Ep1)](/enemies/d-virus-baranz) | 1/1170 |
-| Greenill | Ultimate | [D-Virus Baranz (Ep1)](/enemies/d-virus-baranz) | 1/1170 |
-| Skyly | Ultimate | [D-Virus Baranz (Ep1)](/enemies/d-virus-baranz) | 1/1170 |
-| Bluefull | Ultimate | [D-Virus Baranz (Ep1)](/enemies/d-virus-baranz) | 1/1170 |
-| Purplenum | Ultimate | [D-Virus Baranz (Ep1)](/enemies/d-virus-baranz) | 1/1170 |
+| @Viridia | Ultimate | [D-Virus Baranz (Ep1)](/enemies/d-virus-baranz) | 1/1170 |
+| @Greenill | Ultimate | [D-Virus Baranz (Ep1)](/enemies/d-virus-baranz) | 1/1170 |
+| @Skyly | Ultimate | [D-Virus Baranz (Ep1)](/enemies/d-virus-baranz) | 1/1170 |
+| @Bluefull | Ultimate | [D-Virus Baranz (Ep1)](/enemies/d-virus-baranz) | 1/1170 |
+| @Purplenum | Ultimate | [D-Virus Baranz (Ep1)](/enemies/d-virus-baranz) | 1/1170 |

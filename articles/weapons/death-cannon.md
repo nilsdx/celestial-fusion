@@ -10,5 +10,5 @@ With Destiny PSOBB heavily favoring Berserk over Charge, it is outclassed by [He
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Greenill | Ultimate | [Tollaw](/enemies/tollaw) | 1/900.22 |
-| Yellowboze | Ultimate | [Vol Opt ver.2](/enemies/vol-opt) | 1/73.14 |
+| @Greenill | Ultimate | [Tollaw](/enemies/tollaw) | 1/900.22 |
+| @Yellowboze | Ultimate | [Vol Opt ver.2](/enemies/vol-opt) | 1/73.14 |

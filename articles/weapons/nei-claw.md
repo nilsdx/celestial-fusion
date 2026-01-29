@@ -21,13 +21,13 @@
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Viridia | Ultimate | [Ill Gill](/enemies/ill-gill) | 1/10239.61 |
+| @Viridia | Ultimate | [Ill Gill](/enemies/ill-gill) | 1/10239.61 |
 
 ### Event Drops (Easter)
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Purplenum | Ultimate | [Praetorian IV (LSRex)](/enemies/praetorian-iv) | 1/7500 |
+| @Purplenum | Ultimate | [Praetorian IV (LSRex)](/enemies/praetorian-iv) | 1/7500 |
 
 ### Quest specific Drops
 
@@ -35,4 +35,4 @@
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Viridia | Ultimate | [Girtablubu](/enemies/girtablubu) | 1/7700 |
+| @Viridia | Ultimate | [Girtablubu](/enemies/girtablubu) | 1/7700 |

@@ -22,11 +22,11 @@ Rathalos Greatsword has a cosmetic variant that can be acquired by combining it 
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Pinkal | Ultimate | [Rathalos](/enemies/rathalos) | 1/103 |
-| Redria | Ultimate | [Rathalos](/enemies/rathalos) | 1/103 |
-| Oran | Ultimate | [Rathalos](/enemies/rathalos) | 1/103 |
-| Yellowboze | Ultimate | [Rathalos](/enemies/rathalos) | 1/103 |
-| Whitill | Ultimate | [Rathalos](/enemies/rathalos) | 1/103 |
+| @Pinkal | Ultimate | [Rathalos](/enemies/rathalos) | 1/103 |
+| @Redria | Ultimate | [Rathalos](/enemies/rathalos) | 1/103 |
+| @Oran | Ultimate | [Rathalos](/enemies/rathalos) | 1/103 |
+| @Yellowboze | Ultimate | [Rathalos](/enemies/rathalos) | 1/103 |
+| @Whitill | Ultimate | [Rathalos](/enemies/rathalos) | 1/103 |
 
 ## Trivia
 

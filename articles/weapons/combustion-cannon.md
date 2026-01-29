@@ -16,6 +16,6 @@ While a strong weapon by itself, its main purpose is for Rangers to lower their 
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Viridia | Ultimate | [Indi Belra (Ep1)](/enemies/indi-belra) | 1/910.22 |
-| Greenill | Ultimate | [Girtablubu](/enemies/girtablubu) | 1/787.69 |
-| Viridia | Ultimate | [Saint Million](/enemies/saint-million) | 1/51.2 |
+| @Viridia | Ultimate | [Indi Belra (Ep1)](/enemies/indi-belra) | 1/910.22 |
+| @Greenill | Ultimate | [Girtablubu](/enemies/girtablubu) | 1/787.69 |
+| @Viridia | Ultimate | [Saint Million](/enemies/saint-million) | 1/51.2 |

@@ -8,4 +8,4 @@ Ancient Prophecy is a rare Double Saber. Its special is unique as it casts a lev
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Oran | Ultimate | [Ill Gill](/enemies/ill-gill) | 1/1280 |
+| @Oran | Ultimate | [Ill Gill](/enemies/ill-gill) | 1/1280 |

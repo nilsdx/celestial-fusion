@@ -18,6 +18,6 @@ Excalibur can be acquired by unsealing [Lame d'Argent](https://wiki.pioneer2.net
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Viridia | Ultimate | [Praetorian IV (LSRex)](/enemies/praetorian-iv) | 1/1500 |
-| Greenill | Ultimate | [Praetorian IV (LSRex)](/enemies/praetorian-iv) | 1/1500 |
-| Skyly | Ultimate | [Praetorian IV (LSRex)](/enemies/praetorian-iv) | 1/1500 |
+| @Viridia | Ultimate | [Praetorian IV (LSRex)](/enemies/praetorian-iv) | 1/1500 |
+| @Greenill | Ultimate | [Praetorian IV (LSRex)](/enemies/praetorian-iv) | 1/1500 |
+| @Skyly | Ultimate | [Praetorian IV (LSRex)](/enemies/praetorian-iv) | 1/1500 |

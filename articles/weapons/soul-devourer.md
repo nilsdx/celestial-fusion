@@ -16,8 +16,8 @@
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Purplenum | Ultimate | [Epsilon](/enemies/epsilon) | 1/620.61 |
-| Oran | Ultimate | [Saint Million](/enemies/saint-million) | 1/85.33 |
+| @Purplenum | Ultimate | [Epsilon](/enemies/epsilon) | 1/620.61 |
+| @Oran | Ultimate | [Saint Million](/enemies/saint-million) | 1/85.33 |
 
 ### Valentine Crates
 

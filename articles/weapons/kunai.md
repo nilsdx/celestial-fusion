@@ -12,4 +12,4 @@
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Oran | Ultimate | [Sinow Zele](/enemies/sinow-zele) | 1/900.22 |
+| @Oran | Ultimate | [Sinow Zele](/enemies/sinow-zele) | 1/900.22 |

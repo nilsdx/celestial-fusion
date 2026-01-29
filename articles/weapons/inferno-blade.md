@@ -14,5 +14,5 @@
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Oran | Very Hard | [Chaos Bringer](https://wiki.pioneer2.net/w/Chaos_Bringer) | 1/930.91 |
-| Pinkal | Ultimate | [Pazuzu](/enemies/zu) | 1/32 |
+| @Oran | Very Hard | [Chaos Bringer](https://wiki.pioneer2.net/w/Chaos_Bringer) | 1/930.91 |
+| @Pinkal | Ultimate | [Pazuzu](/enemies/zu) | 1/32 |

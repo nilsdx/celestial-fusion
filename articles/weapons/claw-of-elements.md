@@ -18,4 +18,4 @@ They're the best way to boost Gizonde.
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Pinkal | Ultimate | [Dark Bringer](/enemies/dark-bringer) | 1/465.45 |
+| @Pinkal | Ultimate | [Dark Bringer](/enemies/dark-bringer) | 1/465.45 |

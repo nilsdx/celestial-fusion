@@ -18,4 +18,4 @@ You have a small chance of getting this weapon from a [Valentine Crate](/items/v
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Bluefull | Ultimate | [Dark Falz](/enemies/dark-falz) | 1/102.4 |
+| @Bluefull | Ultimate | [Dark Falz](/enemies/dark-falz) | 1/102.4 |

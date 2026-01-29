@@ -18,13 +18,13 @@ Christmas Spirit has a cosmetic variant that can be acquired by combining it wit
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Viridia | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
-| Greenill | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
-| Skyly | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
-| Bluefull | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
-| Purplenum | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
-| Pinkal | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
-| Redria | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
-| Oran | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
-| Yellowboze | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
-| Whitill | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
+| @Viridia | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
+| @Greenill | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
+| @Skyly | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
+| @Bluefull | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
+| @Purplenum | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
+| @Pinkal | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
+| @Redria | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
+| @Oran | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
+| @Yellowboze | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |
+| @Whitill | Ultimate | [Dark Falz (TTF Xmas)](/enemies/dark-falz) | 1/64 |

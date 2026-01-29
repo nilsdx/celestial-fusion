@@ -17,7 +17,7 @@
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Viridia | Ultimate | [Epsilon](/enemies/epsilon) | 1/310.3 |
+| @Viridia | Ultimate | [Epsilon](/enemies/epsilon) | 1/310.3 |
 
 ### Valentine Crates
 

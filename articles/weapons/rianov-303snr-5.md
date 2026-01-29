@@ -12,4 +12,4 @@ During Easter event, you can trade 15 [Easter Eggs](https://wiki.pioneer2.net/w/
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Greenill | Ultimate | [Merissa AA](/enemies/merissa-a) | 1/16 |
+| @Greenill | Ultimate | [Merissa AA](/enemies/merissa-a) | 1/16 |

@@ -12,4 +12,4 @@
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-|  Pinkal | Ultimate | [Epsilon](/enemies/epsilon) | 1/620.61 |
+|  @Pinkal | Ultimate | [Epsilon](/enemies/epsilon) | 1/620.61 |

@@ -17,7 +17,7 @@
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Redria | Ultimate | [Epsilon](/enemies/epsilon) | 1/310.3 |
+| @Redria | Ultimate | [Epsilon](/enemies/epsilon) | 1/310.3 |
 
 ### Valentine Crates
 

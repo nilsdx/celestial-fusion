@@ -13,11 +13,11 @@ It is a good finisher for enemies with very high DFP such as [Bubbles](/enemies/
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Viridia | Ultimate | [Bar Dalus (VRex)](/enemies/bar-dalus) | 1/77 |
-| Greenill | Ultimate | [Bar Dalus (VRex)](/enemies/bar-dalus) | 1/77 |
-| Skyly | Ultimate | [Bar Dalus (VRex)](/enemies/bar-dalus) | 1/77 |
-| Bluefull | Ultimate | [Bar Dalus (VRex)](/enemies/bar-dalus) | 1/77 |
-| Purplenum | Ultimate | [Bar Dalus (VRex)](/enemies/bar-dalus) | 1/77 |
+| @Viridia | Ultimate | [Bar Dalus (VRex)](/enemies/bar-dalus) | 1/77 |
+| @Greenill | Ultimate | [Bar Dalus (VRex)](/enemies/bar-dalus) | 1/77 |
+| @Skyly | Ultimate | [Bar Dalus (VRex)](/enemies/bar-dalus) | 1/77 |
+| @Bluefull | Ultimate | [Bar Dalus (VRex)](/enemies/bar-dalus) | 1/77 |
+| @Purplenum | Ultimate | [Bar Dalus (VRex)](/enemies/bar-dalus) | 1/77 |
 
 ## Trivia
 

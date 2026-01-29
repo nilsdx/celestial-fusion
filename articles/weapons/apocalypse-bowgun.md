@@ -8,11 +8,11 @@ Apocalypse Bowgun is a rare shot that fires three projectiles instead of 5. Its 
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Viridia | Ultimate | [Rathalos](/enemies/rathalos) | 1/77 |
-| Greenill | Ultimate | [Rathalos](/enemies/rathalos) | 1/77 |
-| Skyly | Ultimate | [Rathalos](/enemies/rathalos) | 1/77 |
-| Bluefull | Ultimate | [Rathalos](/enemies/rathalos) | 1/77 |
-| Purplenum | Ultimate | [Rathalos](/enemies/rathalos) | 1/77 |
+| @Viridia | Ultimate | [Rathalos](/enemies/rathalos) | 1/77 |
+| @Greenill | Ultimate | [Rathalos](/enemies/rathalos) | 1/77 |
+| @Skyly | Ultimate | [Rathalos](/enemies/rathalos) | 1/77 |
+| @Bluefull | Ultimate | [Rathalos](/enemies/rathalos) | 1/77 |
+| @Purplenum | Ultimate | [Rathalos](/enemies/rathalos) | 1/77 |
 
 ## Trivia
 

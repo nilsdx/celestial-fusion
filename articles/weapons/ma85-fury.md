@@ -16,7 +16,7 @@ Its specials at first does nothing more to the weapon, but when you equip it for
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Whitill | Ultimate | [Saint Million](/enemies/saint-million) | 1/51.2 |
+| @Whitill | Ultimate | [Saint Million](/enemies/saint-million) | 1/51.2 |
 
 ### Valentine Crates
 

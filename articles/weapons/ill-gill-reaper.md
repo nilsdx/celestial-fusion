@@ -18,17 +18,17 @@ When equipping [Chaos Engine](/units/chaos-engine), it becomes one of the strong
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Redria | Ultimate | [Ill Gill](/enemies/ill-gill) | 1/2559.97 |
+| @Redria | Ultimate | [Ill Gill](/enemies/ill-gill) | 1/2559.97 |
 
 ### Event Drops (Halloween)
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| Pinkal | Ultimate | [Grim Reaper (WTF)](/enemies/grim-reaper) | 1/930 |
-| Redria | Ultimate | [Grim Reaper (WTF)](/enemies/grim-reaper) | 1/930 |
-| Oran | Ultimate | [Grim Reaper (WTF)](/enemies/grim-reaper) | 1/930 |
-| Yellowboze | Ultimate | [Grim Reaper (WTF)](/enemies/grim-reaper) | 1/930 |
-| Whitill | Ultimate | [Grim Reaper (WTF)](/enemies/grim-reaper) | 1/930 |
+| @Pinkal | Ultimate | [Grim Reaper (WTF)](/enemies/grim-reaper) | 1/930 |
+| @Redria | Ultimate | [Grim Reaper (WTF)](/enemies/grim-reaper) | 1/930 |
+| @Oran | Ultimate | [Grim Reaper (WTF)](/enemies/grim-reaper) | 1/930 |
+| @Yellowboze | Ultimate | [Grim Reaper (WTF)](/enemies/grim-reaper) | 1/930 |
+| @Whitill | Ultimate | [Grim Reaper (WTF)](/enemies/grim-reaper) | 1/930 |
 
 ## Trivia
 
