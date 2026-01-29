@@ -16,4 +16,4 @@ You have a small chance of getting this weapon from a [Valentine Crate](/items/v
 
 | ID | Difficulty | Enemy | Drop Rate |
 | ----------- | ----------- | ----------- | ----------- |
-| V@Bluefull | Ultimate | [Olga Flow](/enemies/olga-flow) | 1/93.09 |
+| @Bluefull | Ultimate | [Olga Flow](/enemies/olga-flow) | 1/93.09 |

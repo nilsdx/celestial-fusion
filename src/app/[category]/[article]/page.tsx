@@ -8,6 +8,7 @@ import { Metadata } from 'next';
 import { getArticleData } from '@/src/actions/articles.action';
 import React from 'react';
 import SectionID, { SECTION_IDS } from '@/src/components/SectionID';
+import Link from 'next/link';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
@@ -71,10 +72,17 @@ export default async function ArticlePage({ params }: PageProps) {
                 <ReactMarkdown 
                     remarkPlugins={[remarkGfm]}
                     components={{
+                        a: ({ href, children }) => {
+                            return (
+                                <Link href={href || '#'}>
+                                    {recursiveFormat(children)}
+                                </Link>
+                            );
+                        },
                         p: ({ children }) => <p>{recursiveFormat(children)}</p>,
                         li: ({ children }) => <li>{recursiveFormat(children)}</li>,
                         td: ({ children }) => <td>{recursiveFormat(children)}</td>,
-                        th: ({ children }) => <th>{recursiveFormat(children)}</th>,
+                        th: ({ children }) => <th>{recursiveFormat(children)}</th>
                     }}
                 >
                     {content}
