@@ -1,18 +1,75 @@
-import Link from "next/link"
+import Card from "./Card";
+import HoverLink from "./HoverLink";
+
+const NAV_LINKS = [
+    {
+        title: "Navigation",
+        links: [
+            {
+                label: "Main page",
+                href: "/"
+            },
+            {
+                label: "Random page",
+                href: "/api/random"
+            },
+            {
+                label: "How to contribute",
+                href: "/contributing"
+            }
+        ]
+    },
+    {
+        title: "Categories",
+        links: [
+            {
+                label: "Classes",
+                href: "/categories/classes"
+            },
+            {
+                label: "Weapons",
+                href: "/categories/weapons"
+            },
+            {
+                label: "Frames",
+                href: "/categories/frames"
+            },
+            {
+                label: "Barriers",
+                href: "/categories/barriers"
+            },
+            {
+                label: "Units",
+                href: "/categories/units"
+            },
+            {
+                label: "Mags",
+                href: "/categories/mags"
+            },
+            {
+                label: "Items",
+                href: "/categories/items"
+            }
+        ]
+    }
+]
 
 const Sidebar = () => {
     return (
-        <div className="p-4 flex flex-col w-48 border-3 border-sky-500 bg-gray-900 mx-1 flex-none h-fit rounded-lg">
-            <Link href="/">
-                Main page
-            </Link>
-            <Link href="/api/random">
-                Random page
-            </Link>
-            <Link href="/contribute">
-                How to contribute
-            </Link>
+        <div>
+            <div className="px-1 space-y-2 w-48">
+                {NAV_LINKS.map((cat) => (
+                    <Card title={cat.title} key={`${cat.title}-category`}>
+                        {cat.links.map((l) => (
+                            <HoverLink href={l.href} key={`${l.label}-link`}>
+                                {l.label}
+                            </HoverLink>
+                        ))}
+                    </Card>
+                ))}
+            </div>
         </div>
+        
     )
 }
 
