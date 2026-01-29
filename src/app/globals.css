@@ -35,19 +35,24 @@ body {
   table {
     text-align: center;
     border:solid;
-    border-width:1px;
-    border-radius:24px;
+    border-width:3px;
+    border-color: var(--color-sky-500);
 
-    * {
-      padding: 0 4px;
+    border-collapse: separate; 
+    border-spacing: 0;
+    border-radius: 8px;
+    overflow: hidden;
+
+    th, td {
+      padding: 0 8px;
     }
 
     thead {
-      background-color: #3f4b5d;
+      background-color: var(--color-sky-500);
     }
 
     tbody tr:nth-child(even) {
-      background-color: #000000D0;
+      background-color: #FFFFFF1B;
     }
   }
 
