@@ -24,3 +24,6 @@ Their set effect with [Jointparts](/units/jointparts) gives tremendous range and
 ### Item Combination
 
 Celestial Fusion can be made by any character by equipping either [Taste of Affection](/weapons/taste-of-affection) or [Passion Haze](/weapons/passion-haze), and then using the left out weapon from the inventory. All stats from the equipped weapon will be transfered over. The equipped weapon must be ground up to +15.
+
+## Trivia
+- This website's name comes from this weapon ! What a cool nod to one of the server's most iconic weapons.
