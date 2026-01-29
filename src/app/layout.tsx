@@ -5,6 +5,7 @@ import Sidebar from "../components/Sidebar";
 import TopBar from "../components/header/TopBar";
 import Footer from "../components/footer/Footer";
 import SearchBar from "../components/header/SearchBar";
+import Image from 'next/image'
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -31,12 +32,21 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <div className="fixed inset-0 -z-20">
+          <Image
+            src="/images/background.png"
+            alt="Background"
+            fill
+            priority
+            className="object-cover"
+          />
+        </div>
         <TopBar/>
         <div className="min-h-screen mx-16 my-2 flex flex-col text-white">
           <SearchBar/>
           <div className="flex">
             <Sidebar/>
-            <div className="border border-white w-full rounded-lg">
+            <div className="border-3 border-sky-500 bg-gray-900 backdrop-blur-xs w-full rounded-lg">
               {children}
             </div>
           </div>
