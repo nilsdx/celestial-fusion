@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Link as LuLink } from "lucide-react";
+import { Link as LuLink, UsersRound } from "lucide-react";
 import Card from "../components/Card";
 import MainSection from "../components/main/MainSection";
 import { FaDiscord } from "react-icons/fa";
@@ -22,7 +22,7 @@ export default function Home() {
               target="_blank"
               className="flex items-center gap-1 underline"
             >
-              <FaDiscord size={28}/>
+              <FaDiscord size={20}/>
               Destiny PSOBB Discord
             </Link>
             <Link
@@ -30,7 +30,7 @@ export default function Home() {
               target="_blank"
               className="flex items-center gap-1 underline"
             >
-              <LuLink size={26}/>
+              <UsersRound size={20}/>
               Forums
             </Link>
           </div>
@@ -39,7 +39,7 @@ export default function Home() {
           <div className="w-80 flex flex-col items-center">
             <Image src="/images/destiny_hd.png" width={180} height={180} alt="Destiny PSOBB Icon"/>
             <Link href="https://www.playpso.net/" className="flex items-center gap-1 underline">
-              <LuLink size={26}/>
+              <LuLink size={20}/>
               Play Destiny PSOBB
             </Link>
           </div>
