@@ -6,7 +6,6 @@ import remarkGfm from 'remark-gfm';
 import ItemCard from '../../../components/ItemCard';
 import { Metadata } from 'next';
 import { getArticleData } from '@/src/actions/articles.action';
-import { Hexagon } from 'lucide-react';
 import React from 'react';
 import SectionID, { SECTION_IDS } from '@/src/components/SectionID';
 
@@ -31,6 +30,20 @@ const formatTextWithIcons = (text: string) => {
         return part;
     });
 };
+
+const recursiveFormat = (children: any): any => {
+    return React.Children.map(children, child => {
+        if (typeof child === 'string') {
+            return formatTextWithIcons(child);
+        }
+        if (React.isValidElement(child) && (child.props as any).children) {
+            return React.cloneElement(child, {
+                children: recursiveFormat((child.props as any).children)
+            } as any);
+        }
+        return child;
+    });
+}
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
     const { category, article } = await params;
@@ -58,7 +71,6 @@ export default async function ArticlePage({ params }: PageProps) {
                 <ReactMarkdown 
                     remarkPlugins={[remarkGfm]}
                     components={{
-                        // On intercepte les paragraphes, listes et cellules de tableau
                         p: ({ children }) => <p>{recursiveFormat(children)}</p>,
                         li: ({ children }) => <li>{recursiveFormat(children)}</li>,
                         td: ({ children }) => <td>{recursiveFormat(children)}</td>,
@@ -75,20 +87,6 @@ export default async function ArticlePage({ params }: PageProps) {
     );
 }
 
-// 3. Fonction récursive pour traiter le texte même s'il est dans du gras ou de l'italique
-function recursiveFormat(children: any): any {
-    return React.Children.map(children, child => {
-        if (typeof child === 'string') {
-            return formatTextWithIcons(child);
-        }
-        if (React.isValidElement(child) && (child.props as any).children) {
-            return React.cloneElement(child, {
-                children: recursiveFormat((child.props as any).children)
-            } as any);
-        }
-        return child;
-    });
-}
 
 export async function generateStaticParams() {
     if (!fs.existsSync(articlesDirectory)) return [];
