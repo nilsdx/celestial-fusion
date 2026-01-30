@@ -50,3 +50,4 @@ See [CONTRIBUTING.md](/CONTRIBUTING.md) for more informations.
 
 - [The Destiny PSOBB Development Team](https://www.playpso.net)
 - [The Ephinea Wiki (for informations about certain vanilla items)](https://wiki.pioneer2.net/)
+- [Section ID vectors by Draia436 (with color fixes to match the in-game ones)](https://www.deviantart.com/draia436/art/Vector-PSO-Section-IDs-By-Draia436-451383438)
