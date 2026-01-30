@@ -1,6 +1,10 @@
+import Link from "next/link";
 import Card from "../Card";
 import CategoriesSection from "./CategoriesSection"
 import MainDescription from "./MainDescription";
+
+import { Link as LuLink } from "lucide-react"
+import HoverLink from "../HoverLink";
 
 const YOUTUBE_EMBED_TITLE = "What's coming to Destiny PSOBB ?"
 const YOUTUBE_EMBED = "https://www.youtube.com/embed/h2Hjuc0qE_o";
@@ -13,7 +17,18 @@ const MainSection = () => {
             <CategoriesSection/>
             <div className="flex-1 space-y-2">
                 <Card title="Don't know where to start ?">
-                    <p className="p-2">Check out this page !</p>
+                    <HoverLink
+                        href="/guides/overview"
+                        target={false}
+                    >
+                        All new Destiny PSOBB features
+                    </HoverLink>
+                    <HoverLink
+                        href="/guides/beginner"
+                        target={false}
+                    >
+                        Beginner's Guide
+                    </HoverLink>
                 </Card>
                 <Card title="About Destiny PSOBB">
                     <p className="p-2">
