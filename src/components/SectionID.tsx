@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 interface ClassIconProps {
     id: string,
@@ -15,10 +16,24 @@ const SectionID: React.FC<ClassIconProps> = ({id, size}) => {
     if (!SECTION_IDS.includes(id)) return (
         <p>?</p>
     )
-    
-    return (
-        <Image src={`/images/section-id/${id.substring(1).toLowerCase()}.svg`} alt={`${id} icon`} width={size} height={size} className='select-none'/>
+
+    const component = (
+        <Image
+            src={`/images/section-id/${id.substring(1).toLowerCase()}.svg`}
+            alt={`${id} icon`}
+            width={size}
+            height={size} 
+            className='select-none'
+        />
     )
+    
+    if (id == SECTION_IDS[6]) return (
+        <a
+            href="/api/vapid"
+        >
+            {component}
+        </a>
+    ); else return component;
 }
 
 export default SectionID;

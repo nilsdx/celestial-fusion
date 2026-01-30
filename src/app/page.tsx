@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Link as LuLink, UsersRound } from "lucide-react";
+import { Gamepad2, Link as LuLink, UsersRound } from "lucide-react";
 import Card from "../components/Card";
 import MainSection from "../components/main/MainSection";
 import { FaDiscord } from "react-icons/fa";
@@ -43,7 +43,7 @@ export default function Home() {
               className="flex items-center gap-1 underline"
               target="_blank"
             >
-              <LuLink size={20}/>
+              <Gamepad2 size={20}/>
               Play Destiny PSOBB
             </Link>
           </div>
