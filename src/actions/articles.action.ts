@@ -19,6 +19,8 @@ export const getArticleData = async (category: string, slug: string) => {
 
     if (!fs.existsSync(filePath)) return null;
 
+    const stats = fs.statSync(filePath);
+
     const fileContent = fs.readFileSync(filePath, 'utf8');
     const { data, content } = matter(fileContent);
 
@@ -56,10 +58,35 @@ export const getArticleData = async (category: string, slug: string) => {
             ...data, 
             title: extractedTitle || slug,
             description: extractedDescription || "No description for this article",
+            createdAt: stats.birthtime,
+            updatedAt: stats.mtime,
         },
         content 
     };
 }
+
+/**
+ * Returns all articles with their slug, their category and their full path
+ * @returns 
+ */
+const getAllArticleFiles = () => {
+    if (!fs.existsSync(articlesDirectory)) return [];
+
+    const categories = fs.readdirSync(articlesDirectory, { withFileTypes: true })
+        .filter(dirent => dirent.isDirectory())
+        .map(dirent => dirent.name);
+
+    return categories.flatMap(category => {
+        const categoryPath = path.join(articlesDirectory, category);
+        return fs.readdirSync(categoryPath)
+            .filter(f => f.endsWith('.md'))
+            .map(filename => ({
+                slug: filename.replace('.md', ''),
+                category,
+                fullPath: path.join(categoryPath, filename)
+            }));
+    });
+};
 
 /**
  * Searches through all articles by using the keywords present in the query.
@@ -77,54 +104,89 @@ export const searchArticles = async (query: string): Promise<Article[]> => {
     if (!query) return [];
 
     const keywords = query.toLowerCase().split(/\s+/).filter(k => k.length > 0);
+    const allFiles = getAllArticleFiles();
     const results: { article: Article, score: number }[] = [];
 
-    const categories = fs.readdirSync(articlesDirectory).filter(file => 
-        fs.statSync(path.join(articlesDirectory, file)).isDirectory()
-    );
+    for (const fileInfo of allFiles) {
+        const articleData = await getArticleData(fileInfo.category, fileInfo.slug);
+        if (!articleData) continue;
 
-    for (const category of categories) {
-        const categoryPath = path.join(articlesDirectory, category);
-        const files = fs.readdirSync(categoryPath).filter(f => f.endsWith('.md'));
+        let score = 0;
+        const titleLower = articleData.data.title.toLowerCase();
+        const categoryLower = fileInfo.category.toLowerCase();
+        const contentLower = articleData.content.toLowerCase();
 
-        for (const file of files) {
-            const slug = file.replace('.md', '');
-            const articleData = await getArticleData(category, slug);
-            
-            if (!articleData) continue;
+        keywords.forEach(word => {
+            if (titleLower.includes(word)) {
+                score += 20; 
 
-            let score = 0;
-            const titleLower = articleData.data.title.toLowerCase();
-            const categoryLower = category.toLowerCase();
-            const contentLower = articleData.content;
+                const exactMatchRegex = new RegExp(`\\b${word}\\b`, 'i');
+                if (exactMatchRegex.test(titleLower)) {
+                    score += 150;
+                }
 
-            keywords.forEach(word => {
-                // Priority 1
-                if (titleLower.includes(word)) score += 100;
-                
-                // Priority 2
-                if (categoryLower.includes(word)) score += 50;
-
-                // Priority 3
-                const occurrences = contentLower.split(word).length - 1;
-                score += occurrences;
-            });
-
-            if (score > 0) {
-                results.push({
-                    article: {
-                        title: articleData.data.title,
-                        description: articleData.data.description,
-                        category: category,
-                        slug: slug
-                    },
-                    score
-                });
+                const startsWithRegex = new RegExp(`\\b${word}`, 'i');
+                if (startsWithRegex.test(titleLower)) {
+                    score += 50;
+                }
             }
+            
+            if (categoryLower.includes(word)) {
+                const exactCatRegex = new RegExp(`\\b${word}\\b`, 'i');
+                score += exactCatRegex.test(categoryLower) ? 80 : 30;
+            }
+
+            const occurrences = contentLower.split(word).length - 1;
+            score += occurrences;
+        });
+
+        if (score > 0) {
+            results.push({
+                article: {
+                    title: articleData.data.title,
+                    description: articleData.data.description,
+                    category: fileInfo.category,
+                    slug: fileInfo.slug
+                },
+                score
+            });
         }
     }
 
     return results
         .sort((a, b) => b.score - a.score)
         .map(r => r.article);
-}
+};
+
+/**
+ * Returns the last <limit> articles that were recently updated
+ * 
+ * @param limit 
+ * @returns 
+ */
+export const getLatestArticles = async (limit = 5) => {
+    const allFiles = getAllArticleFiles();
+
+    const articles = allFiles.map(file => {
+        const stats = fs.statSync(file.fullPath);
+        const fileContent = fs.readFileSync(file.fullPath, 'utf8');
+        const { data, content } = matter(fileContent);
+
+        let displayTitle = data.title;
+        if (!displayTitle) {
+            const firstLine = content.split('\n').find(line => line.trim().startsWith('# '));
+            displayTitle = firstLine ? firstLine.replace('# ', '').trim() : file.slug;
+        }
+
+        return {
+            slug: file.slug,
+            category: file.category,
+            title: displayTitle,
+            updatedAt: stats.mtime
+        };
+    });
+
+    return articles
+        .sort((a, b) => b.updatedAt.getTime() - a.updatedAt.getTime())
+        .slice(0, limit);
+};

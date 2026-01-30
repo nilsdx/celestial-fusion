@@ -4,6 +4,7 @@ import Card from "../components/Card";
 import MainSection from "../components/main/MainSection";
 import { FaDiscord } from "react-icons/fa";
 import Image from "next/image";
+import LatestChanges from "../components/main/LatestChanges";
 
 export default function Home() {
   return (
@@ -13,7 +14,7 @@ export default function Home() {
       </Card>
       <div className="space-y-2">
         <Card title={"Latest changes"}>
-          <p>Test</p>
+          <LatestChanges/>
         </Card>
         <Card title={"Join the Community"}>
           <div className="w-80 flex flex-col items-center">

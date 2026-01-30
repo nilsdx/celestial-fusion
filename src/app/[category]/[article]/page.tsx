@@ -9,6 +9,7 @@ import { getArticleData } from '@/src/actions/articles.action';
 import React from 'react';
 import SectionID, { SECTION_IDS } from '@/src/components/SectionID';
 import Link from 'next/link';
+import { formatDate } from '@/src/utils/time.utils';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
@@ -87,6 +88,10 @@ export default async function ArticlePage({ params }: PageProps) {
                 >
                     {content}
                 </ReactMarkdown>
+                <div className="text-sm text-white/70 my-4">
+                    <p>Created: {formatDate(itemData.data.createdAt, true)}</p>
+                    <p>Last updated: {formatDate(itemData.data.createdAt)}</p>
+                </div>
             </article>
             <div className="m-2">
                 <ItemCard item={article} category={category}/>

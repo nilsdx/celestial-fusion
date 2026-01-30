@@ -1,9 +1,7 @@
-import Link from "next/link";
 import Card from "../Card";
 import CategoriesSection from "./CategoriesSection"
 import MainDescription from "./MainDescription";
 
-import { Link as LuLink } from "lucide-react"
 import HoverLink from "../HoverLink";
 
 const YOUTUBE_EMBED_TITLE = "What's coming to Destiny PSOBB ?"
