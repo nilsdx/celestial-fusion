@@ -33,3 +33,18 @@ export type ItemDatas = {
     classes: string,
     description: string
 }
+
+export type EnemyData = {
+    name: string,
+    attribute: string,
+    image: string,
+    stats: StatBoost[]
+}
+
+export type QuestDatas = {
+    name: string,
+    category: string,
+    info: string,
+    description: string,
+    author: string
+}

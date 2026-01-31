@@ -1,13 +1,13 @@
 import { promises as fs } from 'fs';
 import path from 'path';
-import { ItemDatas, Resistances } from '../types/item';
+import { ItemDatas, QuestDatas, Resistances } from '../types/item';
 
 /**
  * Gets datas of a given item from a given category
  * @param category parent folder
  * @param item json file name of the item
  */
-export const getItemDatas = async (category: string, item: string): Promise<ItemDatas | null> => {
+export const getItemDatas = async (category: string, item: string ): Promise<ItemDatas | null> => {
     try {
         const filePath = path.join(process.cwd(), 'datas', category, `${item}.json`);
         
@@ -43,6 +43,28 @@ export const getItemDatas = async (category: string, item: string): Promise<Item
             resistances: resistances,
 
             special: rawData.special 
+        };
+
+    } catch (error) {
+        return null;
+    }
+}
+
+export const getQuestDatas = async ( name: string ): Promise<QuestDatas | null> => {
+    try {
+        const filePath = path.join(process.cwd(), 'datas', 'quests', `${name}.json`);
+        
+        const fileContent = await fs.readFile(filePath, 'utf8');
+        const rawData = JSON.parse(fileContent);
+
+        let resistances: Resistances | undefined = undefined;
+
+        return {
+            name: rawData.name,
+            category: rawData.category,
+            info: rawData.info,
+            description: rawData.description,
+            author: rawData.author
         };
 
     } catch (error) {

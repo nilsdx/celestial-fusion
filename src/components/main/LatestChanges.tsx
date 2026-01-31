@@ -13,7 +13,7 @@ const LatestChanges = async () => {
                     href={`/${la.category}/${la.slug}`}
                     target={false}
                 >
-                    <div className="flex justify-between w-full">
+                    <div className="flex justify-between w-full items-center">
                         <p>{la.title}</p>
                         <p className="text-white/80 text-xs">{formatDate(la.updatedAt)}</p>
                     </div>

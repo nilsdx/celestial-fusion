@@ -4,7 +4,7 @@
 - [ ] Home page
     - [x] Categories and links to most places
     - [x] Random page
-    - [ ] Latest page updates
+    - [x] Latest page updates
 - [ ] Translations
     - [ ] Progress tracker
     - [ ] Middleware

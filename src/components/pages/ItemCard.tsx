@@ -1,8 +1,8 @@
 import { getItemDatas } from "@/src/actions/get-item.action"
 import { ItemDatas } from "@/src/types/item";
 import Image from "next/image";
-import AvailableClasses from "./AvailableClasses";
-import Card from "./Card";
+import AvailableClasses from "../AvailableClasses";
+import Card from "../Card";
 
 interface ItemCardProps {
     item: string,

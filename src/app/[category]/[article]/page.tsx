@@ -3,13 +3,14 @@ import path from 'path';
 import ReactMarkdown from 'react-markdown';
 import { notFound } from 'next/navigation';
 import remarkGfm from 'remark-gfm';
-import ItemCard from '../../../components/ItemCard';
+import ItemCard from '../../../components/pages/ItemCard';
 import { Metadata } from 'next';
 import { getArticleData } from '@/src/actions/articles.action';
 import React from 'react';
 import SectionID, { SECTION_IDS } from '@/src/components/SectionID';
 import Link from 'next/link';
 import { formatDate } from '@/src/utils/time.utils';
+import QuestCard from '@/src/components/pages/QuestCard';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
@@ -67,6 +68,17 @@ export default async function ArticlePage({ params }: PageProps) {
 
     const { content } = itemData;
 
+    let card;
+
+    switch (category) {
+        case "quests":
+            card = (<QuestCard name={article}/>);
+            break;
+        default:
+            card = (<ItemCard item={article} category={category}/>);
+            break;
+    }
+
     return (
         <div className="flex min-h-screen">
             <article className="m-6 article-styling flex-4 min-w-0">
@@ -94,7 +106,7 @@ export default async function ArticlePage({ params }: PageProps) {
                 </div>
             </article>
             <div className="m-2">
-                <ItemCard item={article} category={category}/>
+                {card}
             </div>
         </div>
     );
