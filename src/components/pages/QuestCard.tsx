@@ -1,7 +1,6 @@
 import { getQuestDatas } from "@/src/actions/get-quest.action"
 import { QuestDatas } from "@/src/types/quest";
 import Image from "next/image";
-import AvailableClasses from "../AvailableClasses";
 import Card from "../Card";
 
 interface QuestCardProps {
@@ -19,9 +18,10 @@ const ItemCard: React.FC<QuestCardProps> = async ({name}) => {
         <Card>
             <div className="flex flex-col items-center p-2 h-fit w-70">
                 <p>{questDatas.name}</p>
-                <p>{questDatas.info}</p>
-                <p>{questDatas.description}</p>
-                <p>{questDatas.reward}</p>
+                <p className="italic">{questDatas.info}</p>
+                <hr className="w-full border-sky-500 border rounded-full m-2"/>
+                <p>Description: {questDatas.description}</p>
+                <p>Reward: {questDatas.reward}</p>
                 <p>Category: {questDatas.category}</p>
                 <p>Author: {questDatas.author}</p>
             </div>
