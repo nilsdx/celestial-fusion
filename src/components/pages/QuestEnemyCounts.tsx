@@ -13,7 +13,7 @@ const QuestEnemyCounts: React.FC<QuestEnemyCountsProps> = async ({name}) => {
     if (areas == undefined) return (<></>)
 
     return (
-        <div>
+        <div className="space-x-2 flex flex-wrap">
             {areas.map((a, i) => (
                 <table key={`${a.area}-area-${i}`}>
                     <thead>
