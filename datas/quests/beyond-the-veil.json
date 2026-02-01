@@ -45,5 +45,24 @@
                 }
             ]
         }
-    ] 
+    ],
+    "customEnemies": [
+        {
+            "name": "Rathalos",
+            "attribute": "Native",
+            "image": "/images/enemies/rathalos.jpg",
+            "stats": [
+                {
+                    "key": "HP",
+                    "value": 30000
+                }
+            ]
+        },
+        {
+            "name": "Vaal Hazak",
+            "attribute": "Native",
+            "image": "/images/enemies/rathalos.jpg",
+            "stats": []
+        }
+    ]
 }

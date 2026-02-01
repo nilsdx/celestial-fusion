@@ -7,7 +7,7 @@ interface QuestCardProps {
     name: string
 }
 
-const ItemCard: React.FC<QuestCardProps> = async ({name}) => {
+const QuestCard: React.FC<QuestCardProps> = async ({name}) => {
     
     const questDatas: QuestDatas|null = await getQuestDatas(name);
     if (questDatas == null) {
@@ -30,4 +30,4 @@ const ItemCard: React.FC<QuestCardProps> = async ({name}) => {
 
 }
 
-export default ItemCard;
+export default QuestCard;

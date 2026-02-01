@@ -9,8 +9,6 @@ export const getQuestDatas = async ( name: string ): Promise<QuestDatas | null> 
         const fileContent = await fs.readFile(filePath, 'utf8');
         const rawData = JSON.parse(fileContent);
 
-        let counts: QuestArea[] | undefined = undefined;
-
         return {
             name: rawData.name,
             category: rawData.category,
@@ -18,7 +16,8 @@ export const getQuestDatas = async ( name: string ): Promise<QuestDatas | null> 
             description: rawData.description,
             author: rawData.author,
             reward: rawData.reward,
-            enemyCounts: rawData.enemyCounts
+            enemyCounts: rawData.enemyCounts,
+            customEnemies: rawData.customEnemies
         };
 
     } catch (error) {

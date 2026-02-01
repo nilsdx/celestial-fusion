@@ -34,10 +34,5 @@ export type ItemDatas = {
     description: string
 }
 
-export type EnemyData = {
-    name: string,
-    attribute: string,
-    image: string,
-    stats: StatBoost[]
-}
+
 

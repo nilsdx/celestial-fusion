@@ -15,5 +15,13 @@ export type QuestDatas = {
     description: string,
     author: string,
     reward: string,
-    enemyCounts?: QuestArea[]
+    enemyCounts?: QuestArea[],
+    customEnemies?: EnemyData[]
+}
+
+export type EnemyData = {
+    name: string,
+    attribute: string,
+    image: string,
+    stats: StatBoost[]
 }
