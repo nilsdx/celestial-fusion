@@ -41,10 +41,3 @@ export type EnemyData = {
     stats: StatBoost[]
 }
 
-export type QuestDatas = {
-    name: string,
-    category: string,
-    info: string,
-    description: string,
-    author: string
-}

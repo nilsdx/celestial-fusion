@@ -11,6 +11,7 @@ import SectionID, { SECTION_IDS } from '@/src/components/SectionID';
 import Link from 'next/link';
 import { formatDate } from '@/src/utils/time.utils';
 import QuestCard from '@/src/components/pages/QuestCard';
+import QuestEnemyCounts from '@/src/components/pages/QuestEnemyCounts';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
@@ -100,6 +101,7 @@ export default async function ArticlePage({ params }: PageProps) {
                 >
                     {content}
                 </ReactMarkdown>
+                <QuestEnemyCounts name={article}/>
                 <div className="text-sm text-white/70 my-4">
                     <p>Created: {formatDate(itemData.data.createdAt, true)}</p>
                     <p>Last updated: {formatDate(itemData.data.createdAt)}</p>

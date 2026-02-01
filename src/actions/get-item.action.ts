@@ -1,6 +1,6 @@
 import { promises as fs } from 'fs';
 import path from 'path';
-import { ItemDatas, QuestDatas, Resistances } from '../types/item';
+import { ItemDatas, Resistances } from '../types/item';
 
 /**
  * Gets datas of a given item from a given category
@@ -50,24 +50,3 @@ export const getItemDatas = async (category: string, item: string ): Promise<Ite
     }
 }
 
-export const getQuestDatas = async ( name: string ): Promise<QuestDatas | null> => {
-    try {
-        const filePath = path.join(process.cwd(), 'datas', 'quests', `${name}.json`);
-        
-        const fileContent = await fs.readFile(filePath, 'utf8');
-        const rawData = JSON.parse(fileContent);
-
-        let resistances: Resistances | undefined = undefined;
-
-        return {
-            name: rawData.name,
-            category: rawData.category,
-            info: rawData.info,
-            description: rawData.description,
-            author: rawData.author
-        };
-
-    } catch (error) {
-        return null;
-    }
-}
