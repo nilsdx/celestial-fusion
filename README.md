@@ -1,6 +1,5 @@
-<img src="public/images/logo.png" alt="Logo" width="200" height="auto" />
+<img src="public/images/cf_logo.png" alt="Logo" width="800" height="auto" />
 
-Celestial Fusion
 
 Unofficial database for the Destiny Phantasy Star Online Blue Burst private server
 

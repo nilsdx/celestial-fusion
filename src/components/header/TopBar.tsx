@@ -1,4 +1,5 @@
 import { cookies } from "next/headers";
+import Image from "next/image";
 
 const TopBar = async () => {
     const cookieStore = await cookies();
@@ -10,7 +11,13 @@ const TopBar = async () => {
             {isVapid ? (
                 <p className="text-5xl text-white">Destiny thingy yup yup</p>
             ) : (
-                <p className="text-5xl text-white">Celestial Fusion</p>
+                <Image
+                    src="/images/cf_logo.png"
+                    width={600}
+                    height={600}
+                    alt="Celestial Fusion logo"
+                    unoptimized
+                />
             )}
             
         </div>
