@@ -9,7 +9,13 @@ const TopBar = async () => {
     return (
         <div className="flex justify-center items-center py-12">
             {isVapid ? (
-                <p className="text-5xl text-white">Destiny thingy yup yup</p>
+                <Image
+                    src="/images/dtyy.png"
+                    width={600}
+                    height={600}
+                    alt="Celestial Fusion logo"
+                    unoptimized
+                />
             ) : (
                 <Image
                     src="/images/cf_logo.png"
