@@ -14,6 +14,7 @@ import QuestCard from '@/src/components/pages/QuestCard';
 import QuestEnemyCounts from '@/src/components/pages/QuestEnemyCounts';
 import remarkDirective from 'remark-directive';
 import { visit } from 'unist-util-visit';
+import LinkIcon from '@/src/components/LinkIcon';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
@@ -112,7 +113,8 @@ export default async function ArticlePage({ params }: PageProps) {
                     components={{
                         a: ({ href, children }) => {
                             return (
-                                <Link href={href || '#'}>
+                                <Link href={href || '#'} className="inline-flex items-center">
+                                    <LinkIcon href={href} size={16}/>
                                     {recursiveFormat(children)}
                                 </Link>
                             );

@@ -20,7 +20,7 @@ export type StatBoost = {
 
 export type ItemDatas = {
     name: string,
-    icon: "hu"|"ra"|"fo"|"frame"|"barrier"|"item",
+    icon: "hu"|"ra"|"fo"|"frame"|"barrier"|"item"|"mag"|"unit",
     image?: string
     type: string,
     requirement: string,
