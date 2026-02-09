@@ -104,7 +104,7 @@ export default async function ArticlePage({ params }: PageProps) {
                 <QuestEnemyCounts name={article}/>
                 <div className="text-sm text-white/70 my-4">
                     <p>Created: {formatDate(itemData.data.createdAt, true)}</p>
-                    <p>Last updated: {formatDate(itemData.data.createdAt)}</p>
+                    <p>Last updated: {formatDate(itemData.data.updatedAt)}</p>
                 </div>
             </article>
             <div className="m-2">

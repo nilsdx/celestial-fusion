@@ -1,5 +1,5 @@
 {
-    "name": "Desert Eagle",
+    "name": "Mystic Spirit",
     "icon": "ra",
     "image": "",
     "type": "Mechgun",
@@ -17,6 +17,6 @@
             "value": "50"
         }
     ],
-    "classes": "101010100000",
-    "description": "Pair of extremely powerful guns. Can fire a special long range piercing shot."
+    "classes": "010101010000",
+    "description": "Highly powerful guns just for ladies."
 }
