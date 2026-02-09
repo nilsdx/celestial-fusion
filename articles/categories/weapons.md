@@ -57,7 +57,7 @@ This list is comprised of both new and modified weapons in the server.
 | [Final Egg Blaster](/weapons/final-egg-blaster) |
 | [Frostbite](/weapons/frostbite) |
 | [Grave Digger](/weapons/grave-digger) |
-| [Gush Needle](/weapons/gush-neede) |
+| [Gush Needle](/weapons/gush-needle) |
 | [Hell Needle](/weapons/hell-needle) |
 | [Hell Striker](/weapons/hell-striker) |
 | [M&A85 Fury](/weapons/ma85-fury) |
@@ -66,10 +66,7 @@ This list is comprised of both new and modified weapons in the server.
 | [Subzero](/weapons/subzero) |
 | [Taste of Affection](/weapons/taste-of-affection) |
 | [Venus Bow](/weapons/venus-bow) |
-| [Yasminkov 2000H](/weapons/yasminkov-2000h) |
-| [Yasminkov 3000R](/weapons/yasminkov-3000r) |
-| [Yasminkov 7000V](/weapons/yasminkov-7000v) |
-| [Yasminkov 9000M](/weapons/yasminkov-9000m) |
+
 
 | Technique weapons |
 | ----------- |
@@ -95,7 +92,10 @@ This list is comprised of both new and modified weapons in the server.
 | [Flight Cutter](/weapons/flight-cutter) |
 | [Nei's Claw](/weapons/nei-claw) |
 | [Orotiagito](/weapons/orotiagito) |
+| [Slicer of Fanatic](/weapons/slicer-of-fanatic) |
+| [Tsumikiri J-Sword](/weapons/tsumikiri-j-sword) |
 | [Valkyrie](/weapons/valkyrie) |
+| [Yunchang](/weapons/yunchang) |
 | [Zanba](/weapons/zanba) |
 
 | Ranged weapons |
@@ -110,7 +110,10 @@ This list is comprised of both new and modified weapons in the server.
 | [Mille Marteaux](/weapons/mille-marteaux) |
 | [Rianov 303SNR-5](/weapons/rianov-303snr-5) |
 | [Tension Blaster](/weapons/tension-blaster) |
-| [Tsumikiri J-Sword](/weapons/tsumikiri-j-sword) |
+| [Yasminkov 2000H](/weapons/yasminkov-2000h) |
+| [Yasminkov 3000R](/weapons/yasminkov-3000r) |
+| [Yasminkov 7000V](/weapons/yasminkov-7000v) |
+| [Yasminkov 9000M](/weapons/yasminkov-9000m) |
 
 | Technique weapons |
 | ----------- |

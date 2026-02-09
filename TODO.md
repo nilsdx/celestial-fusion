@@ -1,14 +1,10 @@
 # General
 
 - [x] Redo the article routing/organization process
-- [ ] Home page
+- [x] Home page
     - [x] Categories and links to most places
     - [x] Random page
     - [x] Latest page updates
-- [ ] Translations
-    - [ ] Progress tracker
-    - [ ] Middleware
-    - [ ] Articles organization
 - [ ] Styling
 - [x] Search function
 - [ ] CI/CD pipeline (this way I can exercise myself in that department since I've only done Gitlab pipelines so far)
