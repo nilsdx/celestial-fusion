@@ -12,11 +12,35 @@ import Link from 'next/link';
 import { formatDate } from '@/src/utils/time.utils';
 import QuestCard from '@/src/components/pages/QuestCard';
 import QuestEnemyCounts from '@/src/components/pages/QuestEnemyCounts';
+import remarkDirective from 'remark-directive';
+import { visit } from 'unist-util-visit';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
 interface PageProps {
     params: Promise<{ category: string; article: string }>;
+}
+
+function remarkLayoutPlugin() {
+  return (tree: any) => {
+    visit(tree, (node) => {
+      if (node.type === 'containerDirective') {
+        const data = node.data || (node.data = {});
+        
+        data.hName = 'div';
+        
+        const attributes = node.attributes || {};
+        if (node.name === 'row') {
+            attributes.class = `flex flex-wrap gap-2 items-start ${attributes.class || ''}`;
+        }
+        
+        data.hProperties = {
+            className: attributes.class,
+            ...attributes
+        };
+      }
+    });
+  };
 }
 
 const formatTextWithIcons = (text: string) => {
@@ -84,7 +108,7 @@ export default async function ArticlePage({ params }: PageProps) {
         <div className="flex min-h-screen">
             <article className="m-6 article-styling flex-4 min-w-0">
                 <ReactMarkdown 
-                    remarkPlugins={[remarkGfm]}
+                    remarkPlugins={[remarkGfm, remarkDirective, remarkLayoutPlugin]}
                     components={{
                         a: ({ href, children }) => {
                             return (

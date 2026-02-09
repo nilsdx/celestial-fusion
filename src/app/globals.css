@@ -43,6 +43,8 @@ body {
     border-radius: 8px;
     overflow: hidden;
 
+    margin: 8px;
+
     th, td {
       padding: 0 8px;
     }

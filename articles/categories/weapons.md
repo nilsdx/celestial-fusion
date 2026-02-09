@@ -6,6 +6,7 @@ This list is comprised of both new and modified weapons in the server.
 
 ## List of new weapons
 
+:::row
 | Melee weapons |
 | ----------- |
 | [Aensland](/weapons/aensland) |
@@ -82,10 +83,11 @@ This list is comprised of both new and modified weapons in the server.
 | [Skyfall](/weapons/skyfall) |
 | [Soul Devourer](/weapons/soul-devourer) |
 | [Zu's Punishment](/weapons/zu-punishment) |
-
+:::
 
 ## List of modified weapons
 
+:::row
 | Melee weapons |
 | ----------- |
 | [Dark Flow](/weapons/dark-flow) |
@@ -113,3 +115,4 @@ This list is comprised of both new and modified weapons in the server.
 | Technique weapons |
 | ----------- |
 | [Dark Bridge](/weapons/dark-bridge) |
+:::
