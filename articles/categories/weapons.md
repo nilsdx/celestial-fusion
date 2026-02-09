@@ -91,7 +91,7 @@ This list is comprised of both new and modified weapons in the server.
 | Melee weapons |
 | ----------- |
 | [Dark Flow](/weapons/dark-flow) |
-| [Excalibur](/weapons/eternal-night) |
+| [Excalibur](/weapons/excalibur) |
 | [Flight Cutter](/weapons/flight-cutter) |
 | [Nei's Claw](/weapons/nei-claw) |
 | [Orotiagito](/weapons/orotiagito) |

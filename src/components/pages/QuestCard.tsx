@@ -2,6 +2,7 @@ import { getQuestDatas } from "@/src/actions/get-quest.action"
 import { QuestDatas } from "@/src/types/quest";
 import Image from "next/image";
 import Card from "../Card";
+import LinkIcon from "../LinkIcon";
 
 interface QuestCardProps {
     name: string
@@ -17,7 +18,10 @@ const QuestCard: React.FC<QuestCardProps> = async ({name}) => {
     return (
         <Card>
             <div className="flex flex-col items-center p-2 h-fit w-70">
-                <p>{questDatas.name}</p>
+                <p className="flex items-center">
+                    <LinkIcon href={`/quests/${name}`}/>
+                    {questDatas.name}
+                </p>
                 <p className="italic">{questDatas.info}</p>
                 <hr className="w-full border-sky-500 border rounded-full m-2"/>
                 <p>Description: {questDatas.description}</p>

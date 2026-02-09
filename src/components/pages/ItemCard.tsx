@@ -3,6 +3,7 @@ import { ItemDatas } from "@/src/types/item";
 import Image from "next/image";
 import AvailableClasses from "../AvailableClasses";
 import Card from "../Card";
+import LinkIcon from "../LinkIcon";
 
 interface ItemCardProps {
     item: string,
@@ -19,7 +20,10 @@ const ItemCard: React.FC<ItemCardProps> = async ({item, category}) => {
     return (
         <Card>
             <div className="flex flex-col items-center p-2 h-fit w-70">
-                <p>{itemDatas.name}</p>
+                <p className="flex items-center">
+                    <LinkIcon href={`/${category}/${item}`}/>
+                    {itemDatas.name}
+                </p>
                 <div className="flex flex-col items-center p-2 space-y-2">
                     {itemDatas.image && (
                         <Image src={itemDatas.image} alt={`${itemDatas.name} image`} width={300} height={200}/>
