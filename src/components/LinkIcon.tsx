@@ -19,6 +19,19 @@ const LinkIcon = async ({ href, size = 20 }: LinkIconProps) => {
 
     const [category, itemSlug] = parts;
 
+    if (category == "quests") return (
+        <span className="inline-flex align-middle mr-1 select-none">
+            <Image
+                src={`/images/link-icons/quest.png`}
+                alt="" 
+                width={size}
+                height={size}
+                className="object-contain"
+                unoptimized
+            />
+        </span>
+    )
+
     const itemData = await getItemDatas(category, itemSlug);
 
     if (!itemData || !itemData.icon) return null;
