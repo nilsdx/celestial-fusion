@@ -43,7 +43,7 @@ This list is comprised of both new and modified weapons in the server.
 | [Alpha Eagle](/weapons/alpha-eagle) |
 | [Apocalypse Bowgun](/weapons/apocalypse-bowgun) |
 | [Arctic Faust](/weapons/arctic-faust) |
-| [Armageddon](/weapons/armaggedon) |
+| [Armageddon](/weapons/armageddon) |
 | [Arrest Needle](/weapons/arrest-needle) |
 | [Boondock Saints](/weapons/boondock-saints) |
 | [Bubble Blaster](/weapons/bubble-blaster) |
