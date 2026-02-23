@@ -87,12 +87,14 @@ This list is comprised of both new and modified weapons in the server.
 :::row
 | Melee weapons |
 | ----------- |
+| [Berdysh](/weapons/berdysh) |
 | [Dark Flow](/weapons/dark-flow) |
 | [Excalibur](/weapons/excalibur) |
 | [Flight Cutter](/weapons/flight-cutter) |
 | [Nei's Claw](/weapons/nei-claw) |
 | [Orotiagito](/weapons/orotiagito) |
 | [Slicer of Fanatic](/weapons/slicer-of-fanatic) |
+| [S-Red's Blade](/weapons/s-red-blade) |
 | [Tsumikiri J-Sword](/weapons/tsumikiri-j-sword) |
 | [Valkyrie](/weapons/valkyrie) |
 | [Yunchang](/weapons/yunchang) |
@@ -106,6 +108,7 @@ This list is comprised of both new and modified weapons in the server.
 | [Dual Bird](/weapons/dual-bird) |
 | [Final Egg Blaster](/weapons/final-egg-blaster) |
 | [Guld Milla](/weapons/guld-milla) |
+| [Heaven Striker](/weapons/heaven-striker) |
 | [L&K38 Combat](/weapons/lk38-combat) |
 | [Mille Marteaux](/weapons/mille-marteaux) |
 | [Rianov 303SNR-5](/weapons/rianov-303snr-5) |

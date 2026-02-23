@@ -6,15 +6,15 @@
     "stats": [
         {
             "label": "DFP",
-            "value": "340"
+            "value": "508"
         },
         {
             "label": "EVP",
-            "value": "340"
+            "value": "280"
         },
         {
-            "label": "All",
-            "value": "30"
+            "label": "ATP",
+            "value": "100"
         }
     ],
     "resistances": {
@@ -25,5 +25,5 @@
         "elt": 41
     },
     "classes": "111111111111",
-    "description": "A special armor that protects wielder with a mysterious aura. Increaces all stats by 30."
+    "description": "An armor that hosts catastrophic virus. The ravenous soul still remains and could inflict to wielder significantly."
 }
