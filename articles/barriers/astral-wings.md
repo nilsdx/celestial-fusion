@@ -2,7 +2,7 @@
 
 Astral Wings are a rare frame that comes with the effect of [Trap/Search](/units/trap-search) and grants immunity to all status ailments.
 
-This immunity behaves differently from State/Maintenance, the former being closer to the Cure units than State/Maintenance as there is no window of time where you still get the status ailment.
+This immunity behaves differently from [State/Maintenance](/units/state-maintenance), the former being closer to the Cure units than State/Maintenance as there is no window of time where you still get the status ailment.
 
 ## Variants
 
