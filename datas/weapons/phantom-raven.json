@@ -4,7 +4,7 @@
     "image": "",
     "type": "Handgun",
     "requirement": "TODO",
-    "grind": 0,
+    "grind": 9,
     "targets": 1,
     "special": "Arrest",
     "stats": [
