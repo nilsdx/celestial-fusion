@@ -3,7 +3,7 @@
     "icon": "ra",
     "image": "",
     "type": "Mechgun",
-    "requirement": "210 ATA",
+    "requirement": "190 ATA",
     "grind": 21,
     "targets": 1,
     "special": "King's",
