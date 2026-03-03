@@ -63,6 +63,7 @@ This list is comprised of both new and modified weapons in the server.
 | [M&A85 Fury](/weapons/ma85-fury) |
 | [Mystic Spirit](/weapons/mystic-spirit) |
 | [Passion Haze](/weapons/passion-haze) |
+| [Phantom Raven](/weapons/phantom-raven) |
 | [Subzero](/weapons/subzero) |
 | [Taste of Affection](/weapons/taste-of-affection) |
 | [Venus Bow](/weapons/venus-bow) |

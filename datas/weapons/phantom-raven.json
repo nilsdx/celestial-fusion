@@ -1,0 +1,22 @@
+{
+    "name": "Phantom Raven",
+    "icon": "ra",
+    "image": "",
+    "type": "Handgun",
+    "requirement": "TODO",
+    "grind": 0,
+    "targets": 1,
+    "special": "Arrest",
+    "stats": [
+        {
+            "label": "ATP",
+            "value": "238-268"
+        },
+        {
+            "label": "ATA",
+            "value": "52"
+        }
+    ],
+    "classes": "111111111111",
+    "description": "A multi-shot firearm that unleashes dark energy rounds. Its special attack paralyzes enemies, stopping them in place."
+}
