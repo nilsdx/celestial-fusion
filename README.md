@@ -1,14 +1,9 @@
 <img src="public/images/cf_logo.png" alt="Logo" width="800" height="auto" />
 
 
-Unofficial database for the Destiny Phantasy Star Online Blue Burst private server
+Unofficial wiki for the Destiny Phantasy Star Online Blue Burst private server
 
-<details>
-<summary>Screenshots</summary>
-<p>Insert screen 1 here</p>
-<p>Insert screen 2 here</p>
-<p>Insert screen 3 here</p>
-</details>
+![Screenshot example](/public/readme/screenshot.png)
 
 ## About the project
 
