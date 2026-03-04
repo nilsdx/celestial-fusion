@@ -20,46 +20,20 @@ export const getArticleData = async (category: string, slug: string) => {
     if (!fs.existsSync(filePath)) return null;
 
     const stats = fs.statSync(filePath);
-
     const fileContent = fs.readFileSync(filePath, 'utf8');
+    
     const { data, content } = matter(fileContent);
 
-    const lines = content.split('\n').map(line => line.trim());
+    const extractedTitle = data.title || slug;
+    const extractedDescription = data.description || "No description available.";
 
-    let extractedTitle = data.title;
-    let titleLineIndex = -1;
-
-    if (!extractedTitle) {
-        titleLineIndex = lines.findIndex(line => line.startsWith('# '));
-        if (titleLineIndex !== -1) {
-            extractedTitle = lines[titleLineIndex].replace('# ', '').trim();
-        }
-    } else {
-        titleLineIndex = lines.findIndex(line => line.startsWith('# '));
-    }
-
-    let extractedDescription = data.description;
-
-    if (!extractedDescription) {
-        const firstParagraph = lines.slice(titleLineIndex + 1).find(line => line.length > 0);
-        
-        if (firstParagraph) {
-            extractedDescription = firstParagraph
-                .replace(/[#*`_~]/g, '')
-                .replace(/\[(.*?)\]\(.*?\)/g, '$1')
-                .slice(0, 160);
-        }
-    }
-
-    // I should be returning my new Article type, but this was made early into the project...
-    // Maybe I'll come back to it.
     return { 
         data: { 
             ...data, 
-            title: extractedTitle || slug,
-            description: extractedDescription || "No description for this article",
+            title: extractedTitle,
+            description: extractedDescription,
             createdAt: stats.birthtime,
-            updatedAt: stats.mtime,
+            updatedAt: stats.mtime
         },
         content 
     };

@@ -1,87 +1,73 @@
-import { getItemDatas } from "@/src/actions/get-item.action"
-import { ItemDatas } from "@/src/types/item";
 import Image from "next/image";
-import AvailableClasses from "../AvailableClasses";
 import Card from "../Card";
 import LinkIcon from "../LinkIcon";
+import AvailableClasses from "../AvailableClasses";
 
 interface ItemCardProps {
-    item: string,
-    category: string
+    data: any;
+    category: string;
+    slug: string;
 }
 
-const ItemCard: React.FC<ItemCardProps> = async ({item, category}) => {
-    
-    const itemDatas: ItemDatas|null = await getItemDatas(category, item);
-    if (itemDatas == null) {
-        return (<></>)
-    }
+const ItemCard: React.FC<ItemCardProps> = ({ data, category, slug }) => {
+    const reservedFields = ['title', 'icon', 'image', 'classes', 'description', 'createdAt', 'updatedAt'];
+
+    const dynamicFields = Object.entries(data).filter(
+        ([key]) => !reservedFields.includes(key)
+    );
 
     return (
         <Card>
-            <div className="flex flex-col items-center p-2 h-fit w-70">
-                <p className="flex items-center">
-                    <LinkIcon href={`/${category}/${item}`}/>
-                    {itemDatas.name}
+            <div className="flex flex-col items-center p-2 h-fit w-72 text-sm">
+                <p className="flex items-center font-bold text-lg mb-2">
+                    <LinkIcon href={`/${category}/${slug}`} />
+                    {data.title}
                 </p>
-                <div className="flex flex-col items-center p-2 space-y-2">
-                    {itemDatas.image && (
-                        <Image src={itemDatas.image} alt={`${itemDatas.name} image`} width={300} height={200}/>
+
+                <div className="flex flex-col items-center p-2 space-y-2 w-full">
+                    {data.image && (
+                        <div className="relative w-full aspect-video">
+                            <Image 
+                                src={data.image} 
+                                alt={data.title} 
+                                fill 
+                                className="object-contain"
+                            />
+                        </div>
                     )}
-                    <p className="italic text-center text-sm">
-                        {itemDatas.description}
+                    <p className="italic text-center text-white/80">
+                        {data.description}
                     </p>
                 </div>
-                <p>Type : {itemDatas.type}</p>
-                <p>Requirements : {itemDatas.requirement}</p>
-                {itemDatas.grind !== undefined && (
-                    <p>Grind : {itemDatas.grind}</p>
-                )}
-                {itemDatas.special !== undefined && (
-                    <p>Special : {itemDatas.special}</p>
-                )}
-                {itemDatas.targets !== undefined && (
-                    <p>Targets : {itemDatas.targets}</p>
-                )}
-                {itemDatas.stats !== undefined && (
-                    <div className="flex space-x-3 flex-wrap">
-                        {itemDatas.stats.map((ids) => (
-                            <div className="text-center" key={`${ids.label}-stat`}>
-                                <p>{ids.label}</p>
-                                <p>{ids.value}</p>
-                            </div>
-                        ))}
-                    </div> 
-                )}
-                {itemDatas.resistances !== undefined && (
-                    <div className="flex space-x-3 flex-wrap">
-                        <div className="text-center">
-                            <p>EFR</p>
-                            <p>{itemDatas.resistances.efr}</p>
+                <div className="w-full space-y-1 border-t border-white/10 mt-2 pt-2">
+                    {dynamicFields.map(([key, value]) => (
+                        <div key={key} className="flex flex-col border-b border-white/5 pb-1">
+                            <span className="text-white/50 uppercase text-[10px] font-bold">{key}</span>
+                            
+                            {typeof value === 'object' && value !== null ? (
+                                <div className="flex flex-wrap gap-2">
+                                    {Object.entries(value).map(([subKey, subValue]) => (
+                                        <div key={subKey} className="text-center bg-white/5 px-2 py-1 rounded">
+                                            <p className="text-[10px] text-white/40">{subKey}</p>
+                                            <p className="font-mono">{String(subValue)}</p>
+                                        </div>
+                                    ))}
+                                </div>
+                            ) : (
+                                <p className="font-medium">{String(value)}</p>
+                            )}
                         </div>
-                        <div className="text-center">
-                            <p>ETH</p>
-                            <p>{itemDatas.resistances.eth}</p>
-                        </div>
-                        <div className="text-center">
-                            <p>EIC</p>
-                            <p>{itemDatas.resistances.eic}</p>
-                        </div>
-                        <div className="text-center">
-                            <p>EDK</p>
-                            <p>{itemDatas.resistances.edk}</p>
-                        </div>
-                        <div className="text-center">
-                            <p>ELT</p>
-                            <p>{itemDatas.resistances.elt}</p>
-                        </div>
+                    ))}
+                </div>
+
+                {data.classes && (
+                    <div className="mt-4 w-full">
+                        <AvailableClasses classes={data.classes} />
                     </div>
                 )}
-                <AvailableClasses classes={itemDatas.classes}/>
             </div>
         </Card>
-    )
-
+    );
 }
 
 export default ItemCard;

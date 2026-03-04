@@ -92,22 +92,22 @@ export default async function ArticlePage({ params }: PageProps) {
 
     if (!itemData) notFound();
 
-    const { content } = itemData;
+    const { content, data } = itemData;
 
     let card;
-
     switch (category) {
         case "quests":
             card = (<QuestCard name={article}/>);
             break;
         default:
-            card = (<ItemCard item={article} category={category}/>);
+            card = (<ItemCard data={data} category={category} slug={article}/>);
             break;
     }
 
     return (
         <div className="flex min-h-screen">
             <article className="m-6 article-styling flex-4 min-w-0">
+                <h1>{data.title}</h1>
                 <ReactMarkdown 
                     remarkPlugins={[remarkGfm, remarkDirective, remarkLayoutPlugin]}
                     components={{
@@ -124,7 +124,7 @@ export default async function ArticlePage({ params }: PageProps) {
                         td: ({ children }) => <td>{recursiveFormat(children)}</td>,
                         th: ({ children }) => <th>{recursiveFormat(children)}</th>
                     }}
-                >
+                >   
                     {content}
                 </ReactMarkdown>
                 <QuestEnemyCounts name={article}/>
@@ -133,9 +133,9 @@ export default async function ArticlePage({ params }: PageProps) {
                     <p>Last updated: {formatDate(itemData.data.updatedAt)}</p>
                 </div>
             </article>
-            <div className="m-2">
+            <aside className="m-2">
                 {card}
-            </div>
+            </aside>
         </div>
     );
 }
