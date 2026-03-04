@@ -92,16 +92,14 @@ export default async function ArticlePage({ params }: PageProps) {
 
     if (!itemData) notFound();
 
-    const { content, data } = itemData;
+    const { content, data, hasFrontmatter } = itemData;
 
-    let card;
-    switch (category) {
-        case "quests":
-            card = (<QuestCard name={article}/>);
-            break;
-        default:
-            card = (<ItemCard data={data} category={category} slug={article}/>);
-            break;
+    let card = null;
+
+    if (category === "quests") {
+        card = (<QuestCard name={article}/>);
+    } else if (hasFrontmatter) {
+        card = (<ItemCard data={data} category={category} slug={article}/>);
     }
 
     return (

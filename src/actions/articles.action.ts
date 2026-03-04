@@ -27,6 +27,8 @@ export const getArticleData = async (category: string, slug: string) => {
     const extractedTitle = data.title || slug;
     const extractedDescription = data.description || "No description available.";
 
+    const hasFrontmatter = Object.keys(data).length > 0;
+
     return { 
         data: { 
             ...data, 
@@ -35,7 +37,8 @@ export const getArticleData = async (category: string, slug: string) => {
             createdAt: stats.birthtime,
             updatedAt: stats.mtime
         },
-        content 
+        content,
+        hasFrontmatter
     };
 }
 
