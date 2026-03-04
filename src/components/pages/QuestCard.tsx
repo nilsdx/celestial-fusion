@@ -23,7 +23,7 @@ const QuestCard: React.FC<QuestCardProps> = async ({name}) => {
                     {questDatas.name}
                 </p>
                 <p className="italic">{questDatas.info}</p>
-                <hr className="w-full border-sky-500 border rounded-full m-2"/>
+                <hr className="w-full border-sky-600 border rounded-full m-2"/>
                 <p>Description: {questDatas.description}</p>
                 <p>Reward: {questDatas.reward}</p>
                 <p>Category: {questDatas.category}</p>

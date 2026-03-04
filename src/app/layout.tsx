@@ -46,7 +46,7 @@ export default function RootLayout({
             <SearchBar/>
             <div className="flex">
               <Sidebar/>
-              <div className="border-3 border-sky-500 bg-gray-900 backdrop-blur-xs w-full rounded-lg">
+              <div className="border-3 border-sky-600 bg-gray-900 backdrop-blur-xs w-full rounded-lg">
                 {children}
               </div>
             </div>

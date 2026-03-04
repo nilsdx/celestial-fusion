@@ -25,7 +25,7 @@ export default async function SearchPage({
         <Suspense fallback={<div className="m-6 w-full">Loading...</div>}>
             <div className="m-6 space-y-4">
                 <h2 className="text-4xl">Search result for: {query}</h2>
-                <hr className="border-sky-500 border-2 rounded-full"/>
+                <hr className="border-sky-600 border-2 rounded-full"/>
                 <div className="space-y-4">
                     {searchParamsResult.map((res, i) => (
                         <Card key={`result-${i}`}>
