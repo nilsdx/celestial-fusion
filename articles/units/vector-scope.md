@@ -1,3 +1,17 @@
+---
+name: Vector Scope
+icon: unit
+type: Unit
+requirement: None
+resistances:
+  efr: 5
+  eth: 5
+  eic: 5
+  edk: 5
+  elt: 5
+classes: "111111111111"
+description: A legendary scope made by Justice Corp. Its said to enhance Needle type weapons.
+---
 # Vector Scope
 
 ## Set Effect

@@ -1,1 +1,20 @@
+---
+name: Phantom Raven
+icon: ra
+image: ""
+type: Handgun
+requirement: 150 ATA
+grind: 9
+targets: 1
+special: Arrest
+stats:
+  - label: ATP
+    value: 238-268
+  - label: ATA
+    value: "52"
+  - label: MST
+    value: "5"
+classes: "111111111111"
+description: A multi-shot firearm that unleashes dark energy rounds. Its special attack paralyzes enemies, stopping them in place.
+---
 # Phantom Raven

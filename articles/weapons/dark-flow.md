@@ -1,3 +1,20 @@
+---
+name: Dark Flow
+icon: hu
+image: ""
+type: Sword
+requirement: 1100 ATP
+grind: 0
+targets: 10
+special: Energy Wave
+stats:
+  - label: ATP
+    value: "1100"
+  - label: ATA
+    value: "50"
+classes: "111100000000"
+description: Sword eroded by Olga Flow DNA. Its power is awakened when its owner is in danger.
+---
 # Dark Flow
 
 Dark Flow (also known as DF) is a rare Sword that is part of the 'Dark' weapon trio. It is not a Destiny exclusive weapon, but it has been combo unlocked.

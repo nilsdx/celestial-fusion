@@ -1,3 +1,11 @@
+---
+name: Trap/Search
+icon: unit
+type: Unit
+requirement: None
+classes: "111111111111"
+description: When equipped, makes all traps visible.
+---
 # Trap/Search
 
 ## Trivia

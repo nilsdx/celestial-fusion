@@ -1,3 +1,20 @@
+---
+name: Dark Meteor
+icon: ra
+image: ""
+type: Shot
+requirement: 200 ATA
+grind: 25
+targets: 7
+special: Energy Beam
+stats:
+  - label: ATP
+    value: "700"
+  - label: ATA
+    value: "45"
+classes: "000011110000"
+description: Long range weapon eroded by Olga Flow DNA. When equipped, two different attacks can be used.
+---
 # Dark Meteor
 
 Dark Meteor (also known as DM) is a rare Shot that is part of the 'Dark' weapon trio. It is not a Destiny exclusive weapon, but it has been combo unlocked and now fire 7 projectiles instead of 5 with its normal and heavy attacks.

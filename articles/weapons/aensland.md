@@ -1,3 +1,22 @@
+---
+name: Aensland
+icon: hu
+image: ""
+type: Saber
+requirement: 880 ATP
+grind: 0
+targets: 3
+special: Spirit
+stats:
+  - label: ATP
+    value: 820-900
+  - label: ATA
+    value: "40"
+  - label: EVP
+    value: "-30"
+classes: "111100000000"
+description: In May we trust.
+---
 # Aensland
 
 Aensland is a rare sword.

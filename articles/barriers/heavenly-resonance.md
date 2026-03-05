@@ -1,3 +1,22 @@
+---
+name: Heavenly Resonance
+icon: barrier
+type: Barrier
+requirement: Level 200
+stats:
+  - label: DFP
+    value: 150-200
+  - label: EVP
+    value: 150-200
+resistances:
+  efr: 33
+  eth: 33
+  eic: 33
+  edk: 23
+  elt: 23
+classes: "000000001111"
+description: A divine shield that boosts power of Gi techniques.
+---
 # Heavenly Resonance
 
 ## Technique Boosts

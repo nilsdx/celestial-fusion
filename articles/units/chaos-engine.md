@@ -1,3 +1,17 @@
+---
+name: Chaos Engine
+icon: unit
+type: Unit
+requirement: None
+resistances:
+  efr: 5
+  eth: 5
+  eic: 5
+  edk: 5
+  elt: 5
+classes: "111111111111"
+description: A strange device built by outlaws. It's said it empowers certain weapons...
+---
 # Chaos Engine
 
 ## Set Effect

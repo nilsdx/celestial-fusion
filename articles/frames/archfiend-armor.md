@@ -1,1 +1,22 @@
+---
+name: Archfiend Armor
+icon: frame
+type: Frame
+requirement: Level 130
+stats:
+  - label: DFP
+    value: "370"
+  - label: EVP
+    value: 180-260
+  - label: ATP
+    value: "40"
+resistances:
+  efr: 0
+  eth: 0
+  eic: 0
+  edk: 50
+  elt: 0
+classes: "111111111111"
+description: Powerful demonic armor that boosts dark resistance.
+---
 # Archfiend Armor

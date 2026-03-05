@@ -1,1 +1,18 @@
+---
+name: Tiger's Fang & Dragon's Claw
+icon: hu
+image: ""
+type: Twin Sword
+requirement: 1000 ATP
+grind: 21
+targets: 3
+special: Gush
+stats:
+  - label: ATP
+    value: "990"
+  - label: ATA
+    value: "35"
+classes: "111100000000"
+description: When wielded together, these twin blades bestow the ability to absorb the life force of any opponent.
+---
 # Tiger's Fang & Dragon's Claw

@@ -1,3 +1,20 @@
+---
+name: Skyfall
+icon: fo
+image: ""
+type: Rod
+requirement: MST 1250
+grind: 0
+targets: 1
+special: Random Si Technique
+stats:
+  - label: ATP
+    value: "430"
+  - label: ATA
+    value: "55"
+classes: "000000001111"
+description: A legendary cane that boosts support abilities.
+---
 # Skyfall
 
 ## Technique Boosts

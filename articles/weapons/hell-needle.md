@@ -1,3 +1,20 @@
+---
+name: Hell Needle
+icon: ra
+image: ""
+type: Needle
+requirement: 135 ATA
+grind: 60
+targets: 5
+special: Hell
+stats:
+  - label: ATP
+    value: "400"
+  - label: ATA
+    value: "40"
+classes: "000011110000"
+description: A custom shotgun that shoots countless needles. Its special attack causes instant death.
+---
 # Hell Needle
 
 Hell Needle is a rare Needle weapon. Similarly to Arrest Needle, it has a high tier special in the form of Hell.

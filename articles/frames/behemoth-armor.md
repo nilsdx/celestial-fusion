@@ -1,3 +1,24 @@
+---
+name: Behemoth Armor
+icon: frame
+type: Frame
+requirement: Level 200
+stats:
+  - label: DFP
+    value: "340"
+  - label: EVP
+    value: "340"
+  - label: ATP
+    value: "50"
+resistances:
+  efr: 32
+  eth: 32
+  eic: 32
+  edk: 41
+  elt: 41
+classes: "111111111111"
+description: Legendary battle armor that excels in close combat.
+---
 # Behemoth Armor
 
 ## Variants

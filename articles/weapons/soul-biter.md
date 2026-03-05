@@ -1,3 +1,20 @@
+---
+name: Soul Biter
+icon: hu
+image: ""
+type: Sword
+requirement: "1100"
+grind: 75
+targets: 10
+special: Berserk
+stats:
+  - label: ATP
+    value: 700-750
+  - label: ATA
+    value: "40"
+classes: "111100000000"
+description: A dangerously sharp sword. It's capable of wounding its user as well as its target.
+---
 # Soul Biter
 
 ## Availability

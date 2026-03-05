@@ -1,3 +1,20 @@
+---
+name: Death Reaper
+icon: hu
+image: ""
+type: Partisan
+requirement: 580 ATP
+grind: 0
+targets: 10
+special: Hell
+stats:
+  - label: ATP
+    value: "666"
+  - label: ATA
+    value: "43"
+classes: "111111111111"
+description: This scythe is said to have been forged by the Grim Reaper himself. It can kill enemies with a single touch.
+---
 # Death Reaper
 
 Death Reaper is a rare Partisan that looks like Soul Banish, but black and red.

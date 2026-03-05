@@ -1,3 +1,20 @@
+---
+name: Taste of Affection
+icon: ra
+image: ""
+type: Mechgun
+requirement: 170 ATA
+grind: 15
+targets: 1
+special: Berserk
+stats:
+  - label: ATP
+    value: "260"
+  - label: ATA
+    value: "50"
+classes: "101010101010"
+description: A Male-only mechgun that shows a great passion for loved ones.
+---
 # Taste of Affection
 
 ## Technique Boost

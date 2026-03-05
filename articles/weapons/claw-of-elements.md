@@ -1,3 +1,20 @@
+---
+name: Claw of Elements
+icon: hu
+image: ""
+type: Fist
+requirement: 770 MST
+grind: 0
+targets: 1
+special: Spirit
+stats:
+  - label: ATP
+    value: "700"
+  - label: ATA
+    value: "62"
+classes: "111111111111"
+description: A great claw that glows only for the chosen. When wielded by a true believer, it boosts physical and mental capabilities.
+---
 # Claw of Elements
 
 Claw of Elements are rare Fists that boosts all Gi techniques by various amounts.

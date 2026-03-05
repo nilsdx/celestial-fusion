@@ -1,3 +1,22 @@
+---
+name: Astral Claw
+icon: hu
+image: ""
+type: Dagger
+requirement: 1200 MST
+grind: 0
+targets: 4
+special: Demon's
+stats:
+  - label: ATP
+    value: "700"
+  - label: ATA
+    value: "50"
+  - label: HP
+    value: "73"
+classes: "000000001111"
+description: A holiness claw that boosts Range of Jellen and Resta. Also empowers Barta. In addition, boosts player's HP.
+---
 # Astral Claw
 
 Astral Claw are rare Daggers. Aside from their Demon's special, they also offer powerful technique boosts as well as an HP boost.

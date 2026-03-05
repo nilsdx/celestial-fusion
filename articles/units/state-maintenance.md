@@ -1,3 +1,11 @@
+---
+name: State/Maintenance
+icon: unit
+type: Unit
+requirement: None
+classes: "111111111111"
+description: When equipped, this medical unit will cure any condition.
+---
 # State/Maintenance
 
 ## Trivia

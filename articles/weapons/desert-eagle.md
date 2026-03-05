@@ -1,3 +1,20 @@
+---
+name: Desert Eagle
+icon: ra
+image: ""
+type: Mechgun
+requirement: 200 ATA
+grind: 80
+targets: 1
+special: Long Range Piercing
+stats:
+  - label: ATP
+    value: "255"
+  - label: ATA
+    value: "50"
+classes: "101010100000"
+description: Pair of extremely powerful guns. Can fire a special long range piercing shot.
+---
 # Desert Eagle
 
 Desert Eagle are rare Mechguns that resembles the real weapon of the same name, only equipable by male Hunters and Rangers.

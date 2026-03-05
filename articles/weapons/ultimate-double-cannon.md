@@ -1,3 +1,20 @@
+---
+name: Ultimate Double Cannon
+icon: hu
+image: ""
+type: Double Saber
+requirement: 1200 ATP
+grind: 0
+targets: 3
+special: Ultimate Destruction
+stats:
+  - label: ATP
+    value: "1000"
+  - label: ATA
+    value: "60"
+classes: "111100000000"
+description: A mysterious ultimate weapon. Can unleash an immense blast that destroys foes in a cone in front of the wielder.
+---
 # Ultimate Double Cannon
 
 ## Variants

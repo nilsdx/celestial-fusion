@@ -1,3 +1,22 @@
+---
+name: D-Virus Armor
+icon: frame
+type: Frame
+requirement: Level 200
+stats:
+  - label: DFP
+    value: "600"
+  - label: EVP
+    value: "200"
+resistances:
+  efr: 32
+  eth: 32
+  eic: 32
+  edk: 32
+  elt: 32
+classes: "111111111111"
+description: Special armor obtained during Destiny PSOBB 5th anniversary.
+---
 # 5th Anniversary Armor
 
 5th Anniversary Armor is a rare frame that comes with the effect of [PB/Flow](/units/pb-flow).

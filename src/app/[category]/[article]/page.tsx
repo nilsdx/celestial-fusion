@@ -105,7 +105,6 @@ export default async function ArticlePage({ params }: PageProps) {
     return (
         <div className="flex min-h-screen">
             <article className="m-6 article-styling flex-4 min-w-0">
-                <h1>{data.title}</h1>
                 <ReactMarkdown 
                     remarkPlugins={[remarkGfm, remarkDirective, remarkLayoutPlugin]}
                     components={{

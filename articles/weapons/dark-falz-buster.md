@@ -1,3 +1,20 @@
+---
+name: Dark Falz Buster
+icon: hu
+image: /images/items/dfalz-buster.jpg
+type: Twin Sword
+requirement: 700 ATP
+grind: 0
+targets: 3
+special: Hell
+stats:
+  - label: ATP
+    value: 900-940
+  - label: ATA
+    value: "50"
+classes: "111100000000"
+description: Vigorous set of blades infused with the power of Dark Falz.
+---
 # Dark Falz Buster
 
 Dark Falz Buster is a rare Twin Sword. It is currently unobtainable, despite it still being present in the Destiny PSOBB database.

@@ -1,3 +1,22 @@
+---
+name: Excalibur
+icon: hu
+image: ""
+type: Saber
+requirement: 800 ATP
+grind: 0
+targets: 3
+special: Berserk
+stats:
+  - label: ATP
+    value: 900-950
+  - label: ATA
+    value: "60"
+  - label: MST
+    value: "35"
+classes: "111111111111"
+description: A golden sword that gets even more powerful as HP drops.
+---
 # Excalibur
 
 Excalibur is a rare Saber. It is not a Destiny exclusive weapon, but it receives buffs when paired with [Tellusis](https://wiki.pioneer2.net/w/Tellusis).

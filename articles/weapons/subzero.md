@@ -1,3 +1,20 @@
+---
+name: Rianov 303SNR-5
+icon: ra
+image: ""
+type: Rifle
+requirement: 680 MST
+grind: 24
+targets: 1
+special: Blizzard
+stats:
+  - label: ATP
+    value: 250-280
+  - label: ATA
+    value: "70"
+classes: "110011001111"
+description: This gun enhances your freeze abilities. Boosts Barta by 50, Gibarta by 40 and Rabarta by 30.
+---
 # Subzero
 
 ## Technique Boosts

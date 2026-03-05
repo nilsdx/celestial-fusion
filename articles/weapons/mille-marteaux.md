@@ -1,3 +1,22 @@
+---
+name: Mille Marteaux
+icon: ra
+image: ""
+type: Mechgun
+requirement: 190 ATA
+grind: 40
+targets: 1
+special: Divine Punishment
+stats:
+  - label: ATP
+    value: 200-220
+  - label: ATA
+    value: "45"
+  - label: MST
+    value: "10"
+classes: "000011110000"
+description: Powerful machine gun that's fit only for veteran Rangers.
+---
 # Mille Marteaux
 
 ## Set Effect

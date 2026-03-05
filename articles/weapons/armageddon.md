@@ -1,3 +1,20 @@
+---
+name: Armageddon
+icon: ra
+image: ""
+type: Mechgun
+requirement: 200 ATA
+grind: 60
+targets: 1
+special: Autotarget Charge
+stats:
+  - label: ATP
+    value: "180"
+  - label: ATA
+    value: "25"
+classes: "000011110000"
+description: This weapon was designed to end any creature in a blitz of gunfire.
+---
 # Armageddon
 
 Armageddon are rare mechguns. Their special are Charge, but the projectiles automatically targets enemies.

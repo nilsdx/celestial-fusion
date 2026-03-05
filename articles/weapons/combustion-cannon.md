@@ -1,3 +1,20 @@
+---
+name: Combustion Cannon
+icon: ra
+image: ""
+type: Shot
+requirement: 220 ATA
+grind: 0
+targets: 10
+special: Overdrive
+stats:
+  - label: ATP
+    value: "720"
+  - label: ATA
+    value: "75"
+classes: "000011110000"
+description: A military grade flamethrower. It ignites everything it touches... ...including you.
+---
 # Combustion Cannon
 
 Combustion Cannon is a rare Shot that shoots a single projectile like [Burning Visit](https://wiki.pioneer2.net/w/Burning_Visit).

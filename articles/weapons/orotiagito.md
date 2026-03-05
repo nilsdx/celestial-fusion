@@ -1,3 +1,22 @@
+---
+name: Orotiagito
+icon: hu
+image: ""
+type: Katana
+requirement: 850 ATP
+grind: 0
+targets: 1
+special: Energy Wave
+stats:
+  - label: ATP
+    value: 750-800
+  - label: ATA
+    value: "55"
+  - label: MST
+    value: "15"
+classes: "111100000000"
+description: AUW 1975 model. Made by Dousetsu.
+---
 # Orotiagito
 
 ## Set Effect

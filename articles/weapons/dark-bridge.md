@@ -1,3 +1,22 @@
+---
+name: Dark Bridge
+icon: fo
+image: ""
+type: Rod
+requirement: MST 900
+grind: 0
+targets: 1
+special: Triple Grants
+stats:
+  - label: ATP
+    value: "600"
+  - label: ATA
+    value: "60"
+  - label: DFP
+    value: "50"
+classes: "000000001111"
+description: A claw imprinted with Olga Flow DNA. The dark malignant Photons still retain the power of ancient techniques.
+---
 # Dark Bridge
 
 Dark Bridge is a rare Rod that is part of the 'Dark' weapon trio. It is not a Destiny exclusive weapon. Its special has been changed to fire Grants to three targets, and it now boosts more techniques.

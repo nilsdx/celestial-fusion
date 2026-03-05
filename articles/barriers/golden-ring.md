@@ -1,3 +1,24 @@
+---
+name: Golden Ring
+icon: barrier
+type: Barrier
+requirement: Level 1
+stats:
+  - label: DFP
+    value: 130-215
+  - label: EVP
+    value: 212-237
+  - label: All
+    value: "20"
+resistances:
+  efr: 30
+  eth: 30
+  eic: 30
+  edk: 5
+  elt: 5
+classes: "111111111111"
+description: Official Destiny PSOBB Beta Reward. Obtained as a reward for closed beta testing.
+---
 # Golden Ring
 
 Golden Ring is a rare shield resembling [Red Ring](https://wiki.pioneer2.net/w/Red_Ring) that was only distributed to players who took part in the server's closed beta testings.

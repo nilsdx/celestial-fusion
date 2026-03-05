@@ -1,3 +1,20 @@
+---
+name: Flight Cutter
+icon: hu
+image: ""
+type: Slicer
+requirement: 820 ATP
+grind: 9
+targets: 4
+special: Devil's
+stats:
+  - label: ATP
+    value: 250-260
+  - label: ATA
+    value: "40"
+classes: "111111110000"
+description: This throwing weapon was based on the ancient ninja's weapon.
+---
 # Flight Cutter
 
 ## Set Effect

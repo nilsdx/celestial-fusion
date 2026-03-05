@@ -1,3 +1,22 @@
+---
+name: Venus Bow
+icon: ra
+image: ""
+type: Needle
+requirement: 177 ATA
+grind: 0
+targets: 5
+special: Set 777 Damage
+stats:
+  - label: ATP
+    value: "777"
+  - label: ATA
+    value: "77"
+  - label: MST
+    value: "77"
+classes: "111111111111"
+description: Marle's crossbow. Its special attack deals a reliable 777 damage, but costs 777 meseta to use. First released during Destiny PSOBB 7th Anniversary.
+---
 # Venus Bow
 
 Venus Bow is a rare Needle that fires arrows that deals fixed amount of damages depending on the attack type, at the cost of the same amount of damages in Mesetas.

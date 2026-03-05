@@ -1,3 +1,20 @@
+---
+name: Judgement Blade
+icon: hu
+image: ""
+type: Twin Sword
+requirement: 1000 ATP
+grind: 40
+targets: 3
+special: Demon's
+stats:
+  - label: ATP
+    value: 920-920
+  - label: ATA
+    value: "65"
+classes: "111100000000"
+description: Best used to correct your enemies, this weapon inflicts agonizing pain.
+---
 # Judgement Blade
 
 ## Availability

@@ -1,3 +1,20 @@
+---
+name: Last Emperor
+icon: hu
+image: ""
+type: Dagger
+requirement: 750 ATP
+grind: 15
+targets: 3
+special: Energy Blast
+stats:
+  - label: ATP
+    value: 630-670
+  - label: ATA
+    value: "40"
+classes: "110011001111"
+description: An ultimate double claw powered by mental strength. Its special attack uses TP to blast enemies.
+---
 # Last Emperor
 
 ## Availability

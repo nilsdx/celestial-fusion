@@ -1,3 +1,23 @@
+---
+name: Frostbite
+icon: ra
+image: ""
+type: Rifle
+requirement: 162 ATA
+grind: 21
+targets: 1
+special: Freeze Shot
+stats:
+  - label: ATP
+    value: 350-350
+  - label: ATA
+    value: "60"
+classes: "000011110000"
+description: |-
+  This ice-cold rifle is capable of freezing almost any adversary. 
+
+   Randomly freezes the user. Its special instantly freezes enemies.
+---
 # Frostbite
 
 ## Availability

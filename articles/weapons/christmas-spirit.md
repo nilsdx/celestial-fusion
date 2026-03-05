@@ -1,3 +1,20 @@
+---
+name: Christmas Spirit
+icon: ra
+image: ""
+type: Shot
+requirement: 185 ATA
+grind: 0
+targets: 1
+special: Spirit
+stats:
+  - label: ATP
+    value: 320-350
+  - label: ATA
+    value: "40"
+classes: "111111111111"
+description: It's that special time of the year. Time to spread the love!
+---
 # Christmas Spirit
 
 Christmas Spirit is a rare Shot that behaves similarly to [L&K38 Combat](/weapons/lk38-combat), but equippable by all classes, and with a damage increase special in the form of Spirit.

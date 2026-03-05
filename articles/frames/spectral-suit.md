@@ -1,3 +1,22 @@
+---
+name: Spectral Suit
+icon: frame
+type: Frame
+requirement: Level 60
+stats:
+  - label: DFP
+    value: "150"
+  - label: EVP
+    value: "250"
+resistances:
+  efr: 0
+  eth: 0
+  eic: 0
+  edk: 35
+  elt: 0
+classes: "111111111111"
+description: Mysterious ghost armor that grants near invisibility when not attacking.
+---
 # Spectral Suit
 
 Spectral Suit is a rare frame that makes the user semi-invisible when they're not attacking, similarly to [Stealth Suit](https://wiki.pioneer2.net/w/Stealth_Suit).

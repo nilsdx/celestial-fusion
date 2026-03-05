@@ -1,3 +1,22 @@
+---
+name: Astral Wings
+icon: barrier
+type: Barrier
+requirement: Level 150
+stats:
+  - label: DFP
+    value: "180"
+  - label: EVP
+    value: "180"
+resistances:
+  efr: 32
+  eth: 32
+  eic: 32
+  edk: 24
+  elt: 24
+classes: "111111111111"
+description: Astral wings from another dimension. These wings grant immunity to any disease, and gives you the ability to detect traps.
+---
 # Astral Wings
 
 Astral Wings are a rare frame that comes with the effect of [Trap/Search](/units/trap-search) and grants immunity to all status ailments.

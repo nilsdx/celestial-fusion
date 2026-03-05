@@ -1,3 +1,20 @@
+---
+name: Death Cannon
+icon: ra
+image: ""
+type: Handgun
+requirement: 150 ATA
+grind: 15
+targets: 1
+special: Charge
+stats:
+  - label: ATP
+    value: "290"
+  - label: ATA
+    value: "56"
+classes: "111111111111"
+description: A hand cannon that can be very valuable in the midst of combat.
+---
 # Death Cannon
 
 Death Cannon is a rare Handgun that looks like a hand cannon.

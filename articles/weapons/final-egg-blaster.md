@@ -1,3 +1,20 @@
+---
+name: Final Egg Blaster
+icon: ra
+image: ""
+type: Mechgun
+requirement: 200 ATA
+grind: 30
+targets: 1
+special: Final Explosion
+stats:
+  - label: ATP
+    value: 400-440
+  - label: ATA
+    value: "40"
+classes: "000011110000"
+description: A prototype secret weapon built by dr. Robotnik to destroy the world. Its power is awakened when its owner is in danger.
+---
 # Final Egg Blaster
 
 Final Egg Blaster (also known as FEB) are rare Mechguns that are two Egg Blasters in one weapon.

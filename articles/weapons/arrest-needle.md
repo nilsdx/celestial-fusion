@@ -1,3 +1,20 @@
+---
+name: Arrest Needle
+icon: ra
+image: ""
+type: Needle
+requirement: 135 ATA
+grind: 60
+targets: 5
+special: Arrest
+stats:
+  - label: ATP
+    value: "400"
+  - label: ATA
+    value: "40"
+classes: "000011110000"
+description: A custom shotgun that shoots countless needles. Its special attack paralyzes enemies.
+---
 # Arrest Needle
 
 Arrest Needle is a rare Needle weapon, and is a direct upgrade to [Spread Needle](https://wiki.pioneer2.net/w/Spread_Needle) as its special is the upgraded version of Seize.

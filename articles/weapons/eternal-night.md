@@ -1,3 +1,20 @@
+---
+name: Eternal Night
+icon: hu
+image: ""
+type: Dagger
+requirement: 950 ATP
+grind: 95
+targets: 3
+special: Charge
+stats:
+  - label: ATP
+    value: "450"
+  - label: ATA
+    value: "35"
+classes: "111100000000"
+description: Two mythical blades sail through the night, spreading fear and terror.
+---
 # Eternal Night
 
 ## Variants

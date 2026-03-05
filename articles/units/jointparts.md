@@ -1,3 +1,17 @@
+---
+name: Jointparts
+icon: unit
+type: Unit
+requirement: None
+resistances:
+  efr: 5
+  eth: 5
+  eic: 5
+  edk: 5
+  elt: 5
+classes: "111111111111"
+description: An unknown artifact it's said to be used in the past. It enhances bond strength of certain weapons.
+---
 # Jointparts
 
 ## Set Effect

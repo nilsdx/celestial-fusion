@@ -1,1 +1,12 @@
+---
+name: Immortal/Body
+icon: unit
+type: Unit
+requirement: None
+stats:
+  - label: DFP
+    value: "125"
+classes: "111111111111"
+description: A reinforcing unit for protective gear. Boosts DFP by 125 when equipped.
+---
 # Immortal/Body

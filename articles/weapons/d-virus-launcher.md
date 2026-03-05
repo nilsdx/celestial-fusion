@@ -1,3 +1,20 @@
+---
+name: D-Virus Launcher
+icon: ra
+image: ""
+type: Shot
+requirement: 210 ATA
+grind: 80
+targets: 5
+special: Berserk
+stats:
+  - label: ATP
+    value: 300-360
+  - label: ATA
+    value: "60"
+classes: "000011110000"
+description: A powerful virus flows through this ultimate weapon. Its true potential is awakened when the owner has low health.
+---
 # D-Virus Launcher
 
 D-Virus Launcher (also known as DVL) is a rare shot that shoots rounds of 5 slow projectiles towards enemies. When the user's health is lowered, it fires up to 3 more rounds of 5 projectiles per combo.

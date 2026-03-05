@@ -1,3 +1,20 @@
+---
+name: Guld Milla
+icon: ra
+image: ""
+type: Mechgun
+requirement: 190 ATA
+grind: 60
+targets: 1
+special: Gush
+stats:
+  - label: ATP
+    value: 260-280
+  - label: ATA
+    value: "30"
+classes: "000011110000"
+description: A mysterious ultimate weapon. Its abilities are unknown.
+---
 # Guld Milla
 
 ## Set Effect

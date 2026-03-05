@@ -1,3 +1,24 @@
+---
+name: Phoenix Wings
+icon: barrier
+type: Barrier
+requirement: Level 200
+stats:
+  - label: DFP
+    value: 200-250
+  - label: EVP
+    value: 180-230
+  - label: ATA
+    value: "35"
+resistances:
+  efr: 40
+  eth: 32
+  eic: 32
+  edk: 20
+  elt: 40
+classes: "111111111111"
+description: A pair of phoenix wings that contains mighty power. It enhances Foie, Rafoie and range of Reverser.
+---
 # Phoenix Wings
 
 ## Technique Boosts

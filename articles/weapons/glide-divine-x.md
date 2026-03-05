@@ -1,3 +1,24 @@
+---
+name: Glide Divine X
+icon: fo
+image: ""
+type: Rod
+requirement: MST 900
+grind: 0
+targets: 1
+special: Anti/TP Refill
+stats:
+  - label: ATP
+    value: "440"
+  - label: ATA
+    value: "34"
+  - label: MST
+    value: "55"
+  - label: DFP
+    value: "50"
+classes: "000000001111"
+description: A strong cane that boosts the most basic of elemental attacks.
+---
 # Glide Divine X
 
 ## Technique Boosts

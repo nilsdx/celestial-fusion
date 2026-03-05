@@ -1,3 +1,20 @@
+---
+name: Soul Devourer
+icon: hu
+image: ""
+type: Slicer
+requirement: 700 ATP
+grind: 15
+targets: 7
+special: Geist
+stats:
+  - label: ATP
+    value: 280-300
+  - label: ATA
+    value: "45"
+classes: "110011001111"
+description: A special cane embedded with photon energy. Can be used by proficient fighters to drain mind power.
+---
 # Soul Devourer
 
 ## Known issues

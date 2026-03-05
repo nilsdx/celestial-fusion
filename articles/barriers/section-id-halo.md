@@ -1,3 +1,24 @@
+---
+name: <SectionID> Halo
+icon: barrier
+type: Barrier
+requirement: Level 150
+stats:
+  - label: DFP
+    value: "180"
+  - label: EVP
+    value: "180"
+  - label: ATA
+    value: "25"
+resistances:
+  efr: 20
+  eth: 20
+  eic: 20
+  edk: 25
+  elt: 20
+classes: "111111111111"
+description: A chromatic halo that boosts support techniques and accuracy.
+---
 # Section ID Halo
 
 ## Variants

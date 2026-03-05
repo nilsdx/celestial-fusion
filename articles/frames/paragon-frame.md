@@ -1,3 +1,22 @@
+---
+name: Paragon Frame
+icon: frame
+type: Frame
+requirement: Level 200
+stats:
+  - label: DFP
+    value: 200-250
+  - label: EVP
+    value: 200-220
+resistances:
+  efr: 40
+  eth: 40
+  eic: 40
+  edk: 40
+  elt: 40
+classes: "000000001111"
+description: A divine frame forged by masters of the past. Increases the power of support techniques.
+---
 # Paragon Frame
 
 Paragon Frame is a rare Frame that boosts Shifta and Deband's level by 5, making level 35 reachable, and also boosts Resta's healing power by 800 more HP.

@@ -1,5 +1,5 @@
 ---
-title: "Ill Gill Reaper"
+name: "Ill Gill Reaper"
 icon: "hu"
 image: "/images/items/igr.jpg"
 type: Partisan
@@ -7,10 +7,16 @@ requirement: "900 ATP"
 grind: 0
 targets: 10
 special: "Tempest/Blizzard/Hell"
-stats: {ATP: 900, ATA: 45}
+stats:
+  - label: ATP
+    value: "900"
+  - label: ATA
+    value: "45"
 classes: "111111111111"
 description: "An ultimate scythe worn by Ill Gill. When equipped, three different attacks can be used."
 ---
+# Ill Gill Reaper
+
 Ill Gill Reaper (also known as IGR) is a rare partisan.
 
 Ill Gill Reaper has three different specials that can be used, depending on the attack type: Tempest with Normal Attacks, Blizzard with Heavy Attacks, and Unreduced Hell with Special Attacks.
