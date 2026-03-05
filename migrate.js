@@ -3,7 +3,7 @@ const path = require('path');
 const matter = require('gray-matter');
 
 const articlesDir = path.join(__dirname, 'articles');
-const dataDir = path.join(__dirname, 'data');
+const dataDir = path.join(__dirname, 'datas');
 const outputDir = path.join(__dirname, 'output');
 
 function processDirectory(currentArticlesPath) {
