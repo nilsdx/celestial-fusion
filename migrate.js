@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
+const yaml = require('js-yaml');
 
 const articlesDir = path.join(__dirname, 'articles');
 const dataDir = path.join(__dirname, 'datas');
@@ -31,8 +32,22 @@ function processDirectory(currentArticlesPath) {
                 try {
                     const jsonContent = fs.readFileSync(jsonPath, 'utf8');
                     const jsonData = JSON.parse(jsonContent);
+
+                    const yamlOptions = {
+                        engines: {
+                            yaml: {
+                                stringify: (data) => {
+                                    return yaml.dump(data, {
+                                        flowLevel: 3,
+                                        lineWidth: -1,
+                                        quotingType: '"'
+                                    });
+                                }
+                            }
+                        }
+                    };
                     
-                    finalContent = matter.stringify(mdContent, jsonData);
+                    finalContent = matter.stringify(mdContent, jsonData, yamlOptions);
                     console.log(`Fused : ${relativePath}`);
                 } catch (error) {
                     console.error(`Error while parsing JSON for ${slug}:`, error.message);
