@@ -2,7 +2,7 @@
 title: "Ill Gill Reaper"
 icon: "hu"
 image: "/images/items/igr.jpg"
-type: partisan
+type: Partisan
 requirement: "900 ATP"
 grind: 0
 targets: 10
