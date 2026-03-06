@@ -74,10 +74,33 @@ const getAllArticleFiles = () => {
 };
 
 /**
+ * Extracts YAML Frontmatter values from an
+ * article, without the keys.
+ * 
+ * @param obj Generated object by gray-matter
+ * @returns array containing all extracted values
+ */
+const extractYamlValues = (obj: any): string => {
+    if (typeof obj !== 'object' || obj === null) {
+        return String(obj).toLowerCase();
+    }
+
+    return Object.values(obj)
+        .map(value => {
+            if (typeof value === 'object') {
+                return extractYamlValues(value);
+            }
+            return String(value).toLowerCase();
+        })
+        .join(' ');
+};
+
+/**
  * Searches through all articles by using the keywords present in the query.
  * Returns a list of all articles, title and description.
  * 
  * Priorities (in order):
+ * - YAML datas
  * - Article title
  * - Category
  * - Most number of matching keywords
@@ -92,6 +115,8 @@ export const searchArticles = async (query: string): Promise<ArticleSearchResult
     const allFiles = getAllArticleFiles();
     const results: { article: ArticleSearchResultInfos, score: number }[] = [];
 
+    const exactRegexes = keywords.map(word => new RegExp(`\\b${word}\\b`, 'i'));
+
     for (const fileInfo of allFiles) {
         const articleData = await getArticleData(fileInfo.category, fileInfo.slug);
         if (!articleData) continue;
@@ -100,29 +125,30 @@ export const searchArticles = async (query: string): Promise<ArticleSearchResult
         const titleLower = articleData.data.title.toLowerCase();
         const categoryLower = fileInfo.category.toLowerCase();
         const contentLower = articleData.content.toLowerCase();
+        
+        const { title, description, createdAt, updatedAt, ...otherData } = articleData.data;
+        const yamlValuesLower = extractYamlValues(otherData);
 
-        keywords.forEach(word => {
+        keywords.forEach((word, index) => {
             if (titleLower.includes(word)) {
                 score += 20; 
-
-                const exactMatchRegex = new RegExp(`\\b${word}\\b`, 'i');
-                if (exactMatchRegex.test(titleLower)) {
-                    score += 150;
-                }
-
-                const startsWithRegex = new RegExp(`\\b${word}`, 'i');
-                if (startsWithRegex.test(titleLower)) {
-                    score += 50;
-                }
+                if (exactRegexes[index].test(titleLower)) score += 150;
+                if (new RegExp(`\\b${word}`, 'i').test(titleLower)) score += 50;
             }
-            
+
             if (categoryLower.includes(word)) {
-                const exactCatRegex = new RegExp(`\\b${word}\\b`, 'i');
-                score += exactCatRegex.test(categoryLower) ? 80 : 30;
+                score += exactRegexes[index].test(categoryLower) ? 80 : 30;
             }
 
-            const occurrences = contentLower.split(word).length - 1;
-            score += occurrences;
+            const contentOccurrences = contentLower.split(word).length - 1;
+            score += contentOccurrences * 2;
+
+            if (yamlValuesLower.includes(word)) {
+                score += 40;
+                if (exactRegexes[index].test(yamlValuesLower)) {
+                    score += 60;
+                }
+            }
         });
 
         if (score > 0) {
@@ -142,6 +168,7 @@ export const searchArticles = async (query: string): Promise<ArticleSearchResult
         .sort((a, b) => b.score - a.score)
         .map(r => r.article);
 };
+
 
 /**
  * Returns the last <limit> articles that were recently updated
