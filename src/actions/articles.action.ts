@@ -24,7 +24,14 @@ export const getArticleData = async (category: string, slug: string) => {
     
     const { data, content } = matter(fileContent);
 
-    const extractedTitle = data.title || slug;
+    const match = content.match(/^#\s+(.*)$/m);
+    let extractedTitle;
+    if (match) {
+        extractedTitle = match[1].trim();
+    } else {
+        extractedTitle = slug;
+    }
+
     const extractedDescription = data.description || "No description available.";
 
     const hasFrontmatter = Object.keys(data).length > 0;
