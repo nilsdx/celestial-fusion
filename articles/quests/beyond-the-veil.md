@@ -1,26 +1,11 @@
 ---
 name: Beyond the Veil
+icon: quest
 category: Special
 info: ...
 description: ...
 author: Destiny Team
 reward: Mesetas
-enemyCounts:
-  - area: Forest 2
-    enemies: [{name: Hildelt, count: 32}, {name: Gulgus, count: 40}]
-  - area: Heaven's Mount
-    enemies: [{name: Sinow Red, count: 10}, {name: Dark Bringer, count: 12}]
-  - area: "????"
-    enemies: [{name: Rathalos, count: 1}, {name: Vaal Hazak, count: 1}]
-customEnemies:
-  - name: Rathalos
-    attribute: Native
-    image: /images/enemies/rathalos.jpg
-    stats: [{key: HP, value: 30000}]
-  - name: Vaal Hazak
-    attribute: Native
-    image: /images/enemies/rathalos.jpg
-    stats: []
 ---
 # Beyond the Veil
 

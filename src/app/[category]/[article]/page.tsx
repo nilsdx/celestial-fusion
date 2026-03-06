@@ -10,8 +10,6 @@ import React from 'react';
 import SectionID, { SECTION_IDS } from '@/src/components/SectionID';
 import Link from 'next/link';
 import { formatDate } from '@/src/utils/time.utils';
-import QuestCard from '@/src/components/pages/QuestCard';
-import QuestEnemyCounts from '@/src/components/pages/QuestEnemyCounts';
 import remarkDirective from 'remark-directive';
 import { visit } from 'unist-util-visit';
 import LinkIcon from '@/src/components/LinkIcon';
@@ -96,9 +94,7 @@ export default async function ArticlePage({ params }: PageProps) {
 
     let card = null;
 
-    if (category === "quests") {
-        card = (<QuestCard name={article}/>);
-    } else if (hasFrontmatter) {
+    if (hasFrontmatter) {
         card = (<ItemCard data={data} category={category} slug={article}/>);
     }
 
@@ -124,7 +120,6 @@ export default async function ArticlePage({ params }: PageProps) {
                 >   
                     {content}
                 </ReactMarkdown>
-                <QuestEnemyCounts name={article}/>
                 <div className="text-sm text-white/70 my-4">
                     <p>Created: {formatDate(itemData.data.createdAt, true)}</p>
                     <p>Last updated: {formatDate(itemData.data.updatedAt)}</p>
