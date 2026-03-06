@@ -1,17 +1,18 @@
 # Tweaks
 
-- [ ] Merge articles and datas into a single markdown using YAML blocks, change title logic
+- [x] Merge articles and datas into a single markdown using YAML blocks, change title logic
 - [ ] Tweak search algorithm to take those new datas into consideration
 
-# Overhaul (not sure if these will make it in yet)
+# UI overhaul
 
-- [ ] Move content to a database (PostgreSQL)
-- [ ] Image upload handling (find some sort of solution for this... Maybe Cloudinary ?)
-- [ ] Account handling
-- [ ] Content editor
+- [ ] Experiment with a new UI that is more ergonomic
+- [ ] Sortable tables by columns if toggled on
+- [ ] Responsive design
 
-# Articles (TODO LAST)
+# Articles
 
+- [ ] Add images for all weapons, frames, barriers
+- [ ] Add gifs for new animation demos and frame effects
 - [ ] Add missing drop tables for some items
 - [ ] All classes articles, with new stats and changes
 - [ ] Items articles (MPCs, Claddings, ...)
