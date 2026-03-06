@@ -2,6 +2,7 @@ import Image from "next/image";
 import Card from "../Card";
 import LinkIcon from "../LinkIcon";
 import AvailableClasses from "../AvailableClasses";
+import StatDisplay from "./StatDisplay";
 
 interface ItemCardProps {
     data: any;
@@ -46,20 +47,14 @@ const ItemCard: React.FC<ItemCardProps> = ({ data, category, slug }) => {
                             {Array.isArray(value) ? (
                                 <div className="flex flex-wrap gap-2">
                                     {value.map((item: any, index: number) => (
-                                        <div key={index} className="text-center bg-white/5 px-2 py-1 rounded">
-                                            <p className="text-[10px] text-white/40">{item.label}</p>
-                                            <p className="font-mono">{String(item.value)}</p>
-                                        </div>
+                                        <StatDisplay key={item.label} label={item.label} value={String(item.value)}/>
                                     ))}
                                 </div>
                             ) 
                             : typeof value === 'object' && value !== null ? (
                                 <div className="flex flex-wrap gap-2">
                                     {Object.entries(value).map(([subKey, subValue]) => (
-                                        <div key={subKey} className="text-center bg-white/5 px-2 py-1 rounded">
-                                            <p className="text-[10px] text-white/40 uppercase">{subKey}</p>
-                                            <p className="font-mono">{String(subValue)}</p>
-                                        </div>
+                                        <StatDisplay key={subKey} label={subKey} value={String(subValue)}/>
                                     ))}
                                 </div>
                             ) 
