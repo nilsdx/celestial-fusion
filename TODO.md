@@ -1,7 +1,7 @@
 # Tweaks
 
 - [x] Merge articles and datas into a single markdown using YAML blocks, change title logic
-- [ ] Tweak search algorithm to take those new datas into consideration
+- [x] Tweak search algorithm to take those new datas into consideration
 
 # UI overhaul
 
