@@ -3,7 +3,8 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { Article } from "../types/article";
+import { cache } from 'react';
+import { ArticleData, ArticleSearchResult, ArticleSearchResultInfos } from '../types/article';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
@@ -14,7 +15,7 @@ const articlesDirectory = path.join(process.cwd(), 'articles');
  * @param slug  article slug (2nd part of the link)
  * @returns Article datas (including its content)
  */
-export const getArticleData = async (category: string, slug: string) => {
+export const getArticleData = cache(async (category: string, slug: string): Promise<ArticleData | null> => {
     const filePath = path.join(articlesDirectory, category, `${slug}.md`);
 
     if (!fs.existsSync(filePath)) return null;
@@ -47,7 +48,7 @@ export const getArticleData = async (category: string, slug: string) => {
         content,
         hasFrontmatter
     };
-}
+})
 
 /**
  * Returns all articles with their slug, their category and their full path
@@ -84,12 +85,12 @@ const getAllArticleFiles = () => {
  * @param query Search query
  * @returns all articles matching the query
  */
-export const searchArticles = async (query: string): Promise<Article[]> => {
+export const searchArticles = async (query: string): Promise<ArticleSearchResultInfos[]> => {
     if (!query) return [];
 
     const keywords = query.toLowerCase().split(/\s+/).filter(k => k.length > 0);
     const allFiles = getAllArticleFiles();
-    const results: { article: Article, score: number }[] = [];
+    const results: { article: ArticleSearchResultInfos, score: number }[] = [];
 
     for (const fileInfo of allFiles) {
         const articleData = await getArticleData(fileInfo.category, fileInfo.slug);
