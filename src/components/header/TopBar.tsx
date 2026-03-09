@@ -1,5 +1,8 @@
 import { cookies } from "next/headers";
 import Image from "next/image";
+import SearchBar from "./SearchBar";
+
+const LOGO_SIZE = 200;
 
 const TopBar = async () => {
     const cookieStore = await cookies();
@@ -7,25 +10,25 @@ const TopBar = async () => {
     const isVapid = c && c.value == "1";
 
     return (
-        <div className="flex justify-center items-center py-12">
+        <div className="flex justify-between items-center bg-black p-1 fixed w-screen z-50 top-0">
             {isVapid ? (
                 <Image
                     src="/images/dtyy.png"
-                    width={600}
-                    height={600}
+                    width={LOGO_SIZE}
+                    height={LOGO_SIZE}
                     alt="Celestial Fusion logo"
                     unoptimized
                 />
             ) : (
                 <Image
                     src="/images/cf_logo.png"
-                    width={600}
-                    height={600}
-                    alt="Celestial Fusion logo"
+                    width={LOGO_SIZE}
+                    height={LOGO_SIZE}
+                    alt="Alternative Celestial Fusion logo"
                     unoptimized
                 />
             )}
-            
+            <SearchBar/>
         </div>
     )
 }

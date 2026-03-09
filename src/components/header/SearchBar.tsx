@@ -3,7 +3,7 @@ import Form from 'next/form'
 
 const SearchBar = () => {
     return (
-        <Form action="/search" className="my-2 border-3 border-sky-600 bg-gray-900 p-2 space-x-2 flex items-center w-fit self-end rounded-lg">
+        <Form action="/search" className="my-2 bg-gray-800 p-2 space-x-2 flex items-center w-fit self-end rounded-lg text-white">
             <Search size={16}/>
             <input name="query" className="w-64" placeholder="Search an article..."/>
             <button type="submit" className="cursor-pointer">Search</button>
