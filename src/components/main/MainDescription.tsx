@@ -1,4 +1,5 @@
 import { cookies } from "next/headers";
+import WebsiteLogo from "../WebsiteLogo";
 
 const MainDescription = async () => {
     const cookieStore = await cookies();
@@ -6,18 +7,17 @@ const MainDescription = async () => {
     const isVapid = c && c.value == "1"
 
 
-    if ( isVapid ) return (
+    return (
         <>
-            <h1 className="text-6xl">Thank you Vapid,</h1>
-            <p>very cool.</p>
+            <p>Welcome to</p>
+            <WebsiteLogo size={500}/>
+            {isVapid ? (
+                <p>Thank you Vapid, very cool.</p>
+            ) : (
+                <p className="mx-32">This website contains informations about Destiny PSOBB's new features, from items to quests, as well as guides to help players in need, whether new or advanced.</p>
+            )}
         </>
-        
-    ); else return (
-        <>
-            <h1 className="text-6xl">Welcome to Celestial Fusion!</h1>
-            <p>This website contains informations about Destiny PSOBB's new features, from items to quests, as well as guides to help players in need, whether new or advanced.</p>
-        </>
-    );
+    )
 }
 
 export default MainDescription;
