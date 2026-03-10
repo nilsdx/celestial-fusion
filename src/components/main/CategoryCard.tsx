@@ -11,6 +11,7 @@ export const CategoryCard: React.FC<CategoryCardProps> = ({label, image, href}) 
         <div className="relative w-30 h-30 overflow-hidden group">
             <Link
                 href={href}
+                scroll={true}
             >
                 <p className="absolute bottom-0 bg-rose-500 w-full z-10 text-white font text-sm p-1">{label}</p>
                 <Image
