@@ -106,7 +106,11 @@ export default async function ArticlePage({ params }: PageProps) {
                     components={{
                         a: ({ href, children }) => {
                             return (
-                                <Link href={href || '#'} className="inline-flex items-center">
+                                <Link
+                                    href={href || '#'}
+                                    className="inline-flex items-center"
+                                    scroll={true}
+                                >
                                     <LinkIcon href={href} size={16}/>
                                     {recursiveFormat(children)}
                                 </Link>

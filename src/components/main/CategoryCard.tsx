@@ -13,7 +13,7 @@ export const CategoryCard: React.FC<CategoryCardProps> = ({label, image, href}) 
                 href={href}
                 scroll={true}
             >
-                <p className="absolute bottom-0 bg-rose-500 w-full z-10 text-white font text-sm p-1">{label}</p>
+                <p className="absolute bottom-0 font-bold text-center bg-rose-600 w-full z-10 text-white font text-sm p-1">{label}</p>
                 <Image
                     src={image} alt={`${label} image`}
                     fill

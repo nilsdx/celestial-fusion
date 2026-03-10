@@ -10,6 +10,7 @@ export default function NotFound() {
       <Link 
         href="/" 
         className="underline"
+        scroll={true}
       >
         Back to main page
       </Link>
