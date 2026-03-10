@@ -42,7 +42,7 @@ export default function RootLayout({
             />
           </div>
           <TopBar/>
-          <div className="min-h-screen mx-16 my-2 mt-28 flex flex-col text-white">
+          <div className="min-h-screen mx-8 mb-12 mt-28 flex flex-col text-white">
             <div className="flex">
               <Sidebar/>
               <div className="border-3 border-sky-600 bg-gray-900 backdrop-blur-xs w-full rounded-lg">

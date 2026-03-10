@@ -9,7 +9,7 @@ const YOUTUBE_EMBED = "https://www.youtube.com/embed/h2Hjuc0qE_o";
 
 const MainSection = () => {
     return (
-    <div className="space-y-2 flex flex-col items-center p-8">
+    <div className="space-y-4 flex flex-col items-center p-8">
         <MainDescription/>
         <div className="flex w-full">
             <CategoriesSection/>
