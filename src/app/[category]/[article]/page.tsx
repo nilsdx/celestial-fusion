@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import ReactMarkdown from 'react-markdown';
+import ReactMarkdown, { Components } from 'react-markdown';
 import { notFound } from 'next/navigation';
 import remarkGfm from 'remark-gfm';
 import ItemCard from '../../../components/pages/ItemCard';
@@ -13,12 +13,37 @@ import { formatDate } from '@/src/utils/time.utils';
 import remarkDirective from 'remark-directive';
 import { visit } from 'unist-util-visit';
 import LinkIcon from '@/src/components/LinkIcon';
+import HeaderBox from '@/src/components/pages/HeaderBox';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
 interface PageProps {
     params: Promise<{ category: string; article: string }>;
 }
+
+interface CustomComponents extends Components {
+    headerbox?: React.ComponentType<{ type?: string }>;
+}
+
+const markdownComponents: CustomComponents = {
+    a: ({ href, children }) => {
+        return (
+            <Link
+                href={href || '#'}
+                className="inline-flex items-center"
+                scroll={true}
+            >
+                <LinkIcon href={href} size={16}/>
+                {recursiveFormat(children)}
+            </Link>
+        );
+    },
+    p: ({ children }) => <p>{recursiveFormat(children)}</p>,
+    li: ({ children }) => <li>{recursiveFormat(children)}</li>,
+    td: ({ children }) => <td>{recursiveFormat(children)}</td>,
+    th: ({ children }) => <th>{recursiveFormat(children)}</th>,
+    headerbox: ({ type }) => <HeaderBox type={type} />
+};
 
 function remarkLayoutPlugin() {
   return (tree: any) => {
@@ -37,6 +62,14 @@ function remarkLayoutPlugin() {
             className: attributes.class,
             ...attributes
         };
+      }
+
+      if (node.type === 'leafDirective' && node.name === 'headerbox') {
+        const data = node.data || (node.data = {});
+        
+        data.hName = 'headerbox';
+        
+        data.hProperties = node.attributes || {};
       }
     });
   };
@@ -103,24 +136,7 @@ export default async function ArticlePage({ params }: PageProps) {
             <article className="m-6 article-styling flex-4 min-w-0">
                 <ReactMarkdown 
                     remarkPlugins={[remarkGfm, remarkDirective, remarkLayoutPlugin]}
-                    components={{
-                        a: ({ href, children }) => {
-                            return (
-                                <Link
-                                    href={href || '#'}
-                                    className="inline-flex items-center"
-                                    scroll={true}
-                                >
-                                    <LinkIcon href={href} size={16}/>
-                                    {recursiveFormat(children)}
-                                </Link>
-                            );
-                        },
-                        p: ({ children }) => <p>{recursiveFormat(children)}</p>,
-                        li: ({ children }) => <li>{recursiveFormat(children)}</li>,
-                        td: ({ children }) => <td>{recursiveFormat(children)}</td>,
-                        th: ({ children }) => <th>{recursiveFormat(children)}</th>
-                    }}
+                    components={markdownComponents}
                 >   
                     {content}
                 </ReactMarkdown>

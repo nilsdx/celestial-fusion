@@ -17,6 +17,8 @@ description: Vigorous set of blades infused with the power of Dark Falz.
 ---
 # Dark Falz Buster
 
+::headerbox{type="discontinued"}
+
 Dark Falz Buster is a rare Twin Sword. It is currently unobtainable, despite it still being present in the Destiny PSOBB database.
 
 ## Availability

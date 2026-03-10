@@ -21,6 +21,8 @@ description: Special wings obtained during Destiny PSOBB 2nd anniversary.
 ---
 # 2nd Anniversary Wings
 
+::headerbox{type="discontinued"}
+
 ## Variants
 
 2nd Anniversary Wings have 10 variants, one per section ID, changing their color accordingly.

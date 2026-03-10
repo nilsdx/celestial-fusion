@@ -1,5 +1,7 @@
 # GM Exclusive Gears
 
+::headerbox{type="gm"}
+
 Certain pieces of equipments are exclusive to [GMs](/guides/gm), and aren't present in the Destiny PSOBB database. These are gears not a lot of players get to see, so here's a list of what exists.
 
 ## Disclaimer

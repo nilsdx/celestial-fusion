@@ -19,6 +19,8 @@ description: Special armor obtained during Destiny PSOBB 5th anniversary.
 ---
 # 5th Anniversary Armor
 
+::headerbox{type="discontinued"}
+
 5th Anniversary Armor is a rare frame that comes with the effect of [PB/Flow](/units/pb-flow).
 
 It can be considered to be a [D-Virus Armor](/frames/d-virus-armor) upgrade with their exact same stats, as the later's effect doesn't stack with the very common [Immortal/Battle](/units/pb-flow), and [PB/Flow](/units/pb-flow) is a strong effect on its own.

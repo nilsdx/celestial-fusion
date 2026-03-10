@@ -21,6 +21,8 @@ description: A chromatic halo that boosts support techniques and accuracy.
 ---
 # Section ID Halo
 
+::headerbox{type="wip"}
+
 ## Variants
 
 There are 10 Section ID halo variants, one per section ID, changing their color and name accordingly.

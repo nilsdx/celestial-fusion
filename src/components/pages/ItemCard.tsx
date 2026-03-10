@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Card from "../Card";
 import LinkIcon from "../LinkIcon";
-import AvailableClasses from "../AvailableClasses";
+import AvailableClasses from "./AvailableClasses";
 import StatDisplay from "./StatDisplay";
 
 interface ItemCardProps {
