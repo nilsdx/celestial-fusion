@@ -11,7 +11,7 @@ const TopBar = async () => {
     const isVapid = c && c.value == "1";
 
     return (
-        <div className="flex justify-between items-center bg-black px-2 py-1 fixed w-screen z-50 top-0">
+        <div className="flex justify-between items-center bg-gray-900 px-4 py-1 fixed w-screen z-50 top-0">
             <WebsiteLogo size={LOGO_SIZE}/>
             <SearchBar/>
         </div>

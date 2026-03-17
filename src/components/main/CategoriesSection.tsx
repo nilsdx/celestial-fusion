@@ -2,7 +2,7 @@ import { CategoryCard } from "./CategoryCard";
 
 const CATEGORIES = [
     {
-        title: "TBD",
+        title: "OVERVIEW",
         items: [
             {
                 title: "Classes",

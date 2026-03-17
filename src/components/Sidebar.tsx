@@ -96,8 +96,8 @@ const NAV_LINKS = [
 
 const Sidebar = () => {
     return (
-        <div>
-            <div className="px-2 space-y-2 w-48">
+        <div className="mr-4">
+            <div className="px-2 space-y-2 w-60">
                 {NAV_LINKS.map((cat) => (
                     <Card title={cat.title} key={`${cat.title}-category`}>
                         {cat.links.map((l) => (
