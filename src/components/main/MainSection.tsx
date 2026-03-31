@@ -25,7 +25,7 @@ const MainSection = () => {
                         href="/guides/beginner"
                         target={false}
                     >
-                        Beginner's Guide
+                        Beginner&apos;s Guide
                     </HoverLink>
                 </Card>
                 <Card title="About Destiny PSOBB">

@@ -5,7 +5,7 @@ export default function NotFound() {
     <div className="m-6">
       <h1 className="text-4xl mb-4">404 - Not found</h1>
       <p className="">
-        This page either doesn't exist, or the page related to it was deleted.
+        This page either doesn&apos;t exist, or the page related to it was deleted.
       </p>
       <Link 
         href="/" 

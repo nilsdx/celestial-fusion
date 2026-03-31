@@ -28,11 +28,14 @@ const SectionID: React.FC<ClassIconProps> = ({id, size}) => {
     )
     
     if (id == SECTION_IDS[6]) return (
-        <a
-            href="/api/vapid"
-        >
-            {component}
-        </a>
+        <>
+            {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
+            <a
+                href="/api/vapid"
+            >
+                {component}
+            </a>
+        </>
     ); else return component;
 }
 
