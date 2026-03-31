@@ -49,3 +49,6 @@ next-env.d.ts
 
 # data migration folder
 output/
+
+# jetbrains
+.idea/
