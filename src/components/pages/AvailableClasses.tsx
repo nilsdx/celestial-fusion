@@ -22,8 +22,8 @@ const AvailableClasses: React.FC<AvailableClassesProps> = ({classes}) => {
                         <p 
                             className={`p-1 text-center text-xs ${
                                 availability[(i * cat.length) + j] 
-                                ? "bg-green-500/80 text-green-950" 
-                                : "bg-red-500/80 text-red-950"
+                                ? "bg-green-400 text-black font-bold" 
+                                : "bg-red-500 text-white font-bold"
                             }`}
                             key={`class-${i}-${j}`}
                         >

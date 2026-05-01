@@ -6,8 +6,8 @@ interface StatDisplayProps {
 const StatDisplay: React.FC<StatDisplayProps> = ({label, value}) => {
     return (
         <div className="text-center bg-white/5 px-2 py-1 rounded">
-            <p className="text-[10px] text-white/40">{label}</p>
-            <p className="font-mono">{value}</p>
+            <p className="text-white/50 uppercase">{label}</p>
+            <p>{value}</p>
         </div>
     )
 }

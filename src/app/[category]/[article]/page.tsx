@@ -42,6 +42,8 @@ const markdownComponents: CustomComponents = {
     li: ({ children }) => <li>{recursiveFormat(children)}</li>,
     td: ({ children }) => <td>{recursiveFormat(children)}</td>,
     th: ({ children }) => <th>{recursiveFormat(children)}</th>,
+    h1: ({ children }) => <><h1>{children}</h1><hr className="mb-2 border-2 text-pink-300 rounded-xl"/></>,
+    h2: ({ children }) => <><h2>{children}</h2><hr className="mb-2"/></>,
     headerbox: ({ type }) => <HeaderBox type={type} />
 };
 
