@@ -9,9 +9,7 @@ import LatestChanges from "../components/main/LatestChanges";
 export default function Home() {
   return (
     <div className="flex gap-2 m-2">
-      <Card>
-        <MainSection/>
-      </Card>
+      <MainSection/>
       <div className="space-y-2">
         <Card title={"Latest changes"}>
           <LatestChanges/>

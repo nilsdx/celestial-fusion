@@ -9,6 +9,11 @@
 - [ ] Sortable tables by columns if toggled on
 - [ ] Responsive design
 
+# Potential features
+
+- [ ] Community showcases ?
+- [ ] Database driven/CMS driven articles
+
 # Articles
 
 - [ ] Add images for all weapons, frames, barriers
