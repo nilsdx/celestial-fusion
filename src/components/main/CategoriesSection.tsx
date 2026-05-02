@@ -79,7 +79,7 @@ const CategoriesSection = () => {
             {CATEGORIES.map((ctg, i) => (
                 <div
                     key={`${ctg.title}-${i}`}
-                    className="flex justify-center gap-4 flex-wrap border-2 border-sky-600 p-6 pt-8 relative rounded-lg"
+                    className="flex justify-center gap-4 flex-wrap border-2 border-sky-600 p-6 pt-8 relative"
                 >
                     <p className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-gray-900 px-4 font-bold text-xl uppercase tracking-wider z-10">
                         {ctg.title}

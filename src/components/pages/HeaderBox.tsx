@@ -6,7 +6,7 @@ const HeaderBox: React.FC<HeaderBoxProps> = ({ type }: { type?: string }) => {
     switch (type) {
         case 'gm':
             return (
-                <div className="border-l-4 border-red-500 bg-red-900/30 p-4 my-4 rounded-r-md">
+                <div className="border-l-4 border-red-500 bg-red-900/30 p-4 my-4">
                     <p className="text-red-400 font-bold m-0 flex items-center gap-2">
                         GM Exclusive content
                     </p>
@@ -17,7 +17,7 @@ const HeaderBox: React.FC<HeaderBoxProps> = ({ type }: { type?: string }) => {
             )
         case 'discontinued':
             return (
-                <div className="border-l-4 border-red-500 bg-red-900/30 p-4 my-4 rounded-r-md">
+                <div className="border-l-4 border-red-500 bg-red-900/30 p-4 my-4">
                     <p className="text-red-400 font-bold m-0 flex items-center gap-2">
                         Discontinued content
                     </p>
@@ -28,7 +28,7 @@ const HeaderBox: React.FC<HeaderBoxProps> = ({ type }: { type?: string }) => {
             )
         case 'wip':
             return (
-                <div className="border-l-4 border-sky-500 bg-sky-900/30 p-4 my-4 rounded-r-md">
+                <div className="border-l-4 border-sky-500 bg-sky-900/30 p-4 my-4">
                     <p className="text-sky-400 font-bold m-0 flex items-center gap-2">
                         Work in progress
                     </p>

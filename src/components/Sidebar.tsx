@@ -44,7 +44,7 @@ const Sidebar = () => {
                             {l.label}
                         </HoverLink>
                     ))}
-                    {i+1 < NAV_LINKS.length && (<hr className="text-white/20 border rounded-2xl"/>)}
+                    {i+1 < NAV_LINKS.length && (<hr className="text-white/20 border"/>)}
                 </div>
             ))}
         </div>

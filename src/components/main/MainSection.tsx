@@ -34,7 +34,7 @@ const MainSection = () => {
                         Its goal is to completely overhaul the progression of the game and add a challenging 
                         endgame through new quests, new bosses, and new items.
                     </p>
-                    <div className="aspect-video w-full overflow-hidden rounded-md p-2">
+                    <div className="aspect-video w-full overflow-hidden p-2">
                         <iframe
                             className="w-full h-full"
                             src={YOUTUBE_EMBED}
