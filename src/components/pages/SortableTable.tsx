@@ -1,4 +1,5 @@
 "use client";
+import { ChevronDown, ChevronsUpDown, ChevronUp } from 'lucide-react';
 import React, { ReactElement, ReactNode, useState } from 'react';
 
 // used for sorting, could be used elsewhere in the future but atm I shall leave it here
@@ -10,7 +11,17 @@ const extractText = (node: any): string => {
     return '';
 };
 
-export default function SortableTable({ children }: { children: React.ReactNode }) {
+const UPDOWN = (
+    <ChevronsUpDown size='16'/>
+)
+const UP = (
+    <ChevronUp size='16'/>
+)
+const DOWN = (
+    <ChevronDown size='16'/>
+)
+
+const SortableTable = ({ children }: { children: React.ReactNode }) => {
     const [sortConfig, setSortConfig] = useState<{ key: number; direction: 'asc' | 'desc' } | null>(null);
 
     const childrenArray = React.Children.toArray(children);
@@ -85,7 +96,7 @@ export default function SortableTable({ children }: { children: React.ReactNode 
                                     <span>{th.props ? th.props.children : th}</span>
                                     
                                     <span className="text-xs w-3 text-center">
-                                        {sortConfig?.key === i ? (sortConfig.direction === 'asc' ? '▲' : '▼') : '↕'}
+                                        {sortConfig?.key === i ? (sortConfig.direction === 'asc' ? UP : DOWN) : UPDOWN}
                                     </span>
                                 </div>
                             </th>
@@ -102,3 +113,5 @@ export default function SortableTable({ children }: { children: React.ReactNode 
         </div>
     );
 }
+
+export default SortableTable;
