@@ -7,7 +7,7 @@
 
 - [x] Experiment with a new UI that is more ergonomic
 - [x] Sortable tables by columns if toggled on
-- [ ] Responsive design
+- [x] Responsive design
 
 # Potential features
 

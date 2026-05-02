@@ -27,8 +27,8 @@ It is the strongest single target weapon in the game, especially when not combo 
 
 | Material 1 | Grind | Material 2 | Class | Stats | Result |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Sword](https://wiki.pioneer2.net/w/Sword) | +46 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Hunter | 971 ATP, Level 100 | Dark Bridge |
-| [Gigush](https://wiki.pioneer2.net/w/Gigush) | +32 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 110 | Dark Bridge |
-| [Breaker](https://wiki.pioneer2.net/w/Breaker) | +18 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 120 | Dark Bridge |
-| [Claymore](https://wiki.pioneer2.net/w/Claymore) | +16 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 130 | Dark Bridge |
-| [Calibur](https://wiki.pioneer2.net/w/Calibur) | +10 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 140 | Dark Bridge |
+| [Sword](https://wiki.pioneer2.net/w/Sword) | +46 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Hunter | 971 ATP, Level 100 | Dark Flow |
+| [Gigush](https://wiki.pioneer2.net/w/Gigush) | +32 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 110 | Dark Flow |
+| [Breaker](https://wiki.pioneer2.net/w/Breaker) | +18 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 120 | Dark Flow |
+| [Claymore](https://wiki.pioneer2.net/w/Claymore) | +16 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 130 | Dark Flow |
+| [Calibur](https://wiki.pioneer2.net/w/Calibur) | +10 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 971 ATP, Level 140 | Dark Flow |

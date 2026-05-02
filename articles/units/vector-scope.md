@@ -22,3 +22,4 @@ description: A legendary scope made by Justice Corp. Its said to enhance Needle 
 | [Grave Digger/Nefarious Needle](/weapons/grave-digger) | ATP+60, ATA+30 |
 | [Gush Needle](/weapons/gush-needle) | Range +105.0, Hits: 1-1-3 (Special), ATA+20 |
 | [Hell Needle](/weapons/hell-needle) | Range +105.0, ATA+20 |
+| [Berserk Needle](/weapons/berserk-needle) | Range +105.0, ATA+20 |
