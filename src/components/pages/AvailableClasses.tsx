@@ -12,7 +12,7 @@ const AvailableClasses: React.FC<AvailableClassesProps> = ({classes}) => {
     const availability = classes.split("").map((a) => a == "1");
     
     return (
-        <div className="flex flex-col gap-1 w-full">
+        <div className="flex flex-col gap-1 lg:w-full">
             {allClasses.map((cat, i) => (
                 <div 
                     className="grid grid-cols-4 gap-1"

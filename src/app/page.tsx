@@ -15,7 +15,7 @@ export default function Home() {
           <LatestChanges/>
         </Card>
         <Card title={"Join the Community"}>
-          <div className="w-full flex flex-col items-center">
+          <div className="w-full min-w-80 flex flex-col items-center">
             <Link
               href="https://discord.gg/mRHMqKrNp8"
               target="_blank"
