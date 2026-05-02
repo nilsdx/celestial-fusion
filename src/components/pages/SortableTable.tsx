@@ -90,7 +90,7 @@ const SortableTable = ({ children }: { children: React.ReactNode }) => {
                             <th 
                                 key={i} 
                                 onClick={() => handleSort(i)}
-                                className="p-3 font-semibold cursor-pointer hover:bg-sky-800/80 transition-colors select-none group border-r border-sky-800/50 last:border-r-0"
+                                className="p-3 font-semibold cursor-pointer transition-colors select-none group border-r border-sky-800/50 last:border-r-0"
                             >
                                 <div className="flex items-center justify-between gap-3">
                                     <span>{th.props ? th.props.children : th}</span>
