@@ -25,6 +25,7 @@ This page will list all barriers. This list is comprised of both new and modifie
 | [Hunter's Shell](/barriers/hunter-shell) |
 | [Molten Ring](/barriers/molten-ring) |
 | [Phoenix Wings](/barriers/phoenix-wings) |
+| [Radiant Ring](/barriers/radiant-ring) |
 | [Rainbow Shield](/barriers/rainbow-shield) |
 | [Red Phantom Field](/barriers/red-phantom-field) |
 | [Red Winter Hat](/barriers/red-winter-hat) |

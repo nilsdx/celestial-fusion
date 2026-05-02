@@ -1,9 +1,9 @@
 ---
 name: Kunai
-icon: hu
+icon: fo
 image: ""
 type: Card
-requirement: 900 412
+requirement: 412 ATP
 grind: 0
 targets: 1
 special: Arrest

@@ -16,6 +16,7 @@
 | [Centurion/Power](/units/centurion-power) |
 | [Chaos Engine](/units/chaos-engine) |
 | [HP/Flow](/units/hp-flow) |
+| [Forbidden Grimoire](/units/forbidden-grimoire) |
 | [Ignis Engine](/units/ignis-engine) |
 | [Immortal/Ability](/units/immortal-ability) |
 | [Immortal/Arms](/units/immortal-arms) |

@@ -11,6 +11,7 @@ This list is comprised of both new and modified weapons in the server.
 | ----------- |
 | [Aensland](/weapons/aensland) |
 | [Ancient Prophecy](/weapons/ancient-prophecy) |
+| [Astral Saber](/weapons/astral-saber) |
 | [Dark Falz Buster](/weapons/dark-falz-buster) |
 | [Death Reaper](/weapons/death-reaper) |
 | [Divine Blade](/weapons/divine-blade) |
@@ -21,7 +22,6 @@ This list is comprised of both new and modified weapons in the server.
 | [Ill Gill Reaper](/weapons/ill-gill-reaper) |
 | [Judgement Blade](/weapons/judgement-blade) |
 | [Kitetsu](/weapons/kitetsu) |
-| [Kunai](/weapons/kunai) |
 | [Last Emperor](/weapons/last-emperor) |
 | [Mitsunari](/weapons/mitsunari) |
 | [Nightmare](/weapons/nightmare) |
@@ -122,4 +122,9 @@ This list is comprised of both new and modified weapons in the server.
 | Technique weapons |
 | ----------- |
 | [Dark Bridge](/weapons/dark-bridge) |
+| [Gal Wind](/weapons/gal-wind) |
+| [Hildeblue's Cane](/weapons/hildeblue-cane) |
+| [Kunai](/weapons/kunai) |
+| [Prophets of Motav](/weapons/prophets-of-motav) |
+| [The Sigh of a God](/weapons/the-sigh-of-a-god) |
 :::

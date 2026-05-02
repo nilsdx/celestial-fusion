@@ -1,0 +1,18 @@
+---
+name: S-Red's Blade
+icon: hu
+image: ""
+type: Dagger
+requirement: 821 ATP
+grind: 15
+targets: 1
+special: Shifta/Deband (Lv.3)
+stats:
+  - label: ATP
+    value: 340-350
+  - label: ATA
+    value: "39"
+classes: "111111110000"
+description: Sinow Red's hands were remodeled into a weapon. Attack and defense are increased with its special attack.
+---
+# S-Red's Blade
