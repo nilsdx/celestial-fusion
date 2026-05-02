@@ -6,7 +6,7 @@
 # UI overhaul
 
 - [x] Experiment with a new UI that is more ergonomic
-- [ ] Sortable tables by columns if toggled on
+- [x] Sortable tables by columns if toggled on
 - [ ] Responsive design
 
 # Potential features

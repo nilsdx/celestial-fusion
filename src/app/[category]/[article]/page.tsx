@@ -14,6 +14,7 @@ import remarkDirective from 'remark-directive';
 import { visit } from 'unist-util-visit';
 import LinkIcon from '@/src/components/LinkIcon';
 import HeaderBox from '@/src/components/pages/HeaderBox';
+import SortableTable from '@/src/components/pages/SortableTable';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
@@ -40,11 +41,12 @@ const markdownComponents: CustomComponents = {
     },
     p: ({ children }) => <p>{recursiveFormat(children)}</p>,
     li: ({ children }) => <li>{recursiveFormat(children)}</li>,
-    td: ({ children }) => <td>{recursiveFormat(children)}</td>,
-    th: ({ children }) => <th>{recursiveFormat(children)}</th>,
     h1: ({ children }) => <><h1>{children}</h1><hr className="mb-2 border-2 text-pink-300"/></>,
     h2: ({ children }) => <><h2>{children}</h2><hr className="mb-2"/></>,
-    headerbox: ({ type }) => <HeaderBox type={type} />
+    headerbox: ({ type }) => <HeaderBox type={type} />,
+    table: ({ children }) => <SortableTable>{children}</SortableTable>,
+    th: ({ children }) => <th>{recursiveFormat(children)}</th>,
+    td: ({ children }) => <td className="px-2 py-0.5 border-r border-sky-800/30 last:border-r-0 align-middle">{recursiveFormat(children)}</td>,
 };
 
 function remarkLayoutPlugin() {
