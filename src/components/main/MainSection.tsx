@@ -11,7 +11,7 @@ const MainSection = () => {
     return (
     <div className="space-y-4 flex flex-col items-center p-8">
         <MainDescription/>
-        <div className="flex w-full">
+        <div className="flex w-full flex-col 2xl:flex-row">
             <CategoriesSection/>
             <div className="flex-1 space-y-2">
                 <Card title="Don't know where to start ?">

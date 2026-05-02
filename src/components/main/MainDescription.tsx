@@ -6,7 +6,7 @@ const MainDescription = async () => {
 
 
     return (
-        <div className="flex items-center">
+        <div className="flex items-center flex-col 2xl:flex-row">
             <div className="flex-1 flex flex-col items-center">
                 <p className="text-2xl">Welcome to</p>
                 <WebsiteLogo size={500}/>
