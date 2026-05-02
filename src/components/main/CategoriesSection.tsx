@@ -75,7 +75,7 @@ const CATEGORIES = [
 
 const CategoriesSection = () => {
     return (
-        <div className="flex flex-col gap-8 m-4 flex-1">
+        <div className="flex flex-col gap-8 sm:m-4 flex-1">
             {CATEGORIES.map((ctg, i) => (
                 <div
                     key={`${ctg.title}-${i}`}

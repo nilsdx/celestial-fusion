@@ -44,21 +44,21 @@ const Sidebar = () => {
         <>
             <button
                 onClick={toggleSidebar}
-                className="sm:hidden fixed top-4 left-4 z-50 sm:z-20 p-2 bg-gray-800 rounded-full"
+                className="lg:hidden fixed top-4 left-4 z-50 lg:z-20 p-2 bg-gray-800 rounded-full"
             >
                 {isOpen ? (<X/>) : (<Menu/>)}
             </button>
             {isOpen && (
                 <div 
-                    className="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 sm:hidden"
+                    className="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 lg:hidden"
                     onClick={toggleSidebar}
                 />
             )}
             <div className={`
-                fixed inset-y-0 left-0 z-50 sm:z-30 w-60 bg-gray-900 border-r border-white/10 p-4 space-y-2
+                fixed inset-y-0 left-0 z-50 lg:z-30 w-60 bg-gray-900 border-r border-white/10 p-4 space-y-2
                 transform transition-transform
                 ${isOpen ? "translate-x-0" : "-translate-x-full"}
-                sm:relative sm:translate-x-0 sm:flex sm:flex-col shrink-0 overflow-y-auto
+                lg:relative lg:translate-x-0 lg:flex lg:flex-col shrink-0 overflow-y-auto
             `}>
                 {NAV_LINKS.map((cat, i) => (
                     <div key={`${cat.title}-category`}>

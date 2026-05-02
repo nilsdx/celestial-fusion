@@ -8,7 +8,7 @@ import LatestChanges from "../components/main/LatestChanges";
 
 export default function Home() {
   return (
-    <div className="flex flex-col lg:flex-row gap-2 m-2">
+    <div className="flex flex-col xl:flex-row gap-2 m-2">
       <MainSection/>
       <div className="space-y-2">
         <Card title={"Latest changes"}>
