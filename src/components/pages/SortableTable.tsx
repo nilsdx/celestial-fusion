@@ -82,7 +82,7 @@ const SortableTable = ({ children }: { children: React.ReactNode }) => {
     };
 
     return (
-        <div className="w-fit my-6 border-2 border-sky-700 bg-gray-800">
+        <div className="max-w-full overflow-x-auto w-fit my-6 border-2 border-sky-700 bg-gray-800">
             <table className="text-left border-collapse text-sm text-gray-200">
                 <thead className="bg-sky-700 border-b-2 border-sky-600">
                     <tr>

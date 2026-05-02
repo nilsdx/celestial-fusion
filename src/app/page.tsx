@@ -15,7 +15,7 @@ export default function Home() {
           <LatestChanges/>
         </Card>
         <Card title={"Join the Community"}>
-          <div className="w-80 flex flex-col items-center">
+          <div className="w-full flex flex-col items-center">
             <Link
               href="https://discord.gg/mRHMqKrNp8"
               target="_blank"
@@ -35,7 +35,7 @@ export default function Home() {
           </div>
         </Card>
         <Card title={"Official website"}>
-          <div className="w-80 flex flex-col items-center">
+          <div className="w-full flex flex-col items-center">
             <Image src="/images/destiny_hd.png" width={180} height={180} alt="Destiny PSOBB Icon"/>
             <Link 
               href="https://www.playpso.net/"
