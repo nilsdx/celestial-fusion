@@ -29,33 +29,12 @@ body {
   }
 
   h3 {
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
 
-  /* table {
-    text-align: center;
-    border:solid;
-    border-width:3px;
-    border-color: var(--color-sky-600);
-
-    border-collapse: separate; 
-    border-spacing: 0;
-    border-radius: 8px;
-    overflow: hidden;
-
-
-    th, td {
-      padding: 0 8px;
-    }
-
-    thead {
-      background-color: var(--color-sky-600);
-    }
-
-    tbody tr:nth-child(even) {
-      background-color: #FFFFFF1B;
-    }
-  } */
+  h4 {
+    font-size: 1.5rem;
+  }
 
   a {
     text-decoration: underline;

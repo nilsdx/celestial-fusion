@@ -82,7 +82,7 @@ function remarkLayoutPlugin() {
 const formatTextWithIcons = (text: string) => {
     if (typeof text !== 'string') return text;
 
-    const regex = new RegExp(`\\b(${SECTION_IDS.join('|')})\\b`, 'g');
+    const regex = new RegExp(`(${SECTION_IDS.join('|')})\\b`, 'g');
     const parts = text.split(regex);
 
     return parts.map((part, i) => {

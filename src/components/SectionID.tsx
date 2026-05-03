@@ -23,7 +23,7 @@ const SectionID: React.FC<ClassIconProps> = ({id, size}) => {
             alt={`${id} icon`}
             width={size}
             height={size} 
-            className='select-none'
+            className='select-none inline-block align-middle'
         />
     )
     
