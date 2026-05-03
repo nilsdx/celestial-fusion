@@ -19,6 +19,8 @@ description: Two mythical blades sail through the night, spreading fear and terr
 
 ## Variants
 
+::headerbox{type="discontinued-event"}
+
 Eternal Night has two cosmetic variants that could've been obtained during Destiny PSOBB's 3rd anniversary event:
 - 3rd Anniversary Blade \[Galaxy\]
 - 3rd Anniversary Blade \[Crimson\]

@@ -21,7 +21,7 @@ description: Special wings obtained during Destiny PSOBB 2nd anniversary.
 ---
 # 2nd Anniversary Wings
 
-::headerbox{type="discontinued"}
+::headerbox{type="discontinued-event"}
 
 ## Variants
 

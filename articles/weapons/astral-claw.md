@@ -37,7 +37,7 @@ The following items can be traded at [The Phantastic Bazaar](/quests/the-phantas
 
 | Item | Quantity |
 | ----------- | ----------- |
-| [Millenium Photon Sphere](/tools/millenium-photon-sphere) | 10 |
+| [Millenium Photon Core](/tools/millenium-photon-core) | 10 |
 | [Primal Photon Sphere](/tools/primal-photon-sphere) | 1 |
 | [Darkness Photon Sphere](/tools/darkness-photon-sphere) | 1 |
 | [HP/Flow](/units/hp-flow) | 1 |
