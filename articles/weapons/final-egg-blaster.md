@@ -37,7 +37,7 @@ Final Egg Blaster has a cosmetic variant that can be acquired by combining it wi
 
 | Material | Result |
 | ----------- | ----------- |
-| [Blueprint: Astral Dragon](/items/blueprint-astral-dragon) | Astral Dragon |
+| [Blueprint: Astral Dragon](/tools/blueprint-astral-dragon) | Astral Dragon |
 
 ## Availability
 
@@ -45,4 +45,4 @@ Final Egg Blaster has a cosmetic variant that can be acquired by combining it wi
 
 | Material 1 | Grind | Material 2 | Class | Stats | Result |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Egg Blaster](https://wiki.pioneer2.net/w/Egg_Blaster) | 0 | [Dr. Robotnik's Plan B](/items/dr-robotnik-plan-b) | Any Ranger | Any | Final Egg Blaster |
+| [Egg Blaster](https://wiki.pioneer2.net/w/Egg_Blaster) | 0 | [Dr. Robotnik's Plan B](/tools/dr-robotnik-plan-b) | Any Ranger | Any | Final Egg Blaster |

@@ -1,3 +1,8 @@
+---
+name: 4th Anniversary Orb
+icon: item
+description: TBA
+---
 # 4th Anniversary Orb
 
-::headerbox{type="discontinued"}
+::headerbox{type="discontinued-event"}

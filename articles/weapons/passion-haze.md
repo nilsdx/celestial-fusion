@@ -38,4 +38,4 @@ description: A Female-only mechgun that shows ones affection for their beloved.
 
 ### Valentine Crates
 
-You have a small chance of getting this weapon from a [Valentine Crate](/items/valentine-crate)
+You have a small chance of getting this weapon from a [Valentine Crate](/tools/valentine-crate)

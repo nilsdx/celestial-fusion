@@ -46,7 +46,7 @@ It can be enhanced further by equipping [Parasitic Armor 'Predator'](/frames/par
 
 | Material 1 | Grind | Material 2 | Class | Stats | Result |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Rod](https://wiki.pioneer2.net/w/Rod) | +75 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 900 MST, Level 100 | Dark Bridge |
-| [Pole](https://wiki.pioneer2.net/w/Pole) | +50 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 900 MST, Level 110 | Dark Bridge |
-| [Pillar](https://wiki.pioneer2.net/w/Pillar) | +30 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 900 MST, Level 120 | Dark Bridge |
-| [Striker](https://wiki.pioneer2.net/w/Striker) | +20 | [Parasitic Gene "Flow"](/items/parasitic-gene-flow) | Any Force | 900 MST, Level 130 | Dark Bridge |
+| [Rod](https://wiki.pioneer2.net/w/Rod) | +75 | [Parasitic Gene "Flow"](/tools/parasitic-gene-flow) | Any Force | 900 MST, Level 100 | Dark Bridge |
+| [Pole](https://wiki.pioneer2.net/w/Pole) | +50 | [Parasitic Gene "Flow"](/tools/parasitic-gene-flow) | Any Force | 900 MST, Level 110 | Dark Bridge |
+| [Pillar](https://wiki.pioneer2.net/w/Pillar) | +30 | [Parasitic Gene "Flow"](/tools/parasitic-gene-flow) | Any Force | 900 MST, Level 120 | Dark Bridge |
+| [Striker](https://wiki.pioneer2.net/w/Striker) | +20 | [Parasitic Gene "Flow"](/tools/parasitic-gene-flow) | Any Force | 900 MST, Level 130 | Dark Bridge |

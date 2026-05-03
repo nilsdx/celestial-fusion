@@ -27,7 +27,7 @@ Christmas Spirit has a cosmetic variant that can be acquired by combining it wit
 
 | Material | Result |
 | ----------- | ----------- |
-| [4th Anniversary Orb](/items/4th-anniversary-orb) | Act of War |
+| [4th Anniversary Orb](/tools/4th-anniversary-orb) | Act of War |
 
 ## Availability
 

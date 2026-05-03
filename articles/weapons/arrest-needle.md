@@ -33,4 +33,4 @@ It is considered to be the best mid-range Arrest weapon in the game, and it can 
 
 | Material 1 | Grind | Material 2 | Class | Stats | Result |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Spread Needle](https://wiki.pioneer2.net/w/Spread_Needle) | Any | [Proof of Sonic Team](/items/proof-of-sonic-team) | Any Ranger | Any | Arrest Needle |
+| [Spread Needle](https://wiki.pioneer2.net/w/Spread_Needle) | Any | [Proof of Sonic Team](/tools/proof-of-sonic-team) | Any Ranger | Any | Arrest Needle |

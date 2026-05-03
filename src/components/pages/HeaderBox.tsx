@@ -6,11 +6,11 @@ const HeaderBox: React.FC<HeaderBoxProps> = ({ type }: { type?: string }) => {
     switch (type) {
         case 'gm':
             return (
-                <div className="border-l-4 border-red-500 bg-red-900/30 p-4 my-4">
-                    <p className="text-red-400 font-bold m-0 flex items-center gap-2">
+                <div className="border-l-4 border-amber-500 bg-amber-900/30 p-4 my-4">
+                    <p className="text-amber-400 font-bold m-0 flex items-center gap-2">
                         GM Exclusive content
                     </p>
-                    <p className="text-sm text-red-100/80 mt-1 mb-0">
+                    <p className="text-sm text-amber-100/80 mt-1 mb-0">
                         This article refers content that is exclusive to Game Masters.
                     </p>
                 </div>
@@ -22,7 +22,18 @@ const HeaderBox: React.FC<HeaderBoxProps> = ({ type }: { type?: string }) => {
                         Discontinued content
                     </p>
                     <p className="text-sm text-red-100/80 mt-1 mb-0">
-                        This article refers content that is now discontinued, or come from previous events and are no longer available through regular means.
+                        This article refers content that is now discontinued and is no longer available through regular means.
+                    </p>
+                </div>
+            )
+        case 'discontinued-event':
+            return (
+                <div className="border-l-4 border-red-500 bg-red-900/30 p-4 my-4">
+                    <p className="text-red-400 font-bold m-0 flex items-center gap-2">
+                        Discontinued content
+                    </p>
+                    <p className="text-sm text-red-100/80 mt-1 mb-0">
+                        This article refers content that come from previous events that won't come back.
                     </p>
                 </div>
             )

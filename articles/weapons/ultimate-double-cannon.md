@@ -23,8 +23,8 @@ Ultimate Double Cannon has two cosmetic variants that can be acquired by combini
 
 | Material | Classes | Result |
 | ----------- | ----------- | ----------- |
-| [Orb of Illusion](/items/orb-of-illusion) | [HUmar](/classes/humar) or [HUnewearl](/classes/hunewearl) | Lavis Storm |
-| [Orb of Illusion](/items/orb-of-illusion) | [HUcast](/classes/hucast) or [HUcaseal](/classes/hucaseal) | Double Fury |
+| [Orb of Illusion](/tools/orb-of-illusion) | [HUmar](/classes/humar) or [HUnewearl](/classes/hunewearl) | Lavis Storm |
+| [Orb of Illusion](/tools/orb-of-illusion) | [HUcast](/classes/hucast) or [HUcaseal](/classes/hucaseal) | Double Fury |
 
 ## Set Effects
 
@@ -42,4 +42,4 @@ Ultimate Double Cannon has two cosmetic variants that can be acquired by combini
 
 | Material 1 | Grind | Material 2 | Class | Stats | Result |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Double Cannon](https://wiki.pioneer2.net/w/Double_Cannon) | 0 | [Dark Matter](/items/dark-matter) | Any Hunter | Any | Ultimate Double Cannon |
+| [Double Cannon](https://wiki.pioneer2.net/w/Double_Cannon) | 0 | [Dark Matter](/tools/dark-matter) | Any Hunter | Any | Ultimate Double Cannon |

@@ -29,7 +29,7 @@ description: A legendary cane that boosts support abilities.
 
 ### Valentine Crates
 
-You have a small chance of getting this weapon from a [Valentine Crate](/items/valentine-crate)
+You have a small chance of getting this weapon from a [Valentine Crate](/tools/valentine-crate)
 
 ### Enemy Drops
 

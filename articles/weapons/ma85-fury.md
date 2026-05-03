@@ -37,4 +37,4 @@ Its specials at first does nothing more to the weapon, but when you equip it for
 
 ### Valentine Crates
 
-You have a small chance of getting this weapon from a [Valentine Crate](/items/valentine-crate)
+You have a small chance of getting this weapon from a [Valentine Crate](/tools/valentine-crate)

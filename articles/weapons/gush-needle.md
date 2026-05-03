@@ -27,4 +27,4 @@ description: A custom shotgun that shoots countless needles. Its special attack 
 
 ### Legendary Crates
 
-You have a chance at getting Gush Needle from [Legendary Crates](/items/legendary-crate).
+You have a chance at getting Gush Needle from [Legendary Crates](/tools/legendary-crate).

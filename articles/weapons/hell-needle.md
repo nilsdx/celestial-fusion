@@ -33,4 +33,4 @@ When combined with Vector Scope, it becomes the best Hell weapon for Rangers due
 
 | Material 1 | Grind | Material 2 | Class | Stats | Result |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Spread Needle](https://wiki.pioneer2.net/w/Spread_Needle) | Any | [Dark Matter](/items/dark-matter) | Any Ranger | Any | Hell Needle |
+| [Spread Needle](https://wiki.pioneer2.net/w/Spread_Needle) | Any | [Dark Matter](/tools/dark-matter) | Any Ranger | Any | Hell Needle |

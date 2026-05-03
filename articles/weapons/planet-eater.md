@@ -27,7 +27,7 @@ description: Forged in a universe that predates our own. It is powerful enough t
 
 ### Valentine Crates
 
-You have a small chance of getting this weapon from a [Valentine Crate](/items/valentine-crate)
+You have a small chance of getting this weapon from a [Valentine Crate](/tools/valentine-crate)
 
 ### Enemy Drops
 

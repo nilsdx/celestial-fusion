@@ -27,4 +27,4 @@ Cataclysm Shield has a cosmetic variant that can be acquired by combining it wit
 
 | Material | Result |
 | ----------- | ----------- |
-| [Orb of Illusion](/items/orb-of-illusion) | Hellfire Shield |
+| [Orb of Illusion](/tools/orb-of-illusion) | Hellfire Shield |

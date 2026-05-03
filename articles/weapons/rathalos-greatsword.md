@@ -31,7 +31,7 @@ Rathalos Greatsword has a cosmetic variant that can be acquired by combining it 
 
 | Material | Result |
 | ----------- | ----------- |
-| [4th Anniversary Orb](/items/4th-anniversary-orb) | Terror Sawd |
+| [4th Anniversary Orb](/tools/4th-anniversary-orb) | Terror Sawd |
 
 ## Availability
 

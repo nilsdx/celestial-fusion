@@ -27,4 +27,4 @@ Behemoth Armor has a cosmetic variant that can be acquired by combining it with 
 
 | Material | Result |
 | ----------- | ----------- |
-| [Orb of Illusion](/items/orb-of-illusion) | Evil Aura |
+| [Orb of Illusion](/tools/orb-of-illusion) | Evil Aura |

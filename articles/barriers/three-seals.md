@@ -33,7 +33,7 @@ Three Seals has a cosmetic variant that can be acquired by combining it with ano
 
 | Material | Result |
 | ----------- | ----------- |
-| [Orb of Illusion](/items/orb-of-illusion) | Profound Darkness |
+| [Orb of Illusion](/tools/orb-of-illusion) | Profound Darkness |
 
 ## Trivia
 

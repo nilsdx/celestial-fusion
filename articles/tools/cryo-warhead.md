@@ -1,6 +1,6 @@
 ---
-name: Photon Token
+name: Cryo Warhead
 icon: item
 description: TBA
 ---
-# Photon Token
+# Cryo Warhead

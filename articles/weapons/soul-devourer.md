@@ -38,4 +38,4 @@ description: A special cane embedded with photon energy. Can be used by proficie
 
 ### Valentine Crates
 
-You have a small chance of getting this weapon from a [Valentine Crate](/items/valentine-crate)
+You have a small chance of getting this weapon from a [Valentine Crate](/tools/valentine-crate)
