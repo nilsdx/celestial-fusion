@@ -9,7 +9,7 @@
 | Dark Chao | [Heart of Dark Chao](/tools/heart-of-dark-chao) | Level 50+ third evolution mag | Invincibility (60%) | Invincibility (60%) | Invincibility (60%) | - |
 | Devil Wing | [Heart of Devil](/tools/heart-of-devil) | Level 100+ third evolution mag | Invincibility (50%) | Invincibility (50%) | Invincibility (50%) | No class restriction |
 | Dreamcast | [Kit of Dreamcast](/tools/kit-of-dreamcast) | Level 100+ Character & Level 100+ [Sega Saturn](https://wiki.pioneer2.net/w/Sega_Saturn) | Invincibility (70-105%) | Resta (70%) | S&D (70-105%) | - |
-| Elenor | - | - | S&D (50-85%) | Invincibility (50%) | S&D (50-85%) | No class restriction, available in certain crates or through Donation redeems |
+| Elenor | - | - | S&D (50-85%) | Invincibility (50%) | S&D (50-85%) | No class restriction |
 | Gael Giel | [D-Photon Core](/tools/d-photon-core) | Level 100+ Kama | Invincibility (60-95%) | Invincibility (60%) | Invincibility (60-95%) | Modified triggers |
 | Moro | [Heart of Morolian](/tools/heart-of-morolian) | Any Kumara | Invincibility (50%) | Resta (50%) | Resta (50%) | New set effect with [Tension Blaster](/weapons/tension-blaster) |
 | NiGHTs | [Ideya Cell](/tools/ideya-cell) | Level 50+ third evolution mag | Invincibility (60%) | Invincibility (60%) | Invincibility (60%) | - |

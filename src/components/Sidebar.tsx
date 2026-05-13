@@ -20,10 +20,11 @@ const NAV_LINKS = [
             {label: "Barriers", href: "/categories/barriers", blank: false},
             {label: "Units", href: "/categories/units", blank: false},
             {label: "Mags", href: "/categories/mags", blank: false},
-            {label: "Items", href: "/categories/items", blank: false},
+            {label: "Tools", href: "/categories/tools", blank: false},
             {label: "Quests", href: "/categories/quests", blank: false},
             {label: "Events", href: "/categories/events", blank: false},
-            {label: "Guides", href: "/categories/guides", blank: false},{label: "Game updates", href: "/categories/updates", blank: false}
+            {label: "Guides", href: "/categories/guides", blank: false},
+            {label: "Game updates", href: "/categories/updates", blank: false}
         ]
     },
     {
