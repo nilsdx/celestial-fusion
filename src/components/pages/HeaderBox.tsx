@@ -33,7 +33,7 @@ const HeaderBox: React.FC<HeaderBoxProps> = ({ type }: { type?: string }) => {
                         Discontinued content
                     </p>
                     <p className="text-sm text-red-100/80 mt-1 mb-0">
-                        This article refers content that come from previous events that won't come back.
+                        This article refers content that come from previous events that won&apos;t come back.
                     </p>
                 </div>
             )
