@@ -45,11 +45,9 @@ const ItemCard: React.FC<ItemCardProps> = ({ data, category, slug }) => {
                     <div key={key} className="flex flex-col border-b border-white/5 pb-1">
                         <span className="text-white/50 uppercase text-[10px] font-bold">{key}</span>
                         
-                        {/* 1. Condition Spécifique pour la difficulté */}
                         {key.toLowerCase() === 'difficulty' ? (
                             <ItemCardStars value={value}/>
                         ) 
-                        /* 2. Reste de tes conditions existantes */
                         : Array.isArray(value) ? (
                             <div className="flex flex-wrap gap-2">
                                 {value.map((item: any, index: number) => (
