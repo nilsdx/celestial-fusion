@@ -5,7 +5,7 @@ interface ItemCardStarsProps {
 }
 
 const ItemCardStars: React.FC<ItemCardStarsProps> = ({value}) => {
-    const rating = Math.min(Math.max(parseInt(value, 10) || 0, 0), 5);
+    const rating = Math.min(Math.max(parseInt(value, 10) || 0, 0), 10);
     
     return (
         <div className="flex gap-0.5 text-base mt-0.5" aria-label={`Difficulté : ${rating} sur 5`}>
