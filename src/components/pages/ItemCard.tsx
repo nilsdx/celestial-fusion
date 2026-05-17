@@ -3,6 +3,7 @@ import Card from "../Card";
 import LinkIcon from "../LinkIcon";
 import AvailableClasses from "./AvailableClasses";
 import StatDisplay from "./StatDisplay";
+import ItemCardStars from "./ItemCardStars";
 
 interface ItemCardProps {
     data: any;
@@ -35,7 +36,7 @@ const ItemCard: React.FC<ItemCardProps> = ({ data, category, slug }) => {
                         />
                     </div>
                 )}
-                <p className="italic text-center text-white/80">
+                <p className="italic text-center text-white/80 whitespace-pre-line">
                     {data.description}
                 </p>
             </div>
@@ -43,7 +44,13 @@ const ItemCard: React.FC<ItemCardProps> = ({ data, category, slug }) => {
                 {dynamicFields.map(([key, value]) => (
                     <div key={key} className="flex flex-col border-b border-white/5 pb-1">
                         <span className="text-white/50 uppercase text-[10px] font-bold">{key}</span>
-                        {Array.isArray(value) ? (
+                        
+                        {/* 1. Condition Spécifique pour la difficulté */}
+                        {key.toLowerCase() === 'difficulty' ? (
+                            <ItemCardStars value={value}/>
+                        ) 
+                        /* 2. Reste de tes conditions existantes */
+                        : Array.isArray(value) ? (
                             <div className="flex flex-wrap gap-2">
                                 {value.map((item: any, index: number) => (
                                     <StatDisplay key={item.label} label={item.label} value={String(item.value)}/>
