@@ -63,7 +63,7 @@ const ItemCard: React.FC<ItemCardProps> = ({ data, category, slug }) => {
                             </div>
                         ) 
                         : (
-                            <p className="font-medium">{String(value)}</p>
+                            <p className="font-medium whitespace-pre-line">{String(value)}</p>
                         )}
                     </div>
                 ))}
