@@ -15,6 +15,17 @@ const HeaderBox: React.FC<HeaderBoxProps> = ({ type }: { type?: string }) => {
                     </p>
                 </div>
             )
+        case 'event':
+            return (
+                <div className="border-l-4 border-green-500 bg-green-900/30 p-4 my-4">
+                    <p className="text-green-400 font-bold m-0 flex items-center gap-2">
+                        Event exclusive content
+                    </p>
+                    <p className="text-sm text-green-100/80 mt-1 mb-0">
+                        This article refers content that is only available during specific limited-time events.
+                    </p>
+                </div>
+            )
         case 'discontinued':
             return (
                 <div className="border-l-4 border-red-500 bg-red-900/30 p-4 my-4">
