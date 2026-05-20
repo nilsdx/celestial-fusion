@@ -8,19 +8,18 @@ interface CategoryCardProps {
 }
 export const CategoryCard: React.FC<CategoryCardProps> = ({label, image, href}) => {
     return (
-        <div className="relative w-30 h-30 overflow-hidden group">
-            <Link
-                href={href}
-                scroll={true}
-            >
-                <p className="absolute bottom-0 font-bold text-center bg-rose-600 w-full z-10 text-white font text-sm p-1">{label}</p>
-                <Image
-                    src={image} alt={`${label} image`}
-                    fill
-                    className="hover:scale-120 transition-transform duration-200"
-                />
-            </Link>
-        </div>
-        
+        <Link
+            href={href}
+            scroll={true}
+            className="relative w-30 h-30 overflow-hidden group"
+        >
+            <p className="absolute bottom-0 font-bold text-center bg-rose-600 w-full z-10 text-white font text-sm p-1">{label}</p>
+            <Image
+                src={image} alt={`${label} image`}
+                fill
+                sizes="120px"
+                className="hover:scale-120 transition-transform duration-200"
+            />
+        </Link>
     )
 }

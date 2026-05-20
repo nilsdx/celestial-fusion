@@ -36,7 +36,7 @@ export default function Home() {
         </Card>
         <Card title={"Official website"}>
           <div className="w-full flex flex-col items-center">
-            <Image src="/images/destiny_hd.png" width={180} height={180} alt="Destiny PSOBB Icon"/>
+            <Image src="/images/destiny_hd.png" width={200} height={120} alt="Destiny PSOBB Icon" className="w-auto h-auto"/>
             <Link 
               href="https://www.playpso.net/"
               className="flex items-center gap-1 underline"

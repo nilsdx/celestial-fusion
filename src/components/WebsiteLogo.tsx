@@ -17,6 +17,12 @@ const WebsiteLogo: React.FC<WebsiteLogoProps> = async ({size}) => {
             height={size}
             alt="Alternative Celestial Fusion logo"
             unoptimized
+            loading="eager"
+            style={{ 
+                width: `${size}px`, 
+                height: 'auto', 
+                maxWidth: '100%' 
+            }}
         />
     )
 
@@ -27,6 +33,12 @@ const WebsiteLogo: React.FC<WebsiteLogoProps> = async ({size}) => {
             height={size}
             alt="Celestial Fusion logo"
             unoptimized
+            loading="eager"
+            style={{ 
+                width: `${size}px`, 
+                height: 'auto', 
+                maxWidth: '100%' 
+            }}
         />
     )
 }
