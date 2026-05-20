@@ -1,24 +1,24 @@
-# Tweaks
+# Architecture
 
-- [x] Merge articles and datas into a single markdown using YAML blocks, change title logic
-- [x] Tweak search algorithm to take those new datas into consideration
-
-# UI overhaul
-
-- [x] Experiment with a new UI that is more ergonomic
-- [x] Sortable tables by columns if toggled on
-- [x] Responsive design
-
-# Potential features
-
-- [ ] Community showcases ?
-- [ ] Database driven/CMS driven articles
+- [ ] Move page logic to a PostgreSQL database
+- [ ] Start considering Docker
 
 # Articles
 
+- [ ] Complete The Phantastic Bazaar page with maps and trade lists
 - [ ] Add images for all weapons, frames, barriers
 - [ ] Add gifs for new animation demos and frame effects
 - [ ] Add missing drop tables for some items
-- [ ] All classes articles, with new stats and changes
-- [ ] Items articles (MPCs, Claddings, ...)
-- [ ] All quest articles, with difficulty
+- [ ] All classes articles, with their changes outside of stats
+- [ ] Either add articles for all vanilla weapons OR add an article that refers all of these in one place
+
+# Features
+
+- [ ] Accounts
+- [ ] Page editor
+- [ ] Community showcases
+
+# Misc
+
+- [ ] Find another background image because the current one is too similar to Ultima forums's
+- [ ] Couple UI fixes for weird screen resolutions
