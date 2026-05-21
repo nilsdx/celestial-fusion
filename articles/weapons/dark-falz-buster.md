@@ -1,7 +1,6 @@
 ---
 name: Dark Falz Buster
 icon: hu
-image: /images/items/dfalz-buster.jpg
 type: Twin Sword
 requirement: 700 ATP
 grind: 0
