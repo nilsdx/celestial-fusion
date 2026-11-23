@@ -28,7 +28,7 @@
 | [Immortal/Mind](/units/immortal-mind) |
 | [Immortal/Power](/units/immortal-power) |
 | [Jointparts](/units/jointparts) |
-| [Millenium/HP](/unit/millenium-hp) |
+| [Millenium/HP](/units/millenium-hp) |
 | [PB/Flow](/units/pb-flow) |
 | [Raster Scope](/units/raster-scope) |
 | [State/Maintenance](/units/state-maintenance) |

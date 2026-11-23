@@ -1,0 +1,3652 @@
+[
+    {
+        "enemy-slug": "hildelt",
+        "enemy-display": "Hildelt",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "weapons/adept",
+                "item-display": "Adept",
+                "rate": 930.91
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/ancient-saber",
+                "item-display": "Ancient Saber",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/kamui",
+                "item-display": "Kamui",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/technical-crozier",
+                "item-display": "Technical Crozier",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/twin-brand",
+                "item-display": "Twin Brand",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/victor-axe",
+                "item-display": "Victor Axe",
+                "rate": 80
+            }
+        ]
+    },
+    {
+        "enemy-slug": "hildetorr",
+        "enemy-display": "Hildetorr",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/kamui",
+                "item-display": "Kamui",
+                "rate": 2
+            },
+            {
+                "item-slug": "units/immortal-power",
+                "item-display": "Immortal/Power",
+                "rate": 21.33
+            },
+            {
+                "item-slug": "units/immortal-ability",
+                "item-display": "Immortal/Ability",
+                "rate": 19.69
+            },
+            {
+                "item-slug": "weapons/heaven-punisher",
+                "item-display": "Heaven Punisher",
+                "rate": 19.69
+            },
+            {
+                "item-slug": "weapons/rabbit-wand",
+                "item-display": "Rabbit Wand",
+                "rate": 2
+            },
+            {
+                "item-slug": "weapons/berdysh",
+                "item-display": "Berdysh",
+                "rate": 2
+            },
+            {
+                "item-slug": "tools/magic-stone-iritista",
+                "item-display": "Magic Stone \"Iritista\"",
+                "rate": 21.33
+            },
+            {
+                "item-slug": "tools/syncesta",
+                "item-display": "Syncesta",
+                "rate": 21.33
+            },
+            {
+                "item-slug": "weapons/flight-cutter",
+                "item-display": "Flight Cutter",
+                "rate": 2
+            },
+            {
+                "item-slug": "units/centurion-battle",
+                "item-display": "Centurion/Battle",
+                "rate": 16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "mothvert",
+        "enemy-display": "Mothvert",
+        "dar": 20,
+        "drops": [
+            {
+                "item-slug": "weapons/final-impact",
+                "item-display": "Final Impact",
+                "rate": 1575.37
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 1575.37
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 1575.37
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 1575.37
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 1575.37
+            },
+            {
+                "item-slug": "weapons/storm-wand-indra",
+                "item-display": "Storm Wand:Indra",
+                "rate": 1575.37
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 1575.37
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 1575.37
+            },
+            {
+                "item-slug": "weapons/bravace",
+                "item-display": "Bravace",
+                "rate": 1575.37
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 1575.37
+            }
+        ]
+    },
+    {
+        "enemy-slug": "mothvist",
+        "enemy-display": "Mothvist",
+        "dar": 0,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "el-rappy",
+        "enemy-display": "El Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/final-impact",
+                "item-display": "Final Impact",
+                "rate": 64
+            },
+            {
+                "item-slug": "weapons/suppressed-gun",
+                "item-display": "Suppressed Gun",
+                "rate": 315.08
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 64
+            },
+            {
+                "item-slug": "weapons/suppressed-gun",
+                "item-display": "Suppressed Gun",
+                "rate": 315.08
+            },
+            {
+                "item-slug": "weapons/suppressed-gun",
+                "item-display": "Suppressed Gun",
+                "rate": 315.08
+            },
+            {
+                "item-slug": "weapons/sting-tip",
+                "item-display": "Sting Tip",
+                "rate": 315.08
+            },
+            {
+                "item-slug": "weapons/suppressed-gun",
+                "item-display": "Suppressed Gun",
+                "rate": 315.08
+            },
+            {
+                "item-slug": "tools/parts-of-egg-blaster",
+                "item-display": "Parts of EGG BLASTER",
+                "rate": 315.08
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 64
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 10082.68
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gulgus",
+        "enemy-display": "Gulgus",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/final-impact",
+                "item-display": "Final Impact",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/dragon-slayer",
+                "item-display": "Dragon Slayer",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/alive-aqhu",
+                "item-display": "Alive Aqhu",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/storm-wand-indra",
+                "item-display": "Storm Wand:Indra",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "barriers/flowen-shield",
+                "item-display": "Flowen's Shield",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/ancient-saber",
+                "item-display": "Ancient Saber",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "units/god-legs",
+                "item-display": "God/Legs",
+                "rate": 1706.66
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gulgus-gue",
+        "enemy-display": "Gulgus-gue",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "barriers/flowen-shield",
+                "item-display": "Flowen's Shield",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/archfiend-armor",
+                "item-display": "Archfiend Armor",
+                "rate": 1241.22
+            },
+            {
+                "item-slug": "frames/x-parts-ver-3-10",
+                "item-display": "X-Parts Ver.3.10",
+                "rate": 1241.22
+            },
+            {
+                "item-slug": "weapons/suppressed-gun",
+                "item-display": "Suppressed Gun",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "units/god-legs",
+                "item-display": "God/Legs",
+                "rate": 1706.66
+            },
+            {
+                "item-slug": "units/god-ability",
+                "item-display": "God/Ability",
+                "rate": 1706.66
+            },
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/ancient-saber",
+                "item-display": "Ancient Saber",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "units/god-legs",
+                "item-display": "God/Legs",
+                "rate": 1706.66
+            },
+            {
+                "item-slug": "units/centurion-hp",
+                "item-display": "Centurion/HP",
+                "rate": 341.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "crimson-assassin",
+        "enemy-display": "Crimson Assassin",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "weapons/sword-of-despair",
+                "item-display": "Sword of Despair",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "frames/stink-frame",
+                "item-display": "Stink Frame",
+                "rate": 1280
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 160
+            },
+            {
+                "item-slug": "weapons/ancient-saber",
+                "item-display": "Ancient Saber",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/yasminkov-9000m",
+                "item-display": "Yasminkov 9000M",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/master-raven",
+                "item-display": "Master Raven",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "units/god-technique",
+                "item-display": "God/Technique",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/anti-android-rifle",
+                "item-display": "Anti Android Rifle",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/twin-psychogun",
+                "item-display": "Twin Psychogun",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/ancient-saber",
+                "item-display": "Ancient Saber",
+                "rate": 787.69
+            }
+        ]
+    },
+    {
+        "enemy-slug": "ob-lily",
+        "enemy-display": "Ob Lily",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "units/cure-poison",
+                "item-display": "Cure/Poison",
+                "rate": 1706.66
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/storm-wand-indra",
+                "item-display": "Storm Wand:Indra",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/victor-axe",
+                "item-display": "Victor Axe",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/dragon-slayer",
+                "item-display": "Dragon Slayer",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 213.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "mil-lily",
+        "enemy-display": "Mil Lily",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "barriers/standstill-shield",
+                "item-display": "Standstill Shield",
+                "rate": 2
+            },
+            {
+                "item-slug": "barriers/black-gear",
+                "item-display": "Black Gear",
+                "rate": 21.33
+            },
+            {
+                "item-slug": "frames/honeycomb-reflector",
+                "item-display": "Honeycomb Reflector",
+                "rate": 8
+            },
+            {
+                "item-slug": "barriers/gods-shield-suzaku",
+                "item-display": "Gods Shield Suzaku",
+                "rate": 21.33
+            },
+            {
+                "item-slug": "tools/liberta-kit",
+                "item-display": "Liberta Kit",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/immortal-mind",
+                "item-display": "Immortal/Mind",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/windmill",
+                "item-display": "Windmill",
+                "rate": 2
+            },
+            {
+                "item-slug": "frames/aura-field",
+                "item-display": "Aura Field",
+                "rate": 2
+            },
+            {
+                "item-slug": "barriers/gods-shield-byakko",
+                "item-display": "Gods Shield Byakko",
+                "rate": 21.33
+            },
+            {
+                "item-slug": "units/cure-poison",
+                "item-display": "Cure/Poison",
+                "rate": 2
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pan-arms",
+        "enemy-display": "Pan Arms",
+        "dar": 50,
+        "drops": [
+            {
+                "item-slug": "weapons/suppressed-gun",
+                "item-display": "Suppressed Gun",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "tools/parts-of-egg-blaster",
+                "item-display": "Parts of EGG BLASTER",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "weapons/judgement-blade",
+                "item-display": "Judgement Blade",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "weapons/gush-needle",
+                "item-display": "Gush Needle",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "weapons/sting-tip",
+                "item-display": "Sting Tip",
+                "rate": 128
+            },
+            {
+                "item-slug": "weapons/storm-wand-indra",
+                "item-display": "Storm Wand:Indra",
+                "rate": 128
+            },
+            {
+                "item-slug": "frames/ultimate-frame",
+                "item-display": "Ultimate Frame",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "weapons/victor-axe",
+                "item-display": "Victor Axe",
+                "rate": 128
+            },
+            {
+                "item-slug": "units/perfect-resist",
+                "item-display": "Perfect/Resist",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 73.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "migium",
+        "enemy-display": "Migium",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "weapons/berdysh",
+                "item-display": "Berdysh",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "weapons/twin-psychogun",
+                "item-display": "Twin Psychogun",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "units/hp-flow",
+                "item-display": "HP/Flow",
+                "rate": 325.08
+            },
+            {
+                "item-slug": "weapons/mahu",
+                "item-display": "Mahu",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "tools/magic-rock-moola",
+                "item-display": "magic rock \"Moola\"",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "weapons/anti-android-rifle",
+                "item-display": "Anti Android Rifle",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/god-hand",
+                "item-display": "God Hand",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/angry-fist",
+                "item-display": "Angry Fist",
+                "rate": 81.27
+            }
+        ]
+    },
+    {
+        "enemy-slug": "hidoom",
+        "enemy-display": "Hidoom",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "units/god-arm",
+                "item-display": "God/Arm",
+                "rate": 1137.77
+            },
+            {
+                "item-slug": "weapons/kamui",
+                "item-display": "Kamui",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "barriers/combat-gear",
+                "item-display": "Combat Gear",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "tools/magic-rock-moola",
+                "item-display": "magic rock \"Moola\"",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "weapons/yasminkov-2000h",
+                "item-display": "Yasminkov 2000H",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "tools/magic-rock-moola",
+                "item-display": "magic rock \"Moola\"",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "units/pb-create",
+                "item-display": "PB/Create",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "weapons/yasminkov-2000h",
+                "item-display": "Yasminkov 2000H",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "weapons/yasminkov-2000h",
+                "item-display": "Yasminkov 2000H",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "weapons/yasminkov-2000h",
+                "item-display": "Yasminkov 2000H",
+                "rate": 700.17
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dubchich",
+        "enemy-display": "Dubchich",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 121.9
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/chain-sawd",
+                "item-display": "Chain Sawd",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/alive-aqhu",
+                "item-display": "Alive Aqhu",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/storm-wand-indra",
+                "item-display": "Storm Wand:Indra",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "tools/magic-rock-moola",
+                "item-display": "magic rock \"Moola\"",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "barriers/secure-feet",
+                "item-display": "Secure Feet",
+                "rate": 3413.32
+            },
+            {
+                "item-slug": "weapons/dragon-slayer",
+                "item-display": "Dragon Slayer",
+                "rate": 121.9
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 213.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "baranz",
+        "enemy-display": "Baranz",
+        "dar": 50,
+        "drops": [
+            {
+                "item-slug": "weapons/panzer-faust",
+                "item-display": "Panzer Faust",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "weapons/panzer-faust",
+                "item-display": "Panzer Faust",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "tools/parts-of-egg-blaster",
+                "item-display": "Parts of EGG BLASTER",
+                "rate": 128
+            },
+            {
+                "item-slug": "weapons/d-virus-launcher",
+                "item-display": "D-Virus Launcher",
+                "rate": 3640.87
+            },
+            {
+                "item-slug": "weapons/panzer-faust",
+                "item-display": "Panzer Faust",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "tools/parts-of-egg-blaster",
+                "item-display": "Parts of EGG BLASTER",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "frames/d-virus-armor",
+                "item-display": "D-Virus Armor",
+                "rate": 4096.01
+            },
+            {
+                "item-slug": "weapons/panzer-faust",
+                "item-display": "Panzer Faust",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "tools/parts-of-egg-blaster",
+                "item-display": "Parts of EGG BLASTER",
+                "rate": 630.16
+            },
+            {
+                "item-slug": "weapons/gush-needle",
+                "item-display": "Gush Needle",
+                "rate": 630.16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "delsaber",
+        "enemy-display": "Delsaber",
+        "dar": 25,
+        "drops": [
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 1260.3
+            },
+            {
+                "item-slug": "weapons/handgun-guld",
+                "item-display": "Handgun:Guld",
+                "rate": 1024
+            },
+            {
+                "item-slug": "weapons/flight-cutter",
+                "item-display": "Flight Cutter",
+                "rate": 1260.3
+            },
+            {
+                "item-slug": "barriers/flowen-shield",
+                "item-display": "Flowen's Shield",
+                "rate": 1260.3
+            },
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 1260.3
+            },
+            {
+                "item-slug": "frames/molten-garment",
+                "item-display": "Molten Garment",
+                "rate": 1489.45
+            },
+            {
+                "item-slug": "barriers/flowen-shield",
+                "item-display": "Flowen's Shield",
+                "rate": 1260.3
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 256
+            },
+            {
+                "item-slug": "tools/book-of-hitogata",
+                "item-display": "Book of HITOGATA",
+                "rate": 2048.01
+            },
+            {
+                "item-slug": "barriers/secure-feet",
+                "item-display": "Secure Feet",
+                "rate": 4096.01
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gran-sorcerer",
+        "enemy-display": "Gran Sorcerer",
+        "dar": 25,
+        "drops": [
+            {
+                "item-slug": "frames/kroe-sweater",
+                "item-display": "Kroe's Sweater",
+                "rate": 2048.01
+            },
+            {
+                "item-slug": "barriers/greenill-card",
+                "item-display": "Greenill Card",
+                "rate": 40322.58
+            },
+            {
+                "item-slug": "weapons/lame-dargent",
+                "item-display": "Lame d'Argent",
+                "rate": 1260.3
+            },
+            {
+                "item-slug": "units/devil-technique",
+                "item-display": "Devil/Technique",
+                "rate": 1260.3
+            },
+            {
+                "item-slug": "weapons/twin-psychogun",
+                "item-display": "Twin Psychogun",
+                "rate": 1260.3
+            },
+            {
+                "item-slug": "units/v802",
+                "item-display": "V802",
+                "rate": 1365.34
+            },
+            {
+                "item-slug": "barriers/redria-card",
+                "item-display": "Redria Card",
+                "rate": 40322.58
+            },
+            {
+                "item-slug": "tools/tablet",
+                "item-display": "Tablet",
+                "rate": 4096.01
+            },
+            {
+                "item-slug": "frames/brightness-circle",
+                "item-display": "Brightness Circle",
+                "rate": 4096.01
+            },
+            {
+                "item-slug": "frames/paragon-frame",
+                "item-display": "Paragon Frame",
+                "rate": 4096.01
+            }
+        ]
+    },
+    {
+        "enemy-slug": "indi-belra",
+        "enemy-display": "Indi Belra",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/kitetsu",
+                "item-display": "Kitetsu",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "tools/belra-right-arm",
+                "item-display": "Belra's Right Arm",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/yasha",
+                "item-display": "Yasha",
+                "rate": 28810.14
+            },
+            {
+                "item-slug": "tools/belra-right-arm",
+                "item-display": "Belra's Right Arm",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "weapons/phoenix-claw",
+                "item-display": "Phoenix Claw",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/rambling-may",
+                "item-display": "Rambling May",
+                "rate": 208.98
+            },
+            {
+                "item-slug": "weapons/flight-cutter",
+                "item-display": "Flight Cutter",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/desert-eagle",
+                "item-display": "Desert Eagle",
+                "rate": 450.11
+            },
+            {
+                "item-slug": "tools/pioneer-parts",
+                "item-display": "Pioneer Parts",
+                "rate": 4255.5
+            },
+            {
+                "item-slug": "barriers/standstill-shield",
+                "item-display": "Standstill Shield",
+                "rate": 2925.69
+            }
+        ]
+    },
+    {
+        "enemy-slug": "arlan",
+        "enemy-display": "Arlan",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/dragon-slayer",
+                "item-display": "Dragon Slayer",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 213.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "merlan",
+        "enemy-display": "Merlan",
+        "dar": 31,
+        "drops": [
+            {
+                "item-slug": "weapons/aensland",
+                "item-display": "Aensland",
+                "rate": 734.05
+            },
+            {
+                "item-slug": "barriers/standstill-shield",
+                "item-display": "Standstill Shield",
+                "rate": 3303.27
+            },
+            {
+                "item-slug": "barriers/flowen-shield",
+                "item-display": "Flowen's Shield",
+                "rate": 1016.37
+            },
+            {
+                "item-slug": "units/god-tp",
+                "item-display": "God/TP",
+                "rate": 1651.61
+            },
+            {
+                "item-slug": "weapons/anti-android-rifle",
+                "item-display": "Anti Android Rifle",
+                "rate": 1016.37
+            },
+            {
+                "item-slug": "weapons/storm-wand-indra",
+                "item-display": "Storm Wand:Indra",
+                "rate": 206.45
+            },
+            {
+                "item-slug": "units/god-legs",
+                "item-display": "God/Legs",
+                "rate": 1016.37
+            },
+            {
+                "item-slug": "units/god-hp",
+                "item-display": "God/HP",
+                "rate": 1651.61
+            },
+            {
+                "item-slug": "barriers/custom-barrier-ver-oo",
+                "item-display": "Custom Barrier ver.OO",
+                "rate": 1016.37
+            },
+            {
+                "item-slug": "weapons/silence-claw",
+                "item-display": "Silence Claw",
+                "rate": 206.45
+            }
+        ]
+    },
+    {
+        "enemy-slug": "del-d",
+        "enemy-display": "Del-D",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/flame-visit",
+                "item-display": "Flame Visit",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/yasminkov-2000h",
+                "item-display": "Yasminkov 2000H",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "tools/kit-of-genesis",
+                "item-display": "Kit of GENESIS",
+                "rate": 525.13
+            },
+            {
+                "item-slug": "units/centurion-body",
+                "item-display": "Centurion/Body",
+                "rate": 341.33
+            },
+            {
+                "item-slug": "frames/spirit-garment",
+                "item-display": "Spirit Garment",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/aura-field",
+                "item-display": "Aura Field",
+                "rate": 3413.32
+            },
+            {
+                "item-slug": "weapons/mitsunari",
+                "item-display": "Mitsunari",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/brightness-circle",
+                "item-display": "Brightness Circle",
+                "rate": 3413.32
+            },
+            {
+                "item-slug": "weapons/silence-claw",
+                "item-display": "Silence Claw",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/immortal-ability",
+                "item-display": "Immortal/Ability",
+                "rate": 1706.66
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gilchich",
+        "enemy-display": "Gilchich",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/final-impact",
+                "item-display": "Final Impact",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/dragon-slayer",
+                "item-display": "Dragon Slayer",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/guilty-light",
+                "item-display": "Guilty Light",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/electro-frame",
+                "item-display": "Electro Frame",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/sting-tip",
+                "item-display": "Sting Tip",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 213.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "love-rappy",
+        "enemy-display": "Love Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 2
+            },
+            {
+                "item-slug": "units/god-luck",
+                "item-display": "God/Luck",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/heart-of-poumn",
+                "item-display": "Heart of Poumn",
+                "rate": 2
+            },
+            {
+                "item-slug": "weapons/rabbit-wand",
+                "item-display": "Rabbit Wand",
+                "rate": 2
+            },
+            {
+                "item-slug": "units/god-luck",
+                "item-display": "God/Luck",
+                "rate": 2
+            },
+            {
+                "item-slug": "weapons/rabbit-wand",
+                "item-display": "Rabbit Wand",
+                "rate": 2
+            },
+            {
+                "item-slug": "units/god-luck",
+                "item-display": "God/Luck",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/the-sigh-of-a-god",
+                "item-display": "The Sigh of a God",
+                "rate": 2
+            },
+            {
+                "item-slug": "weapons/the-sigh-of-a-god",
+                "item-display": "The Sigh of a God",
+                "rate": 2
+            },
+            {
+                "item-slug": "frames/electro-frame",
+                "item-display": "Electro Frame",
+                "rate": 2
+            }
+        ]
+    },
+    {
+        "enemy-slug": "merillia",
+        "enemy-display": "Merillia",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "frames/stink-frame",
+                "item-display": "Stink Frame",
+                "rate": 1706.66
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/stag-cutlery",
+                "item-display": "Stag Cutlery",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "barriers/pinkal-card",
+                "item-display": "Pinkal Card",
+                "rate": 33613.45
+            },
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/storm-wand-indra",
+                "item-display": "Storm Wand:Indra",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 213.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "meriltas",
+        "enemy-display": "Meriltas",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "units/cure-shock",
+                "item-display": "Cure/Shock",
+                "rate": 1462.87
+            },
+            {
+                "item-slug": "weapons/asuka",
+                "item-display": "Asuka",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/fatsia",
+                "item-display": "Fatsia",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/flowen-frame",
+                "item-display": "Flowen's Frame",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "tools/kit-of-twin-nidra",
+                "item-display": "Kit of Twin Nidra",
+                "rate": 9362.42
+            },
+            {
+                "item-slug": "weapons/fatsia",
+                "item-display": "Fatsia",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/plantain-leaf",
+                "item-display": "Plantain Leaf",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/boondock-saints",
+                "item-display": "Boondock Saints",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/final-impact",
+                "item-display": "Final Impact",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "weapons/fatsia",
+                "item-display": "Fatsia",
+                "rate": 900.22
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gee",
+        "enemy-display": "Gee",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/fatsia",
+                "item-display": "Fatsia",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/inferno-blade",
+                "item-display": "Inferno Blade",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/death-reaper",
+                "item-display": "Death Reaper",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/angry-fist",
+                "item-display": "Angry Fist",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/mahu",
+                "item-display": "Mahu",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 213.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gi-gue",
+        "enemy-display": "Gi Gue",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "weapons/twin-rika-claw",
+                "item-display": "Twin Rika's Claw",
+                "rate": 3723.7
+            },
+            {
+                "item-slug": "units/immortal-mind",
+                "item-display": "Immortal/Mind",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/sealed-j-sword",
+                "item-display": "Sealed J-Sword",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "weapons/plantain-leaf",
+                "item-display": "Plantain Leaf",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/gi-gue-bazooka",
+                "item-display": "Gi Gue Bazooka",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "barriers/molten-ring",
+                "item-display": "Molten Ring",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "tools/dragon-tear",
+                "item-display": "Dragon Tear",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/mitsunari",
+                "item-display": "Mitsunari",
+                "rate": 568.89
+            },
+            {
+                "item-slug": "weapons/gi-gue-bazooka",
+                "item-display": "Gi Gue Bazooka",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/gi-gue-bazooka",
+                "item-display": "Gi Gue Bazooka",
+                "rate": 393.85
+            }
+        ]
+    },
+    {
+        "enemy-slug": "mericarol",
+        "enemy-display": "Mericarol",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "weapons/madam-umbrella",
+                "item-display": "Madam's Umbrella",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/plantain-leaf",
+                "item-display": "Plantain Leaf",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/monkey-king-bar",
+                "item-display": "Monkey King Bar",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/the-sigh-of-a-god",
+                "item-display": "The Sigh of a God",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/armageddon",
+                "item-display": "Armageddon",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "barriers/hunter-shell",
+                "item-display": "Hunter's Shell",
+                "rate": 930.91
+            },
+            {
+                "item-slug": "weapons/exterminator",
+                "item-display": "Exterminator",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/prophets-of-motav",
+                "item-display": "Prophets of Motav",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "tools/dragon-tear",
+                "item-display": "Dragon Tear",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "tools/orb-of-illusions",
+                "item-display": "Orb of Illusions",
+                "rate": 3150.8
+            }
+        ]
+    },
+    {
+        "enemy-slug": "merikle",
+        "enemy-display": "Merikle",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "weapons/soul-banish",
+                "item-display": "Soul Banish",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "tools/orb-of-illusions",
+                "item-display": "Orb of Illusions",
+                "rate": 3150.8
+            },
+            {
+                "item-slug": "weapons/berdysh",
+                "item-display": "Berdysh",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "tools/orb-of-illusions",
+                "item-display": "Orb of Illusions",
+                "rate": 3150.8
+            },
+            {
+                "item-slug": "tools/orb-of-illusions",
+                "item-display": "Orb of Illusions",
+                "rate": 3150.8
+            },
+            {
+                "item-slug": "weapons/the-sigh-of-a-god",
+                "item-display": "The Sigh of a God",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/twin-blaze",
+                "item-display": "Twin Blaze",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/reflex-gear",
+                "item-display": "Reflex Gear",
+                "rate": 853.33
+            },
+            {
+                "item-slug": "weapons/twin-blaze",
+                "item-display": "Twin Blaze",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/monkey-king-bar",
+                "item-display": "Monkey King Bar",
+                "rate": 393.85
+            }
+        ]
+    },
+    {
+        "enemy-slug": "mericus",
+        "enemy-display": "Mericus",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "weapons/anti-android-rifle",
+                "item-display": "Anti Android Rifle",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "units/tp-flow",
+                "item-display": "TP/Flow",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/yasminkov-7000v",
+                "item-display": "Yasminkov 7000V",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/berdysh",
+                "item-display": "Berdysh",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/orotiagito",
+                "item-display": "Orotiagito",
+                "rate": 1706.66
+            },
+            {
+                "item-slug": "tools/orb-of-illusions",
+                "item-display": "Orb of Illusions",
+                "rate": 3150.8
+            },
+            {
+                "item-slug": "units/immortal-power",
+                "item-display": "Immortal/Power",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "units/immortal-body",
+                "item-display": "Immortal/Body",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/monkey-king-bar",
+                "item-display": "Monkey King Bar",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/ethereal-armor",
+                "item-display": "Ethereal Armor",
+                "rate": 1280
+            }
+        ]
+    },
+    {
+        "enemy-slug": "ul-gibbon",
+        "enemy-display": "Ul Gibbon",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/final-impact",
+                "item-display": "Final Impact",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "tools/yahoo-engine",
+                "item-display": "Yahoo!'s engine",
+                "rate": 4964.75
+            },
+            {
+                "item-slug": "barriers/bluefull-card",
+                "item-display": "Bluefull Card",
+                "rate": 33613.45
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/plantain-leaf",
+                "item-display": "Plantain Leaf",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/stag-cutlery",
+                "item-display": "Stag Cutlery",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/pb-create",
+                "item-display": "PB/Create",
+                "rate": 1706.66
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 213.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "zol-gibbon",
+        "enemy-display": "Zol Gibbon",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "frames/electro-frame",
+                "item-display": "Electro Frame",
+                "rate": 2925.69
+            },
+            {
+                "item-slug": "barriers/secure-feet",
+                "item-display": "Secure Feet",
+                "rate": 2925.69
+            },
+            {
+                "item-slug": "units/hp-revival",
+                "item-display": "HP/Revival",
+                "rate": 1462.87
+            },
+            {
+                "item-slug": "barriers/blue-phantom-field",
+                "item-display": "Blue Phantom Field",
+                "rate": 2127.8
+            },
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "barriers/secure-feet",
+                "item-display": "Secure Feet",
+                "rate": 2925.69
+            },
+            {
+                "item-slug": "frames/brightness-circle",
+                "item-display": "Brightness Circle",
+                "rate": 2127.8
+            },
+            {
+                "item-slug": "weapons/dragon-slayer",
+                "item-display": "Dragon Slayer",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "frames/spirit-garment",
+                "item-display": "Spirit Garment",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 182.86
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gibbles",
+        "enemy-display": "Gibbles",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "tools/dragon-tear",
+                "item-display": "Dragon Tear",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/lavis-cannon",
+                "item-display": "Lavis Cannon",
+                "rate": 1280
+            },
+            {
+                "item-slug": "tools/dragon-tear",
+                "item-display": "Dragon Tear",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/madam-umbrella",
+                "item-display": "Madam's Umbrella",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "tools/dr-robotnik-plan-b",
+                "item-display": "Dr. Robotnik's Plan B",
+                "rate": 1861.82
+            },
+            {
+                "item-slug": "weapons/madam-umbrella",
+                "item-display": "Madam's Umbrella",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/berserk-needle",
+                "item-display": "Berserk Needle",
+                "rate": 3723.7
+            },
+            {
+                "item-slug": "weapons/lk38-combat",
+                "item-display": "L&K38 Combat",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "units/immortal-legs",
+                "item-display": "Immortal/Legs",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "units/immortal-luck",
+                "item-display": "Immortal/Luck",
+                "rate": 393.85
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sinow-berill",
+        "enemy-display": "Sinow Berill",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "weapons/galatine",
+                "item-display": "Galatine",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "units/v503",
+                "item-display": "V503",
+                "rate": 2048.01
+            },
+            {
+                "item-slug": "weapons/s-berill-hands-0",
+                "item-display": "S-Berill's Hands #0",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/ruby-bullet",
+                "item-display": "Ruby Bullet",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/s-berill-hands-0",
+                "item-display": "S-Berill's Hands #0",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/s-berill-hands-0",
+                "item-display": "S-Berill's Hands #0",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/s-berill-hands-0",
+                "item-display": "S-Berill's Hands #0",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/flight-cutter",
+                "item-display": "Flight Cutter",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/s-berill-hands-0",
+                "item-display": "S-Berill's Hands #0",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/mahu",
+                "item-display": "Mahu",
+                "rate": 160
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sinow-spigell",
+        "enemy-display": "Sinow Spigell",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "units/immortal-hp",
+                "item-display": "Immortal/HP",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "weapons/yasminkov-3000r",
+                "item-display": "Yasminkov 3000R",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "units/immortal-arms",
+                "item-display": "Immortal/Arms",
+                "rate": 413.74
+            },
+            {
+                "item-slug": "frames/electro-frame",
+                "item-display": "Electro Frame",
+                "rate": 2275.57
+            },
+            {
+                "item-slug": "frames/x-parts-ver-3-10",
+                "item-display": "X-Parts Ver.3.10",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "frames/shadow-cloak",
+                "item-display": "Shadow Cloak",
+                "rate": 2275.57
+            },
+            {
+                "item-slug": "weapons/soul-banish",
+                "item-display": "Soul Banish",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "barriers/tripolic-shield",
+                "item-display": "Tripolic Shield",
+                "rate": 2275.57
+            },
+            {
+                "item-slug": "weapons/stag-cutlery",
+                "item-display": "Stag Cutlery",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "weapons/twin-brand",
+                "item-display": "Twin Brand",
+                "rate": 142.22
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dolmolm",
+        "enemy-display": "Dolmolm",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/silence-claw",
+                "item-display": "Silence Claw",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/cure-paralysis",
+                "item-display": "Cure/Paralysis",
+                "rate": 1706.66
+            },
+            {
+                "item-slug": "weapons/fatsia",
+                "item-display": "Fatsia",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/monkey-king-bar",
+                "item-display": "Monkey King Bar",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/dragon-slayer",
+                "item-display": "Dragon Slayer",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/spirit-garment",
+                "item-display": "Spirit Garment",
+                "rate": 1050.25
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dolmdarl",
+        "enemy-display": "Dolmdarl",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/guilty-light",
+                "item-display": "Guilty Light",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "weapons/suppressed-gun",
+                "item-display": "Suppressed Gun",
+                "rate": 417.96
+            },
+            {
+                "item-slug": "barriers/standstill-shield",
+                "item-display": "Standstill Shield",
+                "rate": 2925.69
+            },
+            {
+                "item-slug": "weapons/imperial-pick",
+                "item-display": "Imperial Pick",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 28810.14
+            },
+            {
+                "item-slug": "weapons/storm-wand-indra",
+                "item-display": "Storm Wand:Indra",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "units/perfect-resist",
+                "item-display": "Perfect/Resist",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "units/tp-revival",
+                "item-display": "TP/Revival",
+                "rate": 1462.87
+            },
+            {
+                "item-slug": "frames/stink-frame",
+                "item-display": "Stink Frame",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/stink-frame",
+                "item-display": "Stink Frame",
+                "rate": 900.22
+            }
+        ]
+    },
+    {
+        "enemy-slug": "morfos",
+        "enemy-display": "Morfos",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "tools/kit-of-master-system",
+                "item-display": "Kit of MASTER SYSTEM",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/tiger-fang-dragon-claw",
+                "item-display": "Tiger's Fang & Dragon's Claw",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/twin-blaze",
+                "item-display": "Twin Blaze",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/zero-divide",
+                "item-display": "Zero Divide",
+                "rate": 731.43
+            },
+            {
+                "item-slug": "weapons/cannon-rouge",
+                "item-display": "Cannon Rouge",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "barriers/cataclysm-shield",
+                "item-display": "Cataclysm Shield",
+                "rate": 853.33
+            },
+            {
+                "item-slug": "frames/stink-frame",
+                "item-display": "Stink Frame",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "frames/x-parts-ver-3-10",
+                "item-display": "X-Parts Ver.3.10",
+                "rate": 731.43
+            },
+            {
+                "item-slug": "tools/soul-of-morphos",
+                "item-display": "Soul of Morphos",
+                "rate": 8192.02
+            },
+            {
+                "item-slug": "tools/dr-robotnik-plan-b",
+                "item-display": "Dr. Robotnik's Plan B",
+                "rate": 3150.8
+            }
+        ]
+    },
+    {
+        "enemy-slug": "recon",
+        "enemy-display": "Recon",
+        "dar": 10,
+        "drops": [
+            {
+                "item-slug": "weapons/maser-beam",
+                "item-display": "Maser Beam",
+                "rate": 5120.07
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 640
+            },
+            {
+                "item-slug": "weapons/guilty-light",
+                "item-display": "Guilty Light",
+                "rate": 3150.8
+            },
+            {
+                "item-slug": "weapons/twin-brand",
+                "item-display": "Twin Brand",
+                "rate": 5120.07
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 3150.8
+            },
+            {
+                "item-slug": "weapons/storm-wand-indra",
+                "item-display": "Storm Wand:Indra",
+                "rate": 3150.8
+            },
+            {
+                "item-slug": "weapons/guilty-light",
+                "item-display": "Guilty Light",
+                "rate": 3150.8
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 3150.8
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sinow-zoa",
+        "enemy-display": "Sinow Zoa",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "tools/amitie-memo",
+                "item-display": "Amitie's Memo",
+                "rate": 4200.97
+            },
+            {
+                "item-slug": "weapons/anti-android-rifle",
+                "item-display": "Anti Android Rifle",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "barriers/red-phantom-field",
+                "item-display": "Red Phantom Field",
+                "rate": 379.26
+            },
+            {
+                "item-slug": "barriers/cataclysm-shield",
+                "item-display": "Cataclysm Shield",
+                "rate": 1137.77
+            },
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 33613.45
+            },
+            {
+                "item-slug": "weapons/ano-rifle",
+                "item-display": "Ano Rifle",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/twin-chakram",
+                "item-display": "Twin Chakram",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/zanba",
+                "item-display": "Zanba",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "weapons/soul-biter",
+                "item-display": "Soul Biter",
+                "rate": 487.62
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sinow-zele",
+        "enemy-display": "Sinow Zele",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/yasminkov-2000h",
+                "item-display": "Yasminkov 2000H",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/yasminkov-7000v",
+                "item-display": "Yasminkov 7000V",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/zanba",
+                "item-display": "Zanba",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/zanba",
+                "item-display": "Zanba",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/yasminkov-7000v",
+                "item-display": "Yasminkov 7000V",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/psycho-wand",
+                "item-display": "Psycho Wand",
+                "rate": 299401.2
+            },
+            {
+                "item-slug": "weapons/aensland",
+                "item-display": "Aensland",
+                "rate": 585.14
+            },
+            {
+                "item-slug": "weapons/kunai",
+                "item-display": "Kunai",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/tempest-garment",
+                "item-display": "Tempest Garment",
+                "rate": 1170.29
+            },
+            {
+                "item-slug": "units/state-maintenance",
+                "item-display": "State/Maintenance",
+                "rate": 3343.7
+            }
+        ]
+    },
+    {
+        "enemy-slug": "deldepth",
+        "enemy-display": "Deldepth",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "weapons/yamigarasu",
+                "item-display": "Yamigarasu",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "frames/paragon-frame",
+                "item-display": "Paragon Frame",
+                "rate": 2559.97
+            },
+            {
+                "item-slug": "frames/behemoth-armor",
+                "item-display": "Behemoth Armor",
+                "rate": 2559.97
+            },
+            {
+                "item-slug": "weapons/soul-banish",
+                "item-display": "Soul Banish",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "frames/electro-frame",
+                "item-display": "Electro Frame",
+                "rate": 2559.97
+            },
+            {
+                "item-slug": "weapons/tiger-fang-dragon-claw",
+                "item-display": "Tiger's Fang & Dragon's Claw",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "frames/primal-nexus",
+                "item-display": "Primal Nexus",
+                "rate": 2559.97
+            },
+            {
+                "item-slug": "weapons/rika-claw",
+                "item-display": "Rika's Claw",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "barriers/yellowboze-card",
+                "item-display": "Yellowboze Card",
+                "rate": 25207.97
+            },
+            {
+                "item-slug": "weapons/grave-digger",
+                "item-display": "Grave Digger",
+                "rate": 1706.66
+            }
+        ]
+    },
+    {
+        "enemy-slug": "delbiter",
+        "enemy-display": "Delbiter",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "barriers/red-phantom-field",
+                "item-display": "Red Phantom Field",
+                "rate": 320
+            },
+            {
+                "item-slug": "barriers/blue-phantom-field",
+                "item-display": "Blue Phantom Field",
+                "rate": 640
+            },
+            {
+                "item-slug": "weapons/soul-banish",
+                "item-display": "Soul Banish",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/mitsunari",
+                "item-display": "Mitsunari",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/the-sigh-of-a-god",
+                "item-display": "The Sigh of a God",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/twin-rika-claw",
+                "item-display": "Twin Rika's Claw",
+                "rate": 3723.7
+            },
+            {
+                "item-slug": "frames/shadow-cloak",
+                "item-display": "Shadow Cloak",
+                "rate": 930.91
+            },
+            {
+                "item-slug": "barriers/rainbow-shield",
+                "item-display": "Rainbow Shield",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/madam-umbrella",
+                "item-display": "Madam's Umbrella",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/rika-claw",
+                "item-display": "Rika's Claw",
+                "rate": 393.85
+            }
+        ]
+    },
+    {
+        "enemy-slug": "barba-ray",
+        "enemy-display": "Barba Ray",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/final-impact",
+                "item-display": "Final Impact",
+                "rate": 4.92
+            },
+            {
+                "item-slug": "weapons/stag-cutlery",
+                "item-display": "Stag Cutlery",
+                "rate": 4.92
+            },
+            {
+                "item-slug": "weapons/twin-brand",
+                "item-display": "Twin Brand",
+                "rate": 4.92
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 4.92
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 4.92
+            },
+            {
+                "item-slug": "weapons/asuka",
+                "item-display": "Asuka",
+                "rate": 4.92
+            },
+            {
+                "item-slug": "weapons/twin-brand",
+                "item-display": "Twin Brand",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "weapons/red-scorpio",
+                "item-display": "Red Scorpio",
+                "rate": 4.92
+            },
+            {
+                "item-slug": "weapons/god-hand",
+                "item-display": "God Hand",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 4.92
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gol-dragon",
+        "enemy-display": "Gol Dragon",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "units/trap-search",
+                "item-display": "Trap/Search",
+                "rate": 32
+            },
+            {
+                "item-slug": "units/immortal-ability",
+                "item-display": "Immortal/Ability",
+                "rate": 64
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 32
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 32
+            },
+            {
+                "item-slug": "units/immortal-ability",
+                "item-display": "Immortal/Ability",
+                "rate": 64
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 32
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 32
+            },
+            {
+                "item-slug": "weapons/frostbite",
+                "item-display": "Frostbite",
+                "rate": 93.09
+            },
+            {
+                "item-slug": "frames/shadow-cloak",
+                "item-display": "Shadow Cloak",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 32
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gal-gryphon",
+        "enemy-display": "Gal Gryphon",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/heart-of-dark-chao",
+                "item-display": "Heart of Dark Chao",
+                "rate": 32
+            },
+            {
+                "item-slug": "frames/ninja-suit",
+                "item-display": "Ninja Suit",
+                "rate": 64
+            },
+            {
+                "item-slug": "barriers/elemental-shield",
+                "item-display": "Elemental Shield",
+                "rate": 85.33
+            },
+            {
+                "item-slug": "frames/ethereal-armor",
+                "item-display": "Ethereal Armor",
+                "rate": 157.54
+            },
+            {
+                "item-slug": "barriers/elemental-shield",
+                "item-display": "Elemental Shield",
+                "rate": 85.33
+            },
+            {
+                "item-slug": "weapons/gal-wind",
+                "item-display": "Gal Wind",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/proof-of-sonic-team",
+                "item-display": "Proof of Sonic Team",
+                "rate": 64
+            },
+            {
+                "item-slug": "units/state-maintenance",
+                "item-display": "State/Maintenance",
+                "rate": 102.4
+            },
+            {
+                "item-slug": "units/pb-flow",
+                "item-display": "PB/Flow",
+                "rate": 102.4
+            },
+            {
+                "item-slug": "frames/wedding-dress",
+                "item-display": "Wedding Dress",
+                "rate": 64
+            }
+        ]
+    },
+    {
+        "enemy-slug": "olga-flow",
+        "enemy-display": "Olga Flow",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/parasitic-gene-flow",
+                "item-display": "Parasitic gene \"Flow\"",
+                "rate": 204.8
+            },
+            {
+                "item-slug": "tools/d-photon-core",
+                "item-display": "D-Photon Core",
+                "rate": 32
+            },
+            {
+                "item-slug": "tools/parasitic-gene-flow",
+                "item-display": "Parasitic gene \"Flow\"",
+                "rate": 204.8
+            },
+            {
+                "item-slug": "weapons/planet-eater",
+                "item-display": "Planet Eater",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "tools/parasitic-gene-flow",
+                "item-display": "Parasitic gene \"Flow\"",
+                "rate": 204.8
+            },
+            {
+                "item-slug": "units/vector-scope",
+                "item-display": "Vector Scope",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/parasitic-gene-flow",
+                "item-display": "Parasitic gene \"Flow\"",
+                "rate": 204.8
+            },
+            {
+                "item-slug": "frames/paragon-frame",
+                "item-display": "Paragon Frame",
+                "rate": 146.29
+            },
+            {
+                "item-slug": "tools/parasitic-gene-flow",
+                "item-display": "Parasitic gene \"Flow\"",
+                "rate": 204.8
+            },
+            {
+                "item-slug": "tools/parasitic-gene-flow",
+                "item-display": "Parasitic gene \"Flow\"",
+                "rate": 204.8
+            }
+        ]
+    },
+    {
+        "enemy-slug": "st-rappy",
+        "enemy-display": "St. Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/christmas-present",
+                "item-display": "Christmas Present",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/christmas-present",
+                "item-display": "Christmas Present",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/christmas-present",
+                "item-display": "Christmas Present",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/christmas-present",
+                "item-display": "Christmas Present",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/christmas-present",
+                "item-display": "Christmas Present",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/christmas-present",
+                "item-display": "Christmas Present",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/christmas-present",
+                "item-display": "Christmas Present",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/christmas-present",
+                "item-display": "Christmas Present",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/christmas-present",
+                "item-display": "Christmas Present",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/christmas-present",
+                "item-display": "Christmas Present",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "halo-rappy",
+        "enemy-display": "Halo Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/jack-o-lantern",
+                "item-display": "Jack-O'-Lantern",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/jack-o-lantern",
+                "item-display": "Jack-O'-Lantern",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/jack-o-lantern",
+                "item-display": "Jack-O'-Lantern",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/jack-o-lantern",
+                "item-display": "Jack-O'-Lantern",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/jack-o-lantern",
+                "item-display": "Jack-O'-Lantern",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/jack-o-lantern",
+                "item-display": "Jack-O'-Lantern",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/jack-o-lantern",
+                "item-display": "Jack-O'-Lantern",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/jack-o-lantern",
+                "item-display": "Jack-O'-Lantern",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/jack-o-lantern",
+                "item-display": "Jack-O'-Lantern",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/jack-o-lantern",
+                "item-display": "Jack-O'-Lantern",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "egg-rappy",
+        "enemy-display": "Egg Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/easter-egg",
+                "item-display": "Easter Egg",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/easter-egg",
+                "item-display": "Easter Egg",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/easter-egg",
+                "item-display": "Easter Egg",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/easter-egg",
+                "item-display": "Easter Egg",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/easter-egg",
+                "item-display": "Easter Egg",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/easter-egg",
+                "item-display": "Easter Egg",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/easter-egg",
+                "item-display": "Easter Egg",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/easter-egg",
+                "item-display": "Easter Egg",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/easter-egg",
+                "item-display": "Easter Egg",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/easter-egg",
+                "item-display": "Easter Egg",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "ill-gill",
+        "enemy-display": "Ill Gill",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "weapons/nei-claw",
+                "item-display": "Nei's Claw",
+                "rate": 10239.61
+            },
+            {
+                "item-slug": "frames/flame-garment",
+                "item-display": "Flame Garment",
+                "rate": 2559.97
+            },
+            {
+                "item-slug": "weapons/yamigarasu",
+                "item-display": "Yamigarasu",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "weapons/last-emperor",
+                "item-display": "Last Emperor",
+                "rate": 1706.66
+            },
+            {
+                "item-slug": "weapons/demonic-fork",
+                "item-display": "Demonic Fork",
+                "rate": 787.69
+            },
+            {
+                "item-slug": "frames/ethereal-armor",
+                "item-display": "Ethereal Armor",
+                "rate": 2559.97
+            },
+            {
+                "item-slug": "weapons/ill-gill-reaper",
+                "item-display": "Ill Gill Reaper",
+                "rate": 2559.97
+            },
+            {
+                "item-slug": "weapons/ancient-prophecy",
+                "item-display": "Ancient Prophecy",
+                "rate": 1280
+            },
+            {
+                "item-slug": "tools/dark-matter",
+                "item-display": "Dark Matter",
+                "rate": 1575.37
+            },
+            {
+                "item-slug": "weapons/yamigarasu",
+                "item-display": "Yamigarasu",
+                "rate": 787.69
+            }
+        ]
+    },
+    {
+        "enemy-slug": "del-lily",
+        "enemy-display": "Del Lily",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "tools/book-of-hitogata",
+                "item-display": "Book of HITOGATA",
+                "rate": 2127.8
+            },
+            {
+                "item-slug": "frames/genesis-armor",
+                "item-display": "Genesis Armor",
+                "rate": 1170.29
+            },
+            {
+                "item-slug": "weapons/dragon-sword",
+                "item-display": "Dragon Sword",
+                "rate": 2127.8
+            },
+            {
+                "item-slug": "weapons/hitogata",
+                "item-display": "Hitogata",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/hitogata",
+                "item-display": "Hitogata",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/dynasty-armor",
+                "item-display": "Dynasty Armor",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "tools/kit-of-mark3",
+                "item-display": "Kit of MARK3",
+                "rate": 585.14
+            },
+            {
+                "item-slug": "frames/ring-of-fire",
+                "item-display": "Ring of Fire",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/heart-of-poumn",
+                "item-display": "Heart of Poumn",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/psycho-wand",
+                "item-display": "Psycho Wand",
+                "rate": 900.22
+            }
+        ]
+    },
+    {
+        "enemy-slug": "epsilon",
+        "enemy-display": "Epsilon",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/passion-haze",
+                "item-display": "Passion Haze",
+                "rate": 310.3
+            },
+            {
+                "item-slug": "weapons/ano-rifle",
+                "item-display": "Ano Rifle",
+                "rate": 487.62
+            },
+            {
+                "item-slug": "units/immortal-battle",
+                "item-display": "Immortal/Battle",
+                "rate": 525.13
+            },
+            {
+                "item-slug": "tools/cladding-of-epsilon",
+                "item-display": "Cladding of Epsilon",
+                "rate": 487.62
+            },
+            {
+                "item-slug": "weapons/soul-devourer",
+                "item-display": "Soul Devourer",
+                "rate": 620.61
+            },
+            {
+                "item-slug": "weapons/mortal-ruin",
+                "item-display": "Mortal Ruin",
+                "rate": 620.61
+            },
+            {
+                "item-slug": "weapons/taste-of-affection",
+                "item-display": "Taste of Affection",
+                "rate": 310.3
+            },
+            {
+                "item-slug": "units/raster-scope",
+                "item-display": "Raster Scope",
+                "rate": 2100.53
+            },
+            {
+                "item-slug": "barriers/cataclysm-shield",
+                "item-display": "Cataclysm Shield",
+                "rate": 341.33
+            },
+            {
+                "item-slug": "frames/genesis-armor",
+                "item-display": "Genesis Armor",
+                "rate": 310.3
+            }
+        ]
+    },
+    {
+        "enemy-slug": "tormentark-vr-omega",
+        "enemy-display": "Tormentark (VR:OMEGA)",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "weapons/star-eulogy",
+                "item-display": "Star Eulogy",
+                "rate": 1559
+            },
+            {
+                "item-slug": "weapons/star-eulogy",
+                "item-display": "Star Eulogy",
+                "rate": 1559
+            },
+            {
+                "item-slug": "weapons/star-eulogy",
+                "item-display": "Star Eulogy",
+                "rate": 1559
+            },
+            {
+                "item-slug": "weapons/star-eulogy",
+                "item-display": "Star Eulogy",
+                "rate": 1559
+            },
+            {
+                "item-slug": "weapons/star-eulogy",
+                "item-display": "Star Eulogy",
+                "rate": 1559
+            },
+            {
+                "item-slug": "tools/infernal-stone",
+                "item-display": "Infernal Stone",
+                "rate": 930
+            },
+            {
+                "item-slug": "tools/infernal-stone",
+                "item-display": "Infernal Stone",
+                "rate": 930
+            },
+            {
+                "item-slug": "tools/infernal-stone",
+                "item-display": "Infernal Stone",
+                "rate": 930
+            },
+            {
+                "item-slug": "tools/infernal-stone",
+                "item-display": "Infernal Stone",
+                "rate": 930
+            },
+            {
+                "item-slug": "tools/infernal-stone",
+                "item-display": "Infernal Stone",
+                "rate": 930
+            }
+        ]
+    },
+    {
+        "enemy-slug": "hallowed-reaper-hw-mas",
+        "enemy-display": "Hallowed Reaper (HW[Mas])",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "tools/hallowed-jack-o-lantern",
+                "item-display": "Hallowed Jack-O-Lantern",
+                "rate": 1170
+            },
+            {
+                "item-slug": "tools/hallowed-jack-o-lantern",
+                "item-display": "Hallowed Jack-O-Lantern",
+                "rate": 1170
+            },
+            {
+                "item-slug": "tools/hallowed-jack-o-lantern",
+                "item-display": "Hallowed Jack-O-Lantern",
+                "rate": 1170
+            },
+            {
+                "item-slug": "tools/hallowed-jack-o-lantern",
+                "item-display": "Hallowed Jack-O-Lantern",
+                "rate": 1170
+            },
+            {
+                "item-slug": "tools/hallowed-jack-o-lantern",
+                "item-display": "Hallowed Jack-O-Lantern",
+                "rate": 1170
+            },
+            {
+                "item-slug": "tools/hallowed-jack-o-lantern",
+                "item-display": "Hallowed Jack-O-Lantern",
+                "rate": 1170
+            },
+            {
+                "item-slug": "tools/hallowed-jack-o-lantern",
+                "item-display": "Hallowed Jack-O-Lantern",
+                "rate": 1170
+            },
+            {
+                "item-slug": "tools/hallowed-jack-o-lantern",
+                "item-display": "Hallowed Jack-O-Lantern",
+                "rate": 1170
+            },
+            {
+                "item-slug": "tools/hallowed-jack-o-lantern",
+                "item-display": "Hallowed Jack-O-Lantern",
+                "rate": 1170
+            },
+            {
+                "item-slug": "tools/hallowed-jack-o-lantern",
+                "item-display": "Hallowed Jack-O-Lantern",
+                "rate": 1170
+            }
+        ]
+    },
+    {
+        "enemy-slug": "bar-dalus",
+        "enemy-display": "Bar Dalus",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/venus-bow",
+                "item-display": "Venus Bow",
+                "rate": 77
+            },
+            {
+                "item-slug": "weapons/venus-bow",
+                "item-display": "Venus Bow",
+                "rate": 77
+            },
+            {
+                "item-slug": "weapons/venus-bow",
+                "item-display": "Venus Bow",
+                "rate": 77
+            },
+            {
+                "item-slug": "weapons/venus-bow",
+                "item-display": "Venus Bow",
+                "rate": 77
+            },
+            {
+                "item-slug": "weapons/venus-bow",
+                "item-display": "Venus Bow",
+                "rate": 77
+            },
+            {
+                "item-slug": "units/heavenly-resist",
+                "item-display": "Heavenly/Resist",
+                "rate": 36
+            },
+            {
+                "item-slug": "units/heavenly-resist",
+                "item-display": "Heavenly/Resist",
+                "rate": 36
+            },
+            {
+                "item-slug": "tools/blue-crystal",
+                "item-display": "Blue Crystal",
+                "rate": 24
+            },
+            {
+                "item-slug": "weapons/berserk-needle",
+                "item-display": "Berserk Needle",
+                "rate": 93
+            },
+            {
+                "item-slug": "barriers/radiant-ring",
+                "item-display": "Radiant Ring",
+                "rate": 102
+            }
+        ]
+    },
+    {
+        "enemy-slug": "eclipse-dragon",
+        "enemy-display": "Eclipse Dragon",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            }
+        ]
+    },
+    {
+        "enemy-slug": "deos-behemoth",
+        "enemy-display": "Deos Behemoth",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            },
+            {
+                "item-slug": "tools/darkness-photon-sphere",
+                "item-display": "Darkness Photon Sphere",
+                "rate": 45
+            }
+        ]
+    },
+    {
+        "enemy-slug": "manipulator-iii",
+        "enemy-display": "Manipulator III",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "tools/cladding-of-manipulator-iii",
+                "item-display": "Cladding of Manipulator III",
+                "rate": 10
+            },
+            {
+                "item-slug": "tools/cladding-of-manipulator-iii",
+                "item-display": "Cladding of Manipulator III",
+                "rate": 10
+            },
+            {
+                "item-slug": "tools/cladding-of-manipulator-iii",
+                "item-display": "Cladding of Manipulator III",
+                "rate": 10
+            },
+            {
+                "item-slug": "tools/cladding-of-manipulator-iii",
+                "item-display": "Cladding of Manipulator III",
+                "rate": 10
+            },
+            {
+                "item-slug": "tools/cladding-of-manipulator-iii",
+                "item-display": "Cladding of Manipulator III",
+                "rate": 10
+            },
+            {
+                "item-slug": "tools/cladding-of-manipulator-iii",
+                "item-display": "Cladding of Manipulator III",
+                "rate": 10
+            },
+            {
+                "item-slug": "tools/cladding-of-manipulator-iii",
+                "item-display": "Cladding of Manipulator III",
+                "rate": 10
+            },
+            {
+                "item-slug": "tools/cladding-of-manipulator-iii",
+                "item-display": "Cladding of Manipulator III",
+                "rate": 10
+            },
+            {
+                "item-slug": "tools/cladding-of-manipulator-iii",
+                "item-display": "Cladding of Manipulator III",
+                "rate": 10
+            },
+            {
+                "item-slug": "tools/cladding-of-manipulator-iii",
+                "item-display": "Cladding of Manipulator III",
+                "rate": 10
+            }
+        ]
+    },
+    {
+        "enemy-slug": "manipulator-iii-ver-2",
+        "enemy-display": "Manipulator III Ver.2",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "barriers/golden-halo",
+                "item-display": "Golden Halo",
+                "rate": 39
+            },
+            {
+                "item-slug": "barriers/golden-halo",
+                "item-display": "Golden Halo",
+                "rate": 39
+            },
+            {
+                "item-slug": "barriers/golden-halo",
+                "item-display": "Golden Halo",
+                "rate": 39
+            },
+            {
+                "item-slug": "barriers/golden-halo",
+                "item-display": "Golden Halo",
+                "rate": 39
+            },
+            {
+                "item-slug": "barriers/golden-halo",
+                "item-display": "Golden Halo",
+                "rate": 39
+            },
+            {
+                "item-slug": "barriers/golden-halo",
+                "item-display": "Golden Halo",
+                "rate": 39
+            },
+            {
+                "item-slug": "barriers/golden-halo",
+                "item-display": "Golden Halo",
+                "rate": 39
+            },
+            {
+                "item-slug": "barriers/golden-halo",
+                "item-display": "Golden Halo",
+                "rate": 39
+            },
+            {
+                "item-slug": "barriers/golden-halo",
+                "item-display": "Golden Halo",
+                "rate": 39
+            },
+            {
+                "item-slug": "barriers/golden-halo",
+                "item-display": "Golden Halo",
+                "rate": 39
+            }
+        ]
+    },
+    {
+        "enemy-slug": "bar-dalus-tpd",
+        "enemy-display": "Bar Dalus (TPD)",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "barriers/phoenix-wings",
+                "item-display": "Phoenix Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/phoenix-wings",
+                "item-display": "Phoenix Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/phoenix-wings",
+                "item-display": "Phoenix Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/phoenix-wings",
+                "item-display": "Phoenix Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/phoenix-wings",
+                "item-display": "Phoenix Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/phoenix-wings",
+                "item-display": "Phoenix Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/phoenix-wings",
+                "item-display": "Phoenix Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/phoenix-wings",
+                "item-display": "Phoenix Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/phoenix-wings",
+                "item-display": "Phoenix Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/phoenix-wings",
+                "item-display": "Phoenix Wings",
+                "rate": 51
+            }
+        ]
+    },
+    {
+        "enemy-slug": "eclipse-dragon-tpd",
+        "enemy-display": "Eclipse Dragon (TPD)",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "barriers/crystallized-wings",
+                "item-display": "Crystallized Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/crystallized-wings",
+                "item-display": "Crystallized Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/crystallized-wings",
+                "item-display": "Crystallized Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/crystallized-wings",
+                "item-display": "Crystallized Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/crystallized-wings",
+                "item-display": "Crystallized Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/crystallized-wings",
+                "item-display": "Crystallized Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/crystallized-wings",
+                "item-display": "Crystallized Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/crystallized-wings",
+                "item-display": "Crystallized Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/crystallized-wings",
+                "item-display": "Crystallized Wings",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/crystallized-wings",
+                "item-display": "Crystallized Wings",
+                "rate": 51
+            }
+        ]
+    },
+    {
+        "enemy-slug": "deos-behemoth-tpd",
+        "enemy-display": "Deos Behemoth (TPD)",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "barriers/chaos-halo",
+                "item-display": "Chaos Halo",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/chaos-halo",
+                "item-display": "Chaos Halo",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/chaos-halo",
+                "item-display": "Chaos Halo",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/chaos-halo",
+                "item-display": "Chaos Halo",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/chaos-halo",
+                "item-display": "Chaos Halo",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/chaos-halo",
+                "item-display": "Chaos Halo",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/chaos-halo",
+                "item-display": "Chaos Halo",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/chaos-halo",
+                "item-display": "Chaos Halo",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/chaos-halo",
+                "item-display": "Chaos Halo",
+                "rate": 51
+            },
+            {
+                "item-slug": "barriers/chaos-halo",
+                "item-display": "Chaos Halo",
+                "rate": 51
+            }
+        ]
+    },
+    {
+        "enemy-slug": "custom-enemies-tpd",
+        "enemy-display": "Custom Enemies (TPD)",
+        "dar": null,
+        "drops": [
+            {
+                "item-slug": "tools/millennium-photon-core",
+                "item-display": "Millennium Photon Core",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/millennium-photon-core",
+                "item-display": "Millennium Photon Core",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/millennium-photon-core",
+                "item-display": "Millennium Photon Core",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/millennium-photon-core",
+                "item-display": "Millennium Photon Core",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/millennium-photon-core",
+                "item-display": "Millennium Photon Core",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/millennium-photon-core",
+                "item-display": "Millennium Photon Core",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/millennium-photon-core",
+                "item-display": "Millennium Photon Core",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/millennium-photon-core",
+                "item-display": "Millennium Photon Core",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/millennium-photon-core",
+                "item-display": "Millennium Photon Core",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/millennium-photon-core",
+                "item-display": "Millennium Photon Core",
+                "rate": null
+            }
+        ]
+    },
+    {
+        "enemy-slug": "administrator",
+        "enemy-display": "Administrator",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "tools/administrator-core",
+                "item-display": "Administrator's Core",
+                "rate": 12
+            },
+            {
+                "item-slug": "tools/administrator-core",
+                "item-display": "Administrator's Core",
+                "rate": 12
+            },
+            {
+                "item-slug": "tools/administrator-core",
+                "item-display": "Administrator's Core",
+                "rate": 12
+            },
+            {
+                "item-slug": "tools/administrator-core",
+                "item-display": "Administrator's Core",
+                "rate": 12
+            },
+            {
+                "item-slug": "tools/administrator-core",
+                "item-display": "Administrator's Core",
+                "rate": 12
+            },
+            {
+                "item-slug": "weapons/divine-blade",
+                "item-display": "Divine Blade",
+                "rate": 28
+            },
+            {
+                "item-slug": "weapons/divine-blade",
+                "item-display": "Divine Blade",
+                "rate": 28
+            },
+            {
+                "item-slug": "weapons/divine-blade",
+                "item-display": "Divine Blade",
+                "rate": 28
+            },
+            {
+                "item-slug": "weapons/divine-blade",
+                "item-display": "Divine Blade",
+                "rate": 28
+            },
+            {
+                "item-slug": "weapons/divine-blade",
+                "item-display": "Divine Blade",
+                "rate": 28
+            }
+        ]
+    }
+]
