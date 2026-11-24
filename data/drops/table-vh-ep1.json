@@ -1,0 +1,2387 @@
+[
+    {
+        "enemy-slug": "hildebear",
+        "enemy-display": "Hildebear",
+        "dar": 85,
+        "drops": [
+            {
+                "item-slug": "tools/hildebear-head",
+                "item-display": "Hildebear's Head",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "tools/hildebear-head",
+                "item-display": "Hildebear's Head",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "weapons/dragon-slayer",
+                "item-display": "Dragon Slayer",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "tools/hildebear-head",
+                "item-display": "Hildebear's Head",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "tools/hildebear-head",
+                "item-display": "Hildebear's Head",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "tools/hildebear-head",
+                "item-display": "Hildebear's Head",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "frames/custom-frame-ver-oo",
+                "item-display": "Custom Frame ver.OO",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "tools/hildebear-head",
+                "item-display": "Hildebear's Head",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "tools/hildebear-head",
+                "item-display": "Hildebear's Head",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 43.03
+            }
+        ]
+    },
+    {
+        "enemy-slug": "hildeblue",
+        "enemy-display": "Hildeblue",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "units/god-battle",
+                "item-display": "God/Battle",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/elysion",
+                "item-display": "Elysion",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/god-arm",
+                "item-display": "God/Arm",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hildeblue-head",
+                "item-display": "Hildeblue's Head",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hildeblue-head",
+                "item-display": "Hildeblue's Head",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hildeblue-head",
+                "item-display": "Hildeblue's Head",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/cure-shock",
+                "item-display": "Cure/Shock",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hildeblue-head",
+                "item-display": "Hildeblue's Head",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hildeblue-head",
+                "item-display": "Hildeblue's Head",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "mothmant",
+        "enemy-display": "Mothmant",
+        "dar": 25,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "monest",
+        "enemy-display": "Monest",
+        "dar": 0,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "rag-rappy",
+        "enemy-display": "Rag Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            }
+        ]
+    },
+    {
+        "enemy-slug": "al-rappy",
+        "enemy-display": "Al Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/bravace",
+                "item-display": "Bravace",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/elysion",
+                "item-display": "Elysion",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/elysion",
+                "item-display": "Elysion",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/elysion",
+                "item-display": "Elysion",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/elysion",
+                "item-display": "Elysion",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/branch-of-pakupaku",
+                "item-display": "Branch of Pakupaku",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "savage-wolf",
+        "enemy-display": "Savage Wolf",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/wals-mk2",
+                "item-display": "Wals-MK2",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/battle-verge",
+                "item-display": "Battle Verge",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/fire-scepter-agni",
+                "item-display": "Fire Scepter:Agni",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/meteor-smash",
+                "item-display": "Meteor Smash",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 426.67
+            }
+        ]
+    },
+    {
+        "enemy-slug": "barbarous-wolf",
+        "enemy-display": "Barbarous Wolf",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 284.44
+            }
+        ]
+    },
+    {
+        "enemy-slug": "booma",
+        "enemy-display": "Booma",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 426.67
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gobooma",
+        "enemy-display": "Gobooma",
+        "dar": 38,
+        "drops": [
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 336.84
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 336.84
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 336.84
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 336.84
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 336.84
+            },
+            {
+                "item-slug": "weapons/branch-of-pakupaku",
+                "item-display": "Branch of Pakupaku",
+                "rate": 336.84
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 336.84
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 336.84
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 336.84
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 336.84
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gigobooma",
+        "enemy-display": "Gigobooma",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/vjaya",
+                "item-display": "Vjaya",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/gigobooma-right-arm",
+                "item-display": "Gigobooma's Right Arm",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/branch-of-pakupaku",
+                "item-display": "Branch of Pakupaku",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/branch-of-pakupaku",
+                "item-display": "Branch of Pakupaku",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "frames/stink-frame",
+                "item-display": "Stink Frame",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/gigobooma-right-arm",
+                "item-display": "Gigobooma's Right Arm",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/gigobooma-right-arm",
+                "item-display": "Gigobooma's Right Arm",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/gigobooma-right-arm",
+                "item-display": "Gigobooma's Right Arm",
+                "rate": 182.86
+            }
+        ]
+    },
+    {
+        "enemy-slug": "grass-assassin",
+        "enemy-display": "Grass Assassin",
+        "dar": 55,
+        "drops": [
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 116.36
+            }
+        ]
+    },
+    {
+        "enemy-slug": "poison-lily",
+        "enemy-display": "Poison Lily",
+        "dar": 25,
+        "drops": [
+            {
+                "item-slug": "weapons/vjaya",
+                "item-display": "Vjaya",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/kaladbolg",
+                "item-display": "Kaladbolg",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 512
+            },
+            {
+                "item-slug": "tools/magic-rock-moola",
+                "item-display": "magic rock \"Moola\"",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 512
+            }
+        ]
+    },
+    {
+        "enemy-slug": "nar-lily",
+        "enemy-display": "Nar Lily",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "units/devil-battle",
+                "item-display": "Devil/Battle",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/hero-ability",
+                "item-display": "Hero/Ability",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/god-hp",
+                "item-display": "God/HP",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/cure-confuse",
+                "item-display": "Cure/Confuse",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/god-mind",
+                "item-display": "God/Mind",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/god-mind",
+                "item-display": "God/Mind",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/god-body",
+                "item-display": "God/Body",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/hp-revival",
+                "item-display": "HP/Revival",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/cure-confuse",
+                "item-display": "Cure/Confuse",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/perfect-resist",
+                "item-display": "Perfect/Resist",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "nano-dragon",
+        "enemy-display": "Nano Dragon",
+        "dar": 55,
+        "drops": [
+            {
+                "item-slug": "weapons/meteor-smash",
+                "item-display": "Meteor Smash",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "weapons/double-saber",
+                "item-display": "Double Saber",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "weapons/double-saber",
+                "item-display": "Double Saber",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "weapons/vjaya",
+                "item-display": "Vjaya",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "tools/addslot",
+                "item-display": "AddSlot",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "weapons/double-saber",
+                "item-display": "Double Saber",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "weapons/double-saber",
+                "item-display": "Double Saber",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "weapons/double-saber",
+                "item-display": "Double Saber",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 116.36
+            }
+        ]
+    },
+    {
+        "enemy-slug": "evil-shark",
+        "enemy-display": "Evil Shark",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/stag-cutlery",
+                "item-display": "Stag Cutlery",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/vjaya",
+                "item-display": "Vjaya",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/ice-staff-dagon",
+                "item-display": "Ice Staff:Dagon",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "units/cure-poison",
+                "item-display": "Cure/Poison",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/custom-ray-ver-oo",
+                "item-display": "Custom Ray ver.OO",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 426.67
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pal-shark",
+        "enemy-display": "Pal Shark",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/wals-mk2",
+                "item-display": "Wals-MK2",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/battle-verge",
+                "item-display": "Battle Verge",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/hs25-justice",
+                "item-display": "H&S25 Justice",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/vjaya",
+                "item-display": "Vjaya",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/wals-mk2",
+                "item-display": "Wals-MK2",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 365.71
+            }
+        ]
+    },
+    {
+        "enemy-slug": "guil-shark",
+        "enemy-display": "Guil Shark",
+        "dar": 15,
+        "drops": [
+            {
+                "item-slug": "weapons/red-partisan",
+                "item-display": "Red Partisan",
+                "rate": 620.61
+            },
+            {
+                "item-slug": "weapons/red-saber",
+                "item-display": "Red Saber",
+                "rate": 620.61
+            },
+            {
+                "item-slug": "weapons/wals-mk2",
+                "item-display": "Wals-MK2",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/stag-cutlery",
+                "item-display": "Stag Cutlery",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/stag-cutlery",
+                "item-display": "Stag Cutlery",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "tools/magic-rock-moola",
+                "item-display": "magic rock \"Moola\"",
+                "rate": 853.33
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/stag-cutlery",
+                "item-display": "Stag Cutlery",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/ice-staff-dagon",
+                "item-display": "Ice Staff:Dagon",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/stag-cutlery",
+                "item-display": "Stag Cutlery",
+                "rate": 426.67
+            }
+        ]
+    },
+    {
+        "enemy-slug": "poifuilly-slime",
+        "enemy-display": "Poifuilly Slime",
+        "dar": 27,
+        "drops": [
+            {
+                "item-slug": "weapons/brave-knuckle",
+                "item-display": "Brave Knuckle",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/brave-knuckle",
+                "item-display": "Brave Knuckle",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/brave-knuckle",
+                "item-display": "Brave Knuckle",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/angry-fist",
+                "item-display": "Angry Fist",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/brave-knuckle",
+                "item-display": "Brave Knuckle",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/mace-of-adaman",
+                "item-display": "Mace of Adaman",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/angry-fist",
+                "item-display": "Angry Fist",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/angry-fist",
+                "item-display": "Angry Fist",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/brave-knuckle",
+                "item-display": "Brave Knuckle",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/angry-fist",
+                "item-display": "Angry Fist",
+                "rate": 237.04
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pouilly-slime",
+        "enemy-display": "Pouilly Slime",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "units/god-power",
+                "item-display": "God/Power",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/cure-paralysis",
+                "item-display": "Cure/Paralysis",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/god-body",
+                "item-display": "God/Body",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/hp-revival",
+                "item-display": "HP/Revival",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/hp-revival",
+                "item-display": "HP/Revival",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/cure-slow",
+                "item-display": "Cure/Slow",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/devil-technique",
+                "item-display": "Devil/Technique",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/devil-battle",
+                "item-display": "Devil/Battle",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/cure-shock",
+                "item-display": "Cure/Shock",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/cure-freeze",
+                "item-display": "Cure/Freeze",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pan-arms",
+        "enemy-display": "Pan Arms",
+        "dar": 90,
+        "drops": [
+            {
+                "item-slug": "weapons/final-impact",
+                "item-display": "Final Impact",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "tools/magic-rock-moola",
+                "item-display": "magic rock \"Moola\"",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "weapons/dragon-slayer",
+                "item-display": "Dragon Slayer",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "tools/magic-rock-moola",
+                "item-display": "magic rock \"Moola\"",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "tools/magic-rock-moola",
+                "item-display": "magic rock \"Moola\"",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "weapons/storm-wand-indra",
+                "item-display": "Storm Wand:Indra",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "units/god-arm",
+                "item-display": "God/Arm",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "weapons/cross-scar",
+                "item-display": "Cross Scar",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "tools/magic-rock-moola",
+                "item-display": "magic rock \"Moola\"",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 40.63
+            }
+        ]
+    },
+    {
+        "enemy-slug": "migium",
+        "enemy-display": "Migium",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "weapons/meteor-smash",
+                "item-display": "Meteor Smash",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/wals-mk2",
+                "item-display": "Wals-MK2",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/vjaya",
+                "item-display": "Vjaya",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/hs25-justice",
+                "item-display": "H&S25 Justice",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/ice-staff-dagon",
+                "item-display": "Ice Staff:Dagon",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/kaladbolg",
+                "item-display": "Kaladbolg",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/hs25-justice",
+                "item-display": "H&S25 Justice",
+                "rate": 81.27
+            }
+        ]
+    },
+    {
+        "enemy-slug": "hidoom",
+        "enemy-display": "Hidoom",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "weapons/meteor-smash",
+                "item-display": "Meteor Smash",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/wals-mk2",
+                "item-display": "Wals-MK2",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/vjaya",
+                "item-display": "Vjaya",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/hs25-justice",
+                "item-display": "H&S25 Justice",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/ice-staff-dagon",
+                "item-display": "Ice Staff:Dagon",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/vjaya",
+                "item-display": "Vjaya",
+                "rate": 81.27
+            },
+            {
+                "item-slug": "weapons/hs25-justice",
+                "item-display": "H&S25 Justice",
+                "rate": 81.27
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dubchic",
+        "enemy-display": "Dubchic",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "units/god-body",
+                "item-display": "God/Body",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/god-arm",
+                "item-display": "God/Arm",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/god-arm",
+                "item-display": "God/Arm",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/devil-battle",
+                "item-display": "Devil/Battle",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/god-arm",
+                "item-display": "God/Arm",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/tp-revival",
+                "item-display": "TP/Revival",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/cure-paralysis",
+                "item-display": "Cure/Paralysis",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/god-tp",
+                "item-display": "God/TP",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/devil-battle",
+                "item-display": "Devil/Battle",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "units/pb-create",
+                "item-display": "PB/Create",
+                "rate": 213.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "garanz",
+        "enemy-display": "Garanz",
+        "dar": 85,
+        "drops": [
+            {
+                "item-slug": "weapons/red-partisan",
+                "item-display": "Red Partisan",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "weapons/justy-23st",
+                "item-display": "Justy-23ST",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "weapons/asuka",
+                "item-display": "Asuka",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "weapons/lk14-combat",
+                "item-display": "L&K14 Combat",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "weapons/storm-wand-indra",
+                "item-display": "Storm Wand:Indra",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "units/v502",
+                "item-display": "V502",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "weapons/smartlink",
+                "item-display": "Smartlink",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "tools/addslot",
+                "item-display": "AddSlot",
+                "rate": 43.03
+            },
+            {
+                "item-slug": "weapons/diska-of-braveman",
+                "item-display": "Diska of Braveman",
+                "rate": 43.03
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sinow-beat",
+        "enemy-display": "Sinow Beat",
+        "dar": 60,
+        "drops": [
+            {
+                "item-slug": "tools/s-beat-arms",
+                "item-display": "S-beat's Arms",
+                "rate": 106.67
+            },
+            {
+                "item-slug": "tools/s-beat-arms",
+                "item-display": "S-beat's Arms",
+                "rate": 106.67
+            },
+            {
+                "item-slug": "tools/s-beat-arms",
+                "item-display": "S-beat's Arms",
+                "rate": 106.67
+            },
+            {
+                "item-slug": "tools/s-beat-arms",
+                "item-display": "S-beat's Arms",
+                "rate": 106.67
+            },
+            {
+                "item-slug": "weapons/red-handgun",
+                "item-display": "Red Handgun",
+                "rate": 525.13
+            },
+            {
+                "item-slug": "weapons/last-swan",
+                "item-display": "Last Swan",
+                "rate": 758.52
+            },
+            {
+                "item-slug": "tools/s-beat-arms",
+                "item-display": "S-beat's Arms",
+                "rate": 106.67
+            },
+            {
+                "item-slug": "tools/s-beat-arms",
+                "item-display": "S-beat's Arms",
+                "rate": 106.67
+            },
+            {
+                "item-slug": "tools/s-beat-arms",
+                "item-display": "S-beat's Arms",
+                "rate": 106.67
+            },
+            {
+                "item-slug": "weapons/master-raven",
+                "item-display": "Master Raven",
+                "rate": 758.52
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sinow-gold",
+        "enemy-display": "Sinow Gold",
+        "dar": 55,
+        "drops": [
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "weapons/zanba",
+                "item-display": "Zanba",
+                "rate": 930.91
+            },
+            {
+                "item-slug": "weapons/master-raven",
+                "item-display": "Master Raven",
+                "rate": 677.03
+            },
+            {
+                "item-slug": "weapons/last-swan",
+                "item-display": "Last Swan",
+                "rate": 677.03
+            },
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "frames/ignition-cloak",
+                "item-display": "Ignition Cloak",
+                "rate": 1354.04
+            },
+            {
+                "item-slug": "weapons/zanba",
+                "item-display": "Zanba",
+                "rate": 930.91
+            },
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 116.36
+            },
+            {
+                "item-slug": "tools/addslot",
+                "item-display": "AddSlot",
+                "rate": 116.36
+            }
+        ]
+    },
+    {
+        "enemy-slug": "canadine",
+        "enemy-display": "Canadine",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/wals-mk2",
+                "item-display": "Wals-MK2",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/brave-hammer",
+                "item-display": "Brave Hammer",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/hs25-justice",
+                "item-display": "H&S25 Justice",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/ice-staff-dagon",
+                "item-display": "Ice Staff:Dagon",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/hs25-justice",
+                "item-display": "H&S25 Justice",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 365.71
+            }
+        ]
+    },
+    {
+        "enemy-slug": "canane",
+        "enemy-display": "Canane",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "frames/smoking-plate",
+                "item-display": "Smoking Plate",
+                "rate": 2925.69
+            },
+            {
+                "item-slug": "barriers/regene-gear-adv",
+                "item-display": "Regene Gear Adv.",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "barriers/db-shield",
+                "item-display": "DB's Shield",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "barriers/regene-gear-adv",
+                "item-display": "Regene Gear Adv.",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "barriers/regene-gear-adv",
+                "item-display": "Regene Gear Adv.",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "barriers/regene-gear-adv",
+                "item-display": "Regene Gear Adv.",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "barriers/regene-gear-adv",
+                "item-display": "Regene Gear Adv.",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "barriers/regene-gear-adv",
+                "item-display": "Regene Gear Adv.",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "barriers/regene-gear-adv",
+                "item-display": "Regene Gear Adv.",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "barriers/proto-regene-gear",
+                "item-display": "Proto Regene Gear",
+                "rate": 365.71
+            }
+        ]
+    },
+    {
+        "enemy-slug": "delsaber",
+        "enemy-display": "Delsaber",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "tools/delsaber-left-arm",
+                "item-display": "Delsaber's Left Arm",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "tools/delsaber-left-arm",
+                "item-display": "Delsaber's Left Arm",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "weapons/red-sword",
+                "item-display": "Red Sword",
+                "rate": 379.26
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 142.22
+            }
+        ]
+    },
+    {
+        "enemy-slug": "chaos-sorcerer",
+        "enemy-display": "Chaos Sorcerer",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/talis",
+                "item-display": "Talis",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/talis",
+                "item-display": "Talis",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/talis",
+                "item-display": "Talis",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/imperial-pick",
+                "item-display": "Imperial Pick",
+                "rate": 417.96
+            },
+            {
+                "item-slug": "weapons/holy-ray",
+                "item-display": "Holy Ray",
+                "rate": 1170.29
+            },
+            {
+                "item-slug": "frames/mother-garb",
+                "item-display": "Mother Garb",
+                "rate": 585.14
+            },
+            {
+                "item-slug": "weapons/talis",
+                "item-display": "Talis",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/mahu",
+                "item-display": "Mahu",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/asteron-belt",
+                "item-display": "Asteron Belt",
+                "rate": 731.43
+            },
+            {
+                "item-slug": "weapons/red-saber",
+                "item-display": "Red Saber",
+                "rate": 531.95
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dark-gunner",
+        "enemy-display": "Dark Gunner",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "frames/custom-frame-ver-oo",
+                "item-display": "Custom Frame ver.OO",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "frames/d-parts-ver1-01",
+                "item-display": "D-Parts ver1.01",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "frames/stink-frame",
+                "item-display": "Stink Frame",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "frames/custom-frame-ver-oo",
+                "item-display": "Custom Frame ver.OO",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "frames/stink-frame",
+                "item-display": "Stink Frame",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "barriers/db-shield",
+                "item-display": "DB's Shield",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "frames/db-armor",
+                "item-display": "DB's Armor",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "frames/stink-frame",
+                "item-display": "Stink Frame",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "frames/custom-frame-ver-oo",
+                "item-display": "Custom Frame ver.OO",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "frames/stink-frame",
+                "item-display": "Stink Frame",
+                "rate": 284.44
+            }
+        ]
+    },
+    {
+        "enemy-slug": "death-gunner",
+        "enemy-display": "Death Gunner",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "chaos-bringer",
+        "enemy-display": "Chaos Bringer",
+        "dar": 88,
+        "drops": [
+            {
+                "item-slug": "weapons/tormentor",
+                "item-display": "Tormentor",
+                "rate": 930.91
+            },
+            {
+                "item-slug": "weapons/rage-de-feu",
+                "item-display": "Rage de Feu",
+                "rate": 517.17
+            },
+            {
+                "item-slug": "weapons/inferno-blade",
+                "item-display": "Inferno Blade",
+                "rate": 930.91
+            },
+            {
+                "item-slug": "weapons/yunchang",
+                "item-display": "Yunchang",
+                "rate": 517.17
+            },
+            {
+                "item-slug": "weapons/death-reaper",
+                "item-display": "Death Reaper",
+                "rate": 517.17
+            },
+            {
+                "item-slug": "units/centurion-ability",
+                "item-display": "Centurion/Ability",
+                "rate": 775.76
+            },
+            {
+                "item-slug": "weapons/red-slicer",
+                "item-display": "Red Slicer",
+                "rate": 423.14
+            },
+            {
+                "item-slug": "weapons/slicer-of-fanatic",
+                "item-display": "Slicer of Fanatic",
+                "rate": 846.28
+            },
+            {
+                "item-slug": "weapons/red-sword",
+                "item-display": "Red Sword",
+                "rate": 423.14
+            },
+            {
+                "item-slug": "weapons/red-dagger",
+                "item-display": "Red Dagger",
+                "rate": 423.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dark-belra",
+        "enemy-display": "Dark Belra",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "weapons/death-reaper",
+                "item-display": "Death Reaper",
+                "rate": 455.11
+            },
+            {
+                "item-slug": "weapons/smartlink",
+                "item-display": "Smartlink",
+                "rate": 700.17
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "weapons/death-reaper",
+                "item-display": "Death Reaper",
+                "rate": 455.11
+            },
+            {
+                "item-slug": "weapons/mace-of-adaman",
+                "item-display": "Mace of Adaman",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "weapons/mace-of-adaman",
+                "item-display": "Mace of Adaman",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "barriers/db-shield",
+                "item-display": "DB's Shield",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "barriers/db-shield",
+                "item-display": "DB's Shield",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "weapons/hs25-justice",
+                "item-display": "H&S25 Justice",
+                "rate": 142.22
+            }
+        ]
+    },
+    {
+        "enemy-slug": "claw",
+        "enemy-display": "Claw",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/wals-mk2",
+                "item-display": "Wals-MK2",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/brave-hammer",
+                "item-display": "Brave Hammer",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/hs25-justice",
+                "item-display": "H&S25 Justice",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/ice-staff-dagon",
+                "item-display": "Ice Staff:Dagon",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 426.67
+            }
+        ]
+    },
+    {
+        "enemy-slug": "bulk",
+        "enemy-display": "Bulk",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "bulclaw",
+        "enemy-display": "Bulclaw",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "barriers/db-shield",
+                "item-display": "DB's Shield",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "barriers/db-shield",
+                "item-display": "DB's Shield",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "frames/db-armor",
+                "item-display": "DB's Armor",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "frames/d-parts-ver2-10",
+                "item-display": "D-Parts ver2.10",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "frames/db-armor",
+                "item-display": "DB's Armor",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "frames/d-parts-ver2-10",
+                "item-display": "D-Parts ver2.10",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "frames/d-parts-ver2-10",
+                "item-display": "D-Parts ver2.10",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "frames/d-parts-ver2-10",
+                "item-display": "D-Parts ver2.10",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "barriers/db-shield",
+                "item-display": "DB's Shield",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "frames/db-armor",
+                "item-display": "DB's Armor",
+                "rate": 142.22
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dimenian",
+        "enemy-display": "Dimenian",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/wals-mk2",
+                "item-display": "Wals-MK2",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/wals-mk2",
+                "item-display": "Wals-MK2",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/vjaya",
+                "item-display": "Vjaya",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/meteor-smash",
+                "item-display": "Meteor Smash",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 426.67
+            }
+        ]
+    },
+    {
+        "enemy-slug": "la-dimenian",
+        "enemy-display": "La Dimenian",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/vjaya",
+                "item-display": "Vjaya",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/gae-bolg",
+                "item-display": "Gae Bolg",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/hs25-justice",
+                "item-display": "H&S25 Justice",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/bloody-art",
+                "item-display": "Bloody Art",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 365.71
+            }
+        ]
+    },
+    {
+        "enemy-slug": "so-dimenian",
+        "enemy-display": "So Dimenian",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/wals-mk2",
+                "item-display": "Wals-MK2",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/caduceus",
+                "item-display": "Caduceus",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/caduceus",
+                "item-display": "Caduceus",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/caduceus",
+                "item-display": "Caduceus",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/caduceus",
+                "item-display": "Caduceus",
+                "rate": 365.71
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dragon",
+        "enemy-display": "Dragon",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/yamato",
+                "item-display": "Yamato",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "weapons/yamato",
+                "item-display": "Yamato",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "weapons/yamato",
+                "item-display": "Yamato",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "weapons/yamato",
+                "item-display": "Yamato",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "weapons/yamato",
+                "item-display": "Yamato",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "weapons/yamato",
+                "item-display": "Yamato",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "weapons/yamato",
+                "item-display": "Yamato",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "weapons/yamato",
+                "item-display": "Yamato",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "weapons/yamato",
+                "item-display": "Yamato",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "weapons/yamato",
+                "item-display": "Yamato",
+                "rate": 10.67
+            }
+        ]
+    },
+    {
+        "enemy-slug": "de-rol-le",
+        "enemy-display": "De Rol Le",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "units/heavenly-arms",
+                "item-display": "Heavenly/Arms",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-arms",
+                "item-display": "Heavenly/Arms",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-arms",
+                "item-display": "Heavenly/Arms",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-arms",
+                "item-display": "Heavenly/Arms",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-arms",
+                "item-display": "Heavenly/Arms",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-arms",
+                "item-display": "Heavenly/Arms",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-arms",
+                "item-display": "Heavenly/Arms",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-arms",
+                "item-display": "Heavenly/Arms",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/de-rol-le-shell",
+                "item-display": "De Rol Le Shell",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-arms",
+                "item-display": "Heavenly/Arms",
+                "rate": 16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "vol-opt",
+        "enemy-display": "Vol Opt",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "units/heavenly-ability",
+                "item-display": "Heavenly/Ability",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-ability",
+                "item-display": "Heavenly/Ability",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-ability",
+                "item-display": "Heavenly/Ability",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-ability",
+                "item-display": "Heavenly/Ability",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-ability",
+                "item-display": "Heavenly/Ability",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-ability",
+                "item-display": "Heavenly/Ability",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-ability",
+                "item-display": "Heavenly/Ability",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-ability",
+                "item-display": "Heavenly/Ability",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-ability",
+                "item-display": "Heavenly/Ability",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/heavenly-ability",
+                "item-display": "Heavenly/Ability",
+                "rate": 16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dark-falz",
+        "enemy-display": "Dark Falz",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": 39.38
+            }
+        ]
+    }
+]

@@ -1,0 +1,929 @@
+[
+    {
+        "enemy-slug": "astark",
+        "enemy-display": "Astark",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "barriers/yata-mirror",
+                "item-display": "Yata Mirror",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/kusanagi",
+                "item-display": "Kusanagi",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/tanegashima",
+                "item-display": "Tanegashima",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/tanegashima",
+                "item-display": "Tanegashima",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "barriers/yata-mirror",
+                "item-display": "Yata Mirror",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/tanegashima",
+                "item-display": "Tanegashima",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "barriers/yata-mirror",
+                "item-display": "Yata Mirror",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/kusanagi",
+                "item-display": "Kusanagi",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/kusanagi",
+                "item-display": "Kusanagi",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "barriers/yasakani-magatama",
+                "item-display": "Yasakani Magatama",
+                "rate": 393.85
+            }
+        ]
+    },
+    {
+        "enemy-slug": "yowie",
+        "enemy-display": "Yowie",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "satellite-lizard",
+        "enemy-display": "Satellite Lizard",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "merissa-a",
+        "enemy-display": "Merissa A",
+        "dar": 27,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "merissa-aa",
+        "enemy-display": "Merissa AA",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            }
+        ]
+    },
+    {
+        "enemy-slug": "girtablulu",
+        "enemy-display": "Girtablulu",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "frames/black-odoshi-red-nimaidou",
+                "item-display": "Black Odoshi Red Nimaidou",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/black-odoshi-red-nimaidou",
+                "item-display": "Black Odoshi Red Nimaidou",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/black-odoshi-red-nimaidou",
+                "item-display": "Black Odoshi Red Nimaidou",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/black-odoshi-red-nimaidou",
+                "item-display": "Black Odoshi Red Nimaidou",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/black-odoshi-red-nimaidou",
+                "item-display": "Black Odoshi Red Nimaidou",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/black-odoshi-red-nimaidou",
+                "item-display": "Black Odoshi Red Nimaidou",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/black-odoshi-red-nimaidou",
+                "item-display": "Black Odoshi Red Nimaidou",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/black-odoshi-red-nimaidou",
+                "item-display": "Black Odoshi Red Nimaidou",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/black-odoshi-red-nimaidou",
+                "item-display": "Black Odoshi Red Nimaidou",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/black-odoshi-red-nimaidou",
+                "item-display": "Black Odoshi Red Nimaidou",
+                "rate": 393.85
+            }
+        ]
+    },
+    {
+        "enemy-slug": "zu",
+        "enemy-display": "Zu",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 393.85
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pazuzu",
+        "enemy-display": "Pazuzu",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            }
+        ]
+    },
+    {
+        "enemy-slug": "boota",
+        "enemy-display": "Boota",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 228.57
+            }
+        ]
+    },
+    {
+        "enemy-slug": "za-boota",
+        "enemy-display": "Za Boota",
+        "dar": 32,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "ba-boota",
+        "enemy-display": "Ba Boota",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/maguwa",
+                "item-display": "Maguwa",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/maguwa",
+                "item-display": "Maguwa",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/maguwa",
+                "item-display": "Maguwa",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/maguwa",
+                "item-display": "Maguwa",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/maguwa",
+                "item-display": "Maguwa",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/maguwa",
+                "item-display": "Maguwa",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/maguwa",
+                "item-display": "Maguwa",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/maguwa",
+                "item-display": "Maguwa",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/maguwa",
+                "item-display": "Maguwa",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/maguwa",
+                "item-display": "Maguwa",
+                "rate": 900.22
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dorphon",
+        "enemy-display": "Dorphon",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dorphon-eclair",
+        "enemy-display": "Dorphon Eclair",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 3.2
+            }
+        ]
+    },
+    {
+        "enemy-slug": "goran",
+        "enemy-display": "Goran",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "weapons/ano-bazooka",
+                "item-display": "Ano Bazooka",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "weapons/ano-bazooka",
+                "item-display": "Ano Bazooka",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "weapons/ano-bazooka",
+                "item-display": "Ano Bazooka",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "weapons/ano-bazooka",
+                "item-display": "Ano Bazooka",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "weapons/ano-bazooka",
+                "item-display": "Ano Bazooka",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "weapons/ano-bazooka",
+                "item-display": "Ano Bazooka",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "weapons/ano-bazooka",
+                "item-display": "Ano Bazooka",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "weapons/ano-bazooka",
+                "item-display": "Ano Bazooka",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "weapons/ano-bazooka",
+                "item-display": "Ano Bazooka",
+                "rate": 228.57
+            },
+            {
+                "item-slug": "weapons/ano-bazooka",
+                "item-display": "Ano Bazooka",
+                "rate": 228.57
+            }
+        ]
+    },
+    {
+        "enemy-slug": "goran-detonator",
+        "enemy-display": "Goran Detonator",
+        "dar": 33,
+        "drops": [
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 193.94
+            },
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 193.94
+            },
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 193.94
+            },
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 193.94
+            },
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 193.94
+            },
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 193.94
+            },
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 193.94
+            },
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 193.94
+            },
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 193.94
+            },
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 193.94
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pyro-goran",
+        "enemy-display": "Pyro Goran",
+        "dar": 31,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sand-rappy",
+        "enemy-display": "Sand Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            }
+        ]
+    },
+    {
+        "enemy-slug": "del-rappy",
+        "enemy-display": "Del Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 36.57
+            }
+        ]
+    },
+    {
+        "enemy-slug": "saint-million",
+        "enemy-display": "Saint Million",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            }
+        ]
+    },
+    {
+        "enemy-slug": "shambertin",
+        "enemy-display": "Shambertin",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 10.67
+            }
+        ]
+    },
+    {
+        "enemy-slug": "kondrieu",
+        "enemy-display": "Kondrieu",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 2
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 2
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 2
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 2
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 2
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 2
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 2
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 2
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 2
+            },
+            {
+                "item-slug": "tools/dragon-scale",
+                "item-display": "Dragon Scale",
+                "rate": 2
+            }
+        ]
+    }
+]

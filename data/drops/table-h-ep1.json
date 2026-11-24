@@ -1,0 +1,2387 @@
+[
+    {
+        "enemy-slug": "hildebear",
+        "enemy-display": "Hildebear",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 45.71
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 45.71
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 45.71
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 45.71
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 45.71
+            },
+            {
+                "item-slug": "weapons/fire-scepter-agni",
+                "item-display": "Fire Scepter:Agni",
+                "rate": 45.71
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 45.71
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 45.71
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 45.71
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 45.71
+            }
+        ]
+    },
+    {
+        "enemy-slug": "hildeblue",
+        "enemy-display": "Hildeblue",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "mothmant",
+        "enemy-display": "Mothmant",
+        "dar": 25,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "monest",
+        "enemy-display": "Monest",
+        "dar": 0,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "rag-rappy",
+        "enemy-display": "Rag Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 128
+            }
+        ]
+    },
+    {
+        "enemy-slug": "al-rappy",
+        "enemy-display": "Al Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/last-survivor",
+                "item-display": "Last Survivor",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/branch-of-pakupaku",
+                "item-display": "Branch of Pakupaku",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/hs25-justice",
+                "item-display": "H&S25 Justice",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/branch-of-pakupaku",
+                "item-display": "Branch of Pakupaku",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/mace-of-adaman",
+                "item-display": "Mace of Adaman",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "savage-wolf",
+        "enemy-display": "Savage Wolf",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 426.67
+            }
+        ]
+    },
+    {
+        "enemy-slug": "barbarous-wolf",
+        "enemy-display": "Barbarous Wolf",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/custom-ray-ver-oo",
+                "item-display": "Custom Ray ver.OO",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/kaladbolg",
+                "item-display": "Kaladbolg",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/mace-of-adaman",
+                "item-display": "Mace of Adaman",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 284.44
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 284.44
+            }
+        ]
+    },
+    {
+        "enemy-slug": "booma",
+        "enemy-display": "Booma",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 457.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gobooma",
+        "enemy-display": "Gobooma",
+        "dar": 32,
+        "drops": [
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 8533.15
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 8533.15
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 8533.15
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 8533.15
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 8533.15
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 8533.15
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 8533.15
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 8533.15
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 8533.15
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 8533.15
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gigobooma",
+        "enemy-display": "Gigobooma",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 104.49
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 104.49
+            }
+        ]
+    },
+    {
+        "enemy-slug": "grass-assassin",
+        "enemy-display": "Grass Assassin",
+        "dar": 50,
+        "drops": [
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 128
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 128
+            }
+        ]
+    },
+    {
+        "enemy-slug": "poison-lily",
+        "enemy-display": "Poison Lily",
+        "dar": 25,
+        "drops": [
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 512
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 512
+            }
+        ]
+    },
+    {
+        "enemy-slug": "nar-lily",
+        "enemy-display": "Nar Lily",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "nano-dragon",
+        "enemy-display": "Nano Dragon",
+        "dar": 50,
+        "drops": [
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/battle-verge",
+                "item-display": "Battle Verge",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/fire-scepter-agni",
+                "item-display": "Fire Scepter:Agni",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 73.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "evil-shark",
+        "enemy-display": "Evil Shark",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pal-shark",
+        "enemy-display": "Pal Shark",
+        "dar": 32,
+        "drops": [
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 400
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 400
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 400
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 400
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 400
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 400
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 400
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 400
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 400
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 400
+            }
+        ]
+    },
+    {
+        "enemy-slug": "guil-shark",
+        "enemy-display": "Guil Shark",
+        "dar": 15,
+        "drops": [
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 243.81
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 243.81
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 243.81
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 243.81
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 243.81
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 243.81
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 243.81
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 243.81
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 243.81
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 243.81
+            }
+        ]
+    },
+    {
+        "enemy-slug": "poifuilly-slime",
+        "enemy-display": "Poifuilly Slime",
+        "dar": 27,
+        "drops": [
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 474.07
+            },
+            {
+                "item-slug": "weapons/custom-ray-ver-oo",
+                "item-display": "Custom Ray ver.OO",
+                "rate": 474.07
+            },
+            {
+                "item-slug": "weapons/kaladbolg",
+                "item-display": "Kaladbolg",
+                "rate": 474.07
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 474.07
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 474.07
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 474.07
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 474.07
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 474.07
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 474.07
+            },
+            {
+                "item-slug": "tools/def-material",
+                "item-display": "Def Material",
+                "rate": 474.07
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pouilly-slime",
+        "enemy-display": "Pouilly Slime",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pan-arms",
+        "enemy-display": "Pan Arms",
+        "dar": 90,
+        "drops": [
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "weapons/fire-scepter-agni",
+                "item-display": "Fire Scepter:Agni",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 40.63
+            },
+            {
+                "item-slug": "tools/p-arm-arms",
+                "item-display": "P-arm's Arms",
+                "rate": 142.22
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 40.63
+            }
+        ]
+    },
+    {
+        "enemy-slug": "migium",
+        "enemy-display": "Migium",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/mace-of-adaman",
+                "item-display": "Mace of Adaman",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 91.43
+            }
+        ]
+    },
+    {
+        "enemy-slug": "hidoom",
+        "enemy-display": "Hidoom",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 91.43
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dubchic",
+        "enemy-display": "Dubchic",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "garanz",
+        "enemy-display": "Garanz",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/double-saber",
+                "item-display": "Double Saber",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/double-saber",
+                "item-display": "Double Saber",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 45.71
+            },
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/inferno-bazooka",
+                "item-display": "Inferno Bazooka",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/photon-claw",
+                "item-display": "Photon Claw",
+                "rate": 80
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 80
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sinow-beat",
+        "enemy-display": "Sinow Beat",
+        "dar": 50,
+        "drops": [
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 256
+            },
+            {
+                "item-slug": "weapons/custom-ray-ver-oo",
+                "item-display": "Custom Ray ver.OO",
+                "rate": 256
+            },
+            {
+                "item-slug": "weapons/kaladbolg",
+                "item-display": "Kaladbolg",
+                "rate": 256
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 256
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 256
+            },
+            {
+                "item-slug": "weapons/mace-of-adaman",
+                "item-display": "Mace of Adaman",
+                "rate": 256
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 256
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 256
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 256
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 256
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sinow-gold",
+        "enemy-display": "Sinow Gold",
+        "dar": 50,
+        "drops": [
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 73.14
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 73.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "canadine",
+        "enemy-display": "Canadine",
+        "dar": 31,
+        "drops": [
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 412.9
+            }
+        ]
+    },
+    {
+        "enemy-slug": "canane",
+        "enemy-display": "Canane",
+        "dar": 31,
+        "drops": [
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 117.97
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 117.97
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 117.97
+            },
+            {
+                "item-slug": "weapons/battle-verge",
+                "item-display": "Battle Verge",
+                "rate": 117.97
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 117.97
+            },
+            {
+                "item-slug": "weapons/fire-scepter-agni",
+                "item-display": "Fire Scepter:Agni",
+                "rate": 117.97
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 117.97
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 117.97
+            },
+            {
+                "item-slug": "weapons/fire-scepter-agni",
+                "item-display": "Fire Scepter:Agni",
+                "rate": 117.97
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 117.97
+            }
+        ]
+    },
+    {
+        "enemy-slug": "delsaber",
+        "enemy-display": "Delsaber",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "tools/delsaber-left-arm",
+                "item-display": "Delsaber's Left Arm",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/delsaber-left-arm",
+                "item-display": "Delsaber's Left Arm",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/delsaber-left-arm",
+                "item-display": "Delsaber's Left Arm",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/delsaber-left-arm",
+                "item-display": "Delsaber's Left Arm",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/delsaber-left-arm",
+                "item-display": "Delsaber's Left Arm",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/delsaber-left-arm",
+                "item-display": "Delsaber's Left Arm",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/delsaber-left-arm",
+                "item-display": "Delsaber's Left Arm",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/delsaber-left-arm",
+                "item-display": "Delsaber's Left Arm",
+                "rate": 182.86
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 182.86
+            }
+        ]
+    },
+    {
+        "enemy-slug": "chaos-sorcerer",
+        "enemy-display": "Chaos Sorcerer",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/battle-verge",
+                "item-display": "Battle Verge",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/fire-scepter-agni",
+                "item-display": "Fire Scepter:Agni",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 91.43
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dark-gunner",
+        "enemy-display": "Dark Gunner",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "frames/sense-plate",
+                "item-display": "Sense Plate",
+                "rate": 9929.5
+            },
+            {
+                "item-slug": "frames/graviton-plate",
+                "item-display": "Graviton Plate",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "frames/graviton-plate",
+                "item-display": "Graviton Plate",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "frames/graviton-plate",
+                "item-display": "Graviton Plate",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "frames/sense-plate",
+                "item-display": "Sense Plate",
+                "rate": 9929.5
+            },
+            {
+                "item-slug": "weapons/fire-scepter-agni",
+                "item-display": "Fire Scepter:Agni",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/sense-plate",
+                "item-display": "Sense Plate",
+                "rate": 9929.5
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 426.67
+            },
+            {
+                "item-slug": "frames/sense-plate",
+                "item-display": "Sense Plate",
+                "rate": 9929.5
+            }
+        ]
+    },
+    {
+        "enemy-slug": "death-gunner",
+        "enemy-display": "Death Gunner",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "chaos-bringer",
+        "enemy-display": "Chaos Bringer",
+        "dar": 85,
+        "drops": [
+            {
+                "item-slug": "weapons/agito",
+                "item-display": "Agito",
+                "rate": 75.29
+            },
+            {
+                "item-slug": "weapons/elysion",
+                "item-display": "Elysion",
+                "rate": 75.29
+            },
+            {
+                "item-slug": "weapons/brave-knuckle",
+                "item-display": "Brave Knuckle",
+                "rate": 75.29
+            },
+            {
+                "item-slug": "weapons/elysion",
+                "item-display": "Elysion",
+                "rate": 75.29
+            },
+            {
+                "item-slug": "weapons/elysion",
+                "item-display": "Elysion",
+                "rate": 75.29
+            },
+            {
+                "item-slug": "weapons/elysion",
+                "item-display": "Elysion",
+                "rate": 75.29
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 75.29
+            },
+            {
+                "item-slug": "weapons/elysion",
+                "item-display": "Elysion",
+                "rate": 75.29
+            },
+            {
+                "item-slug": "weapons/branch-of-pakupaku",
+                "item-display": "Branch of Pakupaku",
+                "rate": 75.29
+            },
+            {
+                "item-slug": "weapons/diska-of-liberator",
+                "item-display": "Diska of Liberator",
+                "rate": 75.29
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dark-belra",
+        "enemy-display": "Dark Belra",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 91.43
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 91.43
+            }
+        ]
+    },
+    {
+        "enemy-slug": "claw",
+        "enemy-display": "Claw",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "bulk",
+        "enemy-display": "Bulk",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "bulclaw",
+        "enemy-display": "Bulclaw",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 320
+            },
+            {
+                "item-slug": "frames/d-parts-ver1-01",
+                "item-display": "D-Parts ver1.01",
+                "rate": 320
+            },
+            {
+                "item-slug": "frames/d-parts-ver1-01",
+                "item-display": "D-Parts ver1.01",
+                "rate": 320
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 320
+            },
+            {
+                "item-slug": "weapons/ma60-vise",
+                "item-display": "M&A60 Vise",
+                "rate": 320
+            },
+            {
+                "item-slug": "weapons/fire-scepter-agni",
+                "item-display": "Fire Scepter:Agni",
+                "rate": 320
+            },
+            {
+                "item-slug": "frames/d-parts-ver1-01",
+                "item-display": "D-Parts ver1.01",
+                "rate": 160
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 320
+            },
+            {
+                "item-slug": "frames/d-parts-ver1-01",
+                "item-display": "D-Parts ver1.01",
+                "rate": 320
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 320
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dimenian",
+        "enemy-display": "Dimenian",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 457.14
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 457.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "la-dimenian",
+        "enemy-display": "La Dimenian",
+        "dar": 31,
+        "drops": [
+            {
+                "item-slug": "weapons/club-of-laconium",
+                "item-display": "Club of Laconium",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/custom-ray-ver-oo",
+                "item-display": "Custom Ray ver.OO",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/kaladbolg",
+                "item-display": "Kaladbolg",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/mace-of-adaman",
+                "item-display": "Mace of Adaman",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/varista",
+                "item-display": "Varista",
+                "rate": 412.9
+            },
+            {
+                "item-slug": "weapons/db-saber",
+                "item-display": "DB's Saber",
+                "rate": 412.9
+            }
+        ]
+    },
+    {
+        "enemy-slug": "so-dimenian",
+        "enemy-display": "So Dimenian",
+        "dar": 33,
+        "drops": [
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 110.82
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 110.82
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 110.82
+            },
+            {
+                "item-slug": "weapons/battle-verge",
+                "item-display": "Battle Verge",
+                "rate": 110.82
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 110.82
+            },
+            {
+                "item-slug": "weapons/fire-scepter-agni",
+                "item-display": "Fire Scepter:Agni",
+                "rate": 110.82
+            },
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 110.82
+            },
+            {
+                "item-slug": "weapons/flowen-sword",
+                "item-display": "Flowen's Sword",
+                "rate": 110.82
+            },
+            {
+                "item-slug": "weapons/battle-verge",
+                "item-display": "Battle Verge",
+                "rate": 110.82
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 110.82
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dragon",
+        "enemy-display": "Dragon",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/musashi",
+                "item-display": "Musashi",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/musashi",
+                "item-display": "Musashi",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/musashi",
+                "item-display": "Musashi",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/musashi",
+                "item-display": "Musashi",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/musashi",
+                "item-display": "Musashi",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/musashi",
+                "item-display": "Musashi",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/musashi",
+                "item-display": "Musashi",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/musashi",
+                "item-display": "Musashi",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/musashi",
+                "item-display": "Musashi",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/musashi",
+                "item-display": "Musashi",
+                "rate": 16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "de-rol-le",
+        "enemy-display": "De Rol Le",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "vol-opt",
+        "enemy-display": "Vol Opt",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/photon-crystal",
+                "item-display": "Photon Crystal",
+                "rate": 16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dark-falz",
+        "enemy-display": "Dark Falz",
+        "dar": 0,
+        "drops": [
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/a-new-friend",
+                "item-display": "A New Friend",
+                "rate": null
+            }
+        ]
+    }
+]

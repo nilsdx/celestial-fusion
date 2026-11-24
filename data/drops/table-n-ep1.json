@@ -1,0 +1,2157 @@
+[
+    {
+        "enemy-slug": "hildebear",
+        "enemy-display": "Hildebear",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            }
+        ]
+    },
+    {
+        "enemy-slug": "hildeblue",
+        "enemy-display": "Hildeblue",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "units/resist-fire",
+                "item-display": "Resist/Fire",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-fire",
+                "item-display": "Resist/Fire",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/general-mind",
+                "item-display": "General/Mind",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/general-legs",
+                "item-display": "General/Legs",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-flame",
+                "item-display": "Resist/Flame",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-light",
+                "item-display": "Resist/Light",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/general-mind",
+                "item-display": "General/Mind",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-fire",
+                "item-display": "Resist/Fire",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/general-legs",
+                "item-display": "General/Legs",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "mothmant",
+        "enemy-display": "Mothmant",
+        "dar": 25,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "monest",
+        "enemy-display": "Monest",
+        "dar": 0,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "rag-rappy",
+        "enemy-display": "Rag Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 7281.73
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 7281.73
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 7281.73
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 7281.73
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 7281.73
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 7281.73
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 7281.73
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 7281.73
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 7281.73
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 7281.73
+            }
+        ]
+    },
+    {
+        "enemy-slug": "al-rappy",
+        "enemy-display": "Al Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.78
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "savage-wolf",
+        "enemy-display": "Savage Wolf",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "barriers/recovery-barrier",
+                "item-display": "Recovery Barrier",
+                "rate": 6068.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "barbarous-wolf",
+        "enemy-display": "Barbarous Wolf",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 758.52
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 758.52
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 758.52
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 10402.58
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 758.52
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 758.52
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 758.52
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 758.52
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 758.52
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 758.52
+            }
+        ]
+    },
+    {
+        "enemy-slug": "booma",
+        "enemy-display": "Booma",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 8359.11
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 8359.11
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 8359.11
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 8359.11
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 8359.11
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 8359.11
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 8359.11
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 8359.11
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 8359.11
+            },
+            {
+                "item-slug": "tools/booma-right-arm",
+                "item-display": "Booma's Right Arm",
+                "rate": 8359.11
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gobooma",
+        "enemy-display": "Gobooma",
+        "dar": 32,
+        "drops": [
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 20479.21
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 20479.21
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 20479.21
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 20479.21
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 20479.21
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 20479.21
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 20479.21
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 20479.21
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 20479.21
+            },
+            {
+                "item-slug": "tools/gobooma-right-arm",
+                "item-display": "Gobooma's Right Arm",
+                "rate": 20479.21
+            }
+        ]
+    },
+    {
+        "enemy-slug": "gigobooma",
+        "enemy-display": "Gigobooma",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.08
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.08
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.08
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.08
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.08
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.08
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 5201.29
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.08
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.08
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.08
+            }
+        ]
+    },
+    {
+        "enemy-slug": "grass-assassin",
+        "enemy-display": "Grass Assassin",
+        "dar": 50,
+        "drops": [
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 10082.68
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 10082.68
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 10082.68
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 10082.68
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 10082.68
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 10082.68
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 10082.68
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 10082.68
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 10082.68
+            },
+            {
+                "item-slug": "tools/grass-assassin-arms",
+                "item-display": "Grass Assassin's Arms",
+                "rate": 10082.68
+            }
+        ]
+    },
+    {
+        "enemy-slug": "poison-lily",
+        "enemy-display": "Poison Lily",
+        "dar": 25,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "nar-lily",
+        "enemy-display": "Nar Lily",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "units/general-mind",
+                "item-display": "General/Mind",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/general-mind",
+                "item-display": "General/Mind",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/general-mind",
+                "item-display": "General/Mind",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/dragon-hp",
+                "item-display": "Dragon/HP",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/general-legs",
+                "item-display": "General/Legs",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/angel-mind",
+                "item-display": "Angel/Mind",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/angel-mind",
+                "item-display": "Angel/Mind",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/dragon-hp",
+                "item-display": "Dragon/HP",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/dragon-hp",
+                "item-display": "Dragon/HP",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/angel-mind",
+                "item-display": "Angel/Mind",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "nano-dragon",
+        "enemy-display": "Nano Dragon",
+        "dar": 50,
+        "drops": [
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 3.56
+            }
+        ]
+    },
+    {
+        "enemy-slug": "evil-shark",
+        "enemy-display": "Evil Shark",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "barriers/blue-barrier",
+                "item-display": "Blue Barrier",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "barriers/assist-barrier",
+                "item-display": "Assist Barrier",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "barriers/blue-barrier",
+                "item-display": "Blue Barrier",
+                "rate": 6501.53
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pal-shark",
+        "enemy-display": "Pal Shark",
+        "dar": 32,
+        "drops": [
+            {
+                "item-slug": "barriers/blue-barrier",
+                "item-display": "Blue Barrier",
+                "rate": 5688.93
+            },
+            {
+                "item-slug": "barriers/blue-barrier",
+                "item-display": "Blue Barrier",
+                "rate": 5688.93
+            }
+        ]
+    },
+    {
+        "enemy-slug": "guil-shark",
+        "enemy-display": "Guil Shark",
+        "dar": 15,
+        "drops": [
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 11.85
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 11.85
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 2100.53
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 11.85
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 11.85
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 11.85
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 11.85
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 11.85
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 11.85
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 11.85
+            }
+        ]
+    },
+    {
+        "enemy-slug": "poifuilly-slime",
+        "enemy-display": "Poifuilly Slime",
+        "dar": 27,
+        "drops": [
+            {
+                "item-slug": "tools/evade-material",
+                "item-display": "Evade Material",
+                "rate": 1083.6
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1083.6
+            },
+            {
+                "item-slug": "tools/def-material",
+                "item-display": "Def Material",
+                "rate": 1083.6
+            },
+            {
+                "item-slug": "tools/evade-material",
+                "item-display": "Evade Material",
+                "rate": 1083.6
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 1083.6
+            },
+            {
+                "item-slug": "tools/def-material",
+                "item-display": "Def Material",
+                "rate": 1083.6
+            },
+            {
+                "item-slug": "tools/def-material",
+                "item-display": "Def Material",
+                "rate": 1083.6
+            },
+            {
+                "item-slug": "tools/evade-material",
+                "item-display": "Evade Material",
+                "rate": 1083.6
+            },
+            {
+                "item-slug": "tools/def-material",
+                "item-display": "Def Material",
+                "rate": 1083.6
+            },
+            {
+                "item-slug": "tools/def-material",
+                "item-display": "Def Material",
+                "rate": 1083.6
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pouilly-slime",
+        "enemy-display": "Pouilly Slime",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "units/resist-freeze",
+                "item-display": "Resist/Freeze",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-flame",
+                "item-display": "Resist/Flame",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-thunder",
+                "item-display": "Resist/Thunder",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-thunder",
+                "item-display": "Resist/Thunder",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-flame",
+                "item-display": "Resist/Flame",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-light",
+                "item-display": "Resist/Light",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/master-ability",
+                "item-display": "Master/Ability",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-thunder",
+                "item-display": "Resist/Thunder",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-thunder",
+                "item-display": "Resist/Thunder",
+                "rate": 1.14
+            },
+            {
+                "item-slug": "units/resist-light",
+                "item-display": "Resist/Light",
+                "rate": 1.14
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pan-arms",
+        "enemy-display": "Pan Arms",
+        "dar": 90,
+        "drops": [
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.98
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.98
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.98
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.98
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.98
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.98
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.98
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.98
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.98
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 1.98
+            }
+        ]
+    },
+    {
+        "enemy-slug": "migium",
+        "enemy-display": "Migium",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            }
+        ]
+    },
+    {
+        "enemy-slug": "hidoom",
+        "enemy-display": "Hidoom",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dubchic",
+        "enemy-display": "Dubchic",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "units/hp-restorate",
+                "item-display": "HP/Restorate",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "units/general-arm",
+                "item-display": "General/Arm",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "units/hp-restorate",
+                "item-display": "HP/Restorate",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "units/tp-restorate",
+                "item-display": "TP/Restorate",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "units/dragon-hp",
+                "item-display": "Dragon/HP",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "units/tp-restorate",
+                "item-display": "TP/Restorate",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "units/tp-restorate",
+                "item-display": "TP/Restorate",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "units/tp-restorate",
+                "item-display": "TP/Restorate",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "units/hp-restorate",
+                "item-display": "HP/Restorate",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "units/tp-restorate",
+                "item-display": "TP/Restorate",
+                "rate": 6501.53
+            }
+        ]
+    },
+    {
+        "enemy-slug": "garanz",
+        "enemy-display": "Garanz",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "units/dragon-hp",
+                "item-display": "Dragon/HP",
+                "rate": 11702.75
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.22
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sinow-beat",
+        "enemy-display": "Sinow Beat",
+        "dar": 55,
+        "drops": [
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 744.73
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 8511.36
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 744.73
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 744.73
+            },
+            {
+                "item-slug": "tools/evade-material",
+                "item-display": "Evade Material",
+                "rate": 744.73
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 744.73
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 744.73
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 744.73
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 744.73
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 744.73
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sinow-gold",
+        "enemy-display": "Sinow Gold",
+        "dar": 50,
+        "drops": [
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 9.14
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/addslot",
+                "item-display": "AddSlot",
+                "rate": 5461.2
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 3.56
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 3.56
+            }
+        ]
+    },
+    {
+        "enemy-slug": "canadine",
+        "enemy-display": "Canadine",
+        "dar": 33,
+        "drops": [
+            {
+                "item-slug": "barriers/red-barrier",
+                "item-display": "Red Barrier",
+                "rate": 5516.63
+            },
+            {
+                "item-slug": "barriers/blue-barrier",
+                "item-display": "Blue Barrier",
+                "rate": 5516.63
+            },
+            {
+                "item-slug": "barriers/yellow-barrier",
+                "item-display": "Yellow Barrier",
+                "rate": 5516.63
+            },
+            {
+                "item-slug": "barriers/yellow-barrier",
+                "item-display": "Yellow Barrier",
+                "rate": 5516.63
+            },
+            {
+                "item-slug": "barriers/yellow-barrier",
+                "item-display": "Yellow Barrier",
+                "rate": 5516.63
+            },
+            {
+                "item-slug": "barriers/yellow-barrier",
+                "item-display": "Yellow Barrier",
+                "rate": 5516.63
+            },
+            {
+                "item-slug": "barriers/yellow-barrier",
+                "item-display": "Yellow Barrier",
+                "rate": 5516.63
+            },
+            {
+                "item-slug": "barriers/yellow-barrier",
+                "item-display": "Yellow Barrier",
+                "rate": 5516.63
+            }
+        ]
+    },
+    {
+        "enemy-slug": "canane",
+        "enemy-display": "Canane",
+        "dar": 33,
+        "drops": [
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/monogrinder",
+                "item-display": "Monogrinder",
+                "rate": 2256.73
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            }
+        ]
+    },
+    {
+        "enemy-slug": "delsaber",
+        "enemy-display": "Delsaber",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 5851.38
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 5851.38
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 5851.38
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 5851.38
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 5851.38
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 5851.38
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 5851.38
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 5851.38
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 5851.38
+            },
+            {
+                "item-slug": "tools/delsaber-right-arm",
+                "item-display": "Delsaber's Right Arm",
+                "rate": 5851.38
+            }
+        ]
+    },
+    {
+        "enemy-slug": "chaos-sorcerer",
+        "enemy-display": "Chaos Sorcerer",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 5.93
+            },
+            {
+                "item-slug": "tools/evade-material",
+                "item-display": "Evade Material",
+                "rate": 3.81
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.93
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.93
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 5.93
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 5.93
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 5.93
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 5.93
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 5.93
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 5.93
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dark-gunner",
+        "enemy-display": "Dark Gunner",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "barriers/invisible-guard",
+                "item-display": "Invisible Guard",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 18204.99
+            },
+            {
+                "item-slug": "barriers/invisible-guard",
+                "item-display": "Invisible Guard",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "weapons/brionac",
+                "item-display": "Brionac",
+                "rate": 18204.99
+            },
+            {
+                "item-slug": "barriers/invisible-guard",
+                "item-display": "Invisible Guard",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "barriers/invisible-guard",
+                "item-display": "Invisible Guard",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "barriers/invisible-guard",
+                "item-display": "Invisible Guard",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "barriers/s-parts-ver2-01",
+                "item-display": "S-Parts ver2.01",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "barriers/invisible-guard",
+                "item-display": "Invisible Guard",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "weapons/slicer-of-assassin",
+                "item-display": "Slicer of Assassin",
+                "rate": 18204.99
+            }
+        ]
+    },
+    {
+        "enemy-slug": "death-gunner",
+        "enemy-display": "Death Gunner",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "chaos-bringer",
+        "enemy-display": "Chaos Bringer",
+        "dar": 85,
+        "drops": [
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.09
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.09
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.09
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.09
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 2.09
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.09
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.09
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.09
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.09
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 2.09
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dark-belra",
+        "enemy-display": "Dark Belra",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "tools/def-material",
+                "item-display": "Def Material",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 4.44
+            },
+            {
+                "item-slug": "tools/trimate",
+                "item-display": "Trimate",
+                "rate": 4.44
+            }
+        ]
+    },
+    {
+        "enemy-slug": "claw",
+        "enemy-display": "Claw",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "barriers/blue-barrier",
+                "item-display": "Blue Barrier",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "barriers/red-barrier",
+                "item-display": "Red Barrier",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "barriers/red-barrier",
+                "item-display": "Red Barrier",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "barriers/red-barrier",
+                "item-display": "Red Barrier",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "barriers/red-barrier",
+                "item-display": "Red Barrier",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "barriers/red-barrier",
+                "item-display": "Red Barrier",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "barriers/red-barrier",
+                "item-display": "Red Barrier",
+                "rate": 6501.53
+            },
+            {
+                "item-slug": "barriers/red-barrier",
+                "item-display": "Red Barrier",
+                "rate": 6501.53
+            }
+        ]
+    },
+    {
+        "enemy-slug": "bulk",
+        "enemy-display": "Bulk",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            }
+        ]
+    },
+    {
+        "enemy-slug": "bulclaw",
+        "enemy-display": "Bulclaw",
+        "dar": 40,
+        "drops": [
+            {
+                "item-slug": "weapons/crush-bullet",
+                "item-display": "Crush Bullet",
+                "rate": 23408.24
+            },
+            {
+                "item-slug": "weapons/visk-235w",
+                "item-display": "Visk-235W",
+                "rate": 11702.75
+            },
+            {
+                "item-slug": "barriers/sacred-guard",
+                "item-display": "Sacred Guard",
+                "rate": 14894.25
+            },
+            {
+                "item-slug": "barriers/sacred-guard",
+                "item-display": "Sacred Guard",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "barriers/sacred-guard",
+                "item-display": "Sacred Guard",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "weapons/fire-scepter-agni",
+                "item-display": "Fire Scepter:Agni",
+                "rate": 11702.75
+            },
+            {
+                "item-slug": "barriers/sacred-guard",
+                "item-display": "Sacred Guard",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "weapons/blade-dance",
+                "item-display": "Blade Dance",
+                "rate": 11702.75
+            },
+            {
+                "item-slug": "barriers/sacred-guard",
+                "item-display": "Sacred Guard",
+                "rate": 7447.13
+            },
+            {
+                "item-slug": "barriers/sacred-guard",
+                "item-display": "Sacred Guard",
+                "rate": 7447.13
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dimenian",
+        "enemy-display": "Dimenian",
+        "dar": 28,
+        "drops": [
+            {
+                "item-slug": "barriers/blue-barrier",
+                "item-display": "Blue Barrier",
+                "rate": 6501.53
+            }
+        ]
+    },
+    {
+        "enemy-slug": "la-dimenian",
+        "enemy-display": "La Dimenian",
+        "dar": 31,
+        "drops": [
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 15101.18
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 1201.17
+            },
+            {
+                "item-slug": "tools/scape-doll",
+                "item-display": "Scape Doll",
+                "rate": 15101.18
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 1201.17
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 1201.17
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 1201.17
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 1201.17
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 1201.17
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 1201.17
+            },
+            {
+                "item-slug": "tools/star-atomizer",
+                "item-display": "Star Atomizer",
+                "rate": 1201.17
+            }
+        ]
+    },
+    {
+        "enemy-slug": "so-dimenian",
+        "enemy-display": "So Dimenian",
+        "dar": 33,
+        "drops": [
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            },
+            {
+                "item-slug": "tools/sol-atomizer",
+                "item-display": "Sol Atomizer",
+                "rate": 5.39
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dragon",
+        "enemy-display": "Dragon",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/hp-material",
+                "item-display": "HP Material",
+                "rate": 16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "de-rol-le",
+        "enemy-display": "De Rol Le",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/power-material",
+                "item-display": "Power Material",
+                "rate": 16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "vol-opt",
+        "enemy-display": "Vol Opt",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/mind-material",
+                "item-display": "Mind Material",
+                "rate": 16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dark-falz",
+        "enemy-display": "Dark Falz",
+        "dar": 0,
+        "drops": [
+            {
+                "item-slug": "tools/tp-material",
+                "item-display": "TP Material",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/tp-material",
+                "item-display": "TP Material",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/tp-material",
+                "item-display": "TP Material",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/tp-material",
+                "item-display": "TP Material",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/tp-material",
+                "item-display": "TP Material",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/tp-material",
+                "item-display": "TP Material",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/tp-material",
+                "item-display": "TP Material",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/tp-material",
+                "item-display": "TP Material",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/tp-material",
+                "item-display": "TP Material",
+                "rate": null
+            },
+            {
+                "item-slug": "tools/tp-material",
+                "item-display": "TP Material",
+                "rate": null
+            }
+        ]
+    }
+]

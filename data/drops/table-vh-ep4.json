@@ -1,0 +1,1199 @@
+[
+    {
+        "enemy-slug": "astark",
+        "enemy-display": "Astark",
+        "dar": 85,
+        "drops": [
+            {
+                "item-slug": "barriers/yata-mirror",
+                "item-display": "Yata Mirror",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "frames/revival-curiass",
+                "item-display": "Revival Curiass",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "weapons/kusanagi",
+                "item-display": "Kusanagi",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "units/v801",
+                "item-display": "V801",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "barriers/yata-mirror",
+                "item-display": "Yata Mirror",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "units/v801",
+                "item-display": "V801",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "weapons/kusanagi",
+                "item-display": "Kusanagi",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "barriers/yata-mirror",
+                "item-display": "Yata Mirror",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "barriers/yata-mirror",
+                "item-display": "Yata Mirror",
+                "rate": 370.68
+            },
+            {
+                "item-slug": "units/yasakani-magatama",
+                "item-display": "Yasakani Magatama",
+                "rate": 370.68
+            }
+        ]
+    },
+    {
+        "enemy-slug": "yowie",
+        "enemy-display": "Yowie",
+        "dar": 45,
+        "drops": [
+            {
+                "item-slug": "frames/commander-uniform",
+                "item-display": "Commander Uniform",
+                "rate": 1137.77
+            },
+            {
+                "item-slug": "frames/cursed-cloak",
+                "item-display": "Cursed Cloak",
+                "rate": 1137.77
+            },
+            {
+                "item-slug": "frames/cursed-cloak",
+                "item-display": "Cursed Cloak",
+                "rate": 1137.77
+            },
+            {
+                "item-slug": "frames/cursed-cloak",
+                "item-display": "Cursed Cloak",
+                "rate": 1137.77
+            },
+            {
+                "item-slug": "frames/cursed-cloak",
+                "item-display": "Cursed Cloak",
+                "rate": 1137.77
+            },
+            {
+                "item-slug": "frames/commander-uniform",
+                "item-display": "Commander Uniform",
+                "rate": 1137.77
+            },
+            {
+                "item-slug": "frames/commander-uniform",
+                "item-display": "Commander Uniform",
+                "rate": 1137.77
+            },
+            {
+                "item-slug": "frames/commander-uniform",
+                "item-display": "Commander Uniform",
+                "rate": 1137.77
+            },
+            {
+                "item-slug": "frames/commander-uniform",
+                "item-display": "Commander Uniform",
+                "rate": 1137.77
+            },
+            {
+                "item-slug": "frames/commander-uniform",
+                "item-display": "Commander Uniform",
+                "rate": 1137.77
+            }
+        ]
+    },
+    {
+        "enemy-slug": "satellite-lizard",
+        "enemy-display": "Satellite Lizard",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 1050.25
+            },
+            {
+                "item-slug": "frames/alliance-uniform",
+                "item-display": "Alliance Uniform",
+                "rate": 1050.25
+            }
+        ]
+    },
+    {
+        "enemy-slug": "merissa-a",
+        "enemy-display": "Merissa A",
+        "dar": 27,
+        "drops": [
+            {
+                "item-slug": "weapons/striker-plus",
+                "item-display": "Striker Plus",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/striker-plus",
+                "item-display": "Striker Plus",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/striker-plus",
+                "item-display": "Striker Plus",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "units/v501",
+                "item-display": "V501",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/striker-plus",
+                "item-display": "Striker Plus",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/striker-plus",
+                "item-display": "Striker Plus",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/striker-plus",
+                "item-display": "Striker Plus",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "units/v501",
+                "item-display": "V501",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/striker-plus",
+                "item-display": "Striker Plus",
+                "rate": 237.04
+            },
+            {
+                "item-slug": "weapons/striker-plus",
+                "item-display": "Striker Plus",
+                "rate": 237.04
+            }
+        ]
+    },
+    {
+        "enemy-slug": "merissa-aa",
+        "enemy-display": "Merissa AA",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "frames/lieutenant-gear",
+                "item-display": "Lieutenant Gear",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/heavenly-power",
+                "item-display": "Heavenly/Power",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "weapons/flamberge",
+                "item-display": "Flamberge",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "weapons/aensland",
+                "item-display": "Aensland",
+                "rate": 8
+            },
+            {
+                "item-slug": "weapons/aensland",
+                "item-display": "Aensland",
+                "rate": 8
+            },
+            {
+                "item-slug": "units/heavenly-hp",
+                "item-display": "Heavenly/HP",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "weapons/flamberge",
+                "item-display": "Flamberge",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/centurion-arms",
+                "item-display": "Centurion/Arms",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "weapons/lame-dargent",
+                "item-display": "Lame d'Argent",
+                "rate": 32
+            },
+            {
+                "item-slug": "weapons/daylight-scar",
+                "item-display": "Daylight Scar",
+                "rate": 16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "girtablulu",
+        "enemy-display": "Girtablulu",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "weapons/limiter",
+                "item-display": "Limiter",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "barriers/energy-storm",
+                "item-display": "Energy Storm",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/gratia",
+                "item-display": "Gratia",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/slicer-of-fanatic",
+                "item-display": "Slicer of Fanatic",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "barriers/rainbow-shield",
+                "item-display": "Rainbow Shield",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/mother-garb-plus",
+                "item-display": "Mother Garb+",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/swordsman-lore",
+                "item-display": "Swordsman Lore",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/slicer-of-fanatic",
+                "item-display": "Slicer of Fanatic",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/gratia",
+                "item-display": "Gratia",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/mother-garb-plus",
+                "item-display": "Mother Garb+",
+                "rate": 393.85
+            }
+        ]
+    },
+    {
+        "enemy-slug": "zu",
+        "enemy-display": "Zu",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "units/v101",
+                "item-display": "V101",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "barriers/regenerate-gear-b-p",
+                "item-display": "Regenerate Gear B.P.",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "barriers/regenerate-gear-b-p",
+                "item-display": "Regenerate Gear B.P.",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "units/v101",
+                "item-display": "V101",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "barriers/regenerate-gear-b-p",
+                "item-display": "Regenerate Gear B.P.",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/morning-prayer",
+                "item-display": "Morning Prayer",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "units/v101",
+                "item-display": "V101",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "units/v101",
+                "item-display": "V101",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "units/v101",
+                "item-display": "V101",
+                "rate": 393.85
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pazuzu",
+        "enemy-display": "Pazuzu",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/ophelie-seize",
+                "item-display": "Ophelie Seize",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/heavenly-battle",
+                "item-display": "Heavenly/Battle",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "weapons/vivienne",
+                "item-display": "Vivienne",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/heavenly-mind",
+                "item-display": "Heavenly/Mind",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "weapons/ophelie-seize",
+                "item-display": "Ophelie Seize",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/heavenly-luck",
+                "item-display": "Heavenly/Luck",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/v801",
+                "item-display": "V801",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "weapons/vivienne",
+                "item-display": "Vivienne",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "frames/select-cloak",
+                "item-display": "Select Cloak",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "weapons/vivienne",
+                "item-display": "Vivienne",
+                "rate": 3.2
+            }
+        ]
+    },
+    {
+        "enemy-slug": "boota",
+        "enemy-display": "Boota",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "frames/select-cloak",
+                "item-display": "Select Cloak",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/select-cloak",
+                "item-display": "Select Cloak",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/select-cloak",
+                "item-display": "Select Cloak",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/select-cloak",
+                "item-display": "Select Cloak",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/select-cloak",
+                "item-display": "Select Cloak",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/select-cloak",
+                "item-display": "Select Cloak",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/select-cloak",
+                "item-display": "Select Cloak",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/select-cloak",
+                "item-display": "Select Cloak",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/select-cloak",
+                "item-display": "Select Cloak",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/select-cloak",
+                "item-display": "Select Cloak",
+                "rate": 213.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "za-boota",
+        "enemy-display": "Za Boota",
+        "dar": 38,
+        "drops": [
+            {
+                "item-slug": "frames/red-odoshi-domaru",
+                "item-display": "Red Odoshi Domaru",
+                "rate": 1347.36
+            },
+            {
+                "item-slug": "frames/commander-uniform",
+                "item-display": "Commander Uniform",
+                "rate": 1347.36
+            },
+            {
+                "item-slug": "frames/red-odoshi-domaru",
+                "item-display": "Red Odoshi Domaru",
+                "rate": 1347.36
+            },
+            {
+                "item-slug": "frames/red-odoshi-domaru",
+                "item-display": "Red Odoshi Domaru",
+                "rate": 1347.36
+            },
+            {
+                "item-slug": "frames/red-odoshi-domaru",
+                "item-display": "Red Odoshi Domaru",
+                "rate": 1347.36
+            },
+            {
+                "item-slug": "frames/red-odoshi-domaru",
+                "item-display": "Red Odoshi Domaru",
+                "rate": 1347.36
+            },
+            {
+                "item-slug": "frames/red-odoshi-domaru",
+                "item-display": "Red Odoshi Domaru",
+                "rate": 1347.36
+            },
+            {
+                "item-slug": "frames/red-odoshi-domaru",
+                "item-display": "Red Odoshi Domaru",
+                "rate": 1347.36
+            },
+            {
+                "item-slug": "frames/red-odoshi-domaru",
+                "item-display": "Red Odoshi Domaru",
+                "rate": 1347.36
+            },
+            {
+                "item-slug": "frames/red-odoshi-domaru",
+                "item-display": "Red Odoshi Domaru",
+                "rate": 1347.36
+            }
+        ]
+    },
+    {
+        "enemy-slug": "ba-boota",
+        "enemy-display": "Ba Boota",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "frames/black-odoshi-domaru",
+                "item-display": "Black Odoshi Domaru",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/black-odoshi-domaru",
+                "item-display": "Black Odoshi Domaru",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "weapons/chain-sawd",
+                "item-display": "Chain Sawd",
+                "rate": 731.43
+            },
+            {
+                "item-slug": "weapons/daylight-scar",
+                "item-display": "Daylight Scar",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/black-odoshi-domaru",
+                "item-display": "Black Odoshi Domaru",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/black-odoshi-domaru",
+                "item-display": "Black Odoshi Domaru",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/black-odoshi-domaru",
+                "item-display": "Black Odoshi Domaru",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/black-odoshi-domaru",
+                "item-display": "Black Odoshi Domaru",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/black-odoshi-domaru",
+                "item-display": "Black Odoshi Domaru",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/black-odoshi-domaru",
+                "item-display": "Black Odoshi Domaru",
+                "rate": 900.22
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dorphon",
+        "enemy-display": "Dorphon",
+        "dar": 80,
+        "drops": [
+            {
+                "item-slug": "weapons/kusanagi",
+                "item-display": "Kusanagi",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/mother-garb-plus",
+                "item-display": "Mother Garb+",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "barriers/molten-ring",
+                "item-display": "Molten Ring",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/mother-garb-plus",
+                "item-display": "Mother Garb+",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "weapons/kusanagi",
+                "item-display": "Kusanagi",
+                "rate": 393.85
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 393.85
+            }
+        ]
+    },
+    {
+        "enemy-slug": "dorphon-eclair",
+        "enemy-display": "Dorphon Eclair",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/guren",
+                "item-display": "Guren",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/heavenly-ability",
+                "item-display": "Heavenly/Ability",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/heavenly-body",
+                "item-display": "Heavenly/Body",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/heavenly-battle",
+                "item-display": "Heavenly/Battle",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/heavenly-arms",
+                "item-display": "Heavenly/Arms",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/heavenly-arms",
+                "item-display": "Heavenly/Arms",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "frames/tempest-cloak",
+                "item-display": "Tempest Cloak",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/heavenly-power",
+                "item-display": "Heavenly/Power",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "units/heavenly-battle",
+                "item-display": "Heavenly/Battle",
+                "rate": 3.2
+            },
+            {
+                "item-slug": "weapons/vivienne",
+                "item-display": "Vivienne",
+                "rate": 3.2
+            }
+        ]
+    },
+    {
+        "enemy-slug": "goran",
+        "enemy-display": "Goran",
+        "dar": 30,
+        "drops": [
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 213.33
+            },
+            {
+                "item-slug": "frames/star-cuirass",
+                "item-display": "Star Cuirass",
+                "rate": 213.33
+            }
+        ]
+    },
+    {
+        "enemy-slug": "goran-detonator",
+        "enemy-display": "Goran Detonator",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "weapons/laconium-axe",
+                "item-display": "Laconium Axe",
+                "rate": 325.08
+            },
+            {
+                "item-slug": "weapons/death-reaper",
+                "item-display": "Death Reaper",
+                "rate": 417.96
+            },
+            {
+                "item-slug": "weapons/laconium-axe",
+                "item-display": "Laconium Axe",
+                "rate": 325.08
+            },
+            {
+                "item-slug": "weapons/aensland",
+                "item-display": "Aensland",
+                "rate": 325.08
+            },
+            {
+                "item-slug": "units/v801",
+                "item-display": "V801",
+                "rate": 265.97
+            },
+            {
+                "item-slug": "weapons/mystic-spirit",
+                "item-display": "Mystic Spirit",
+                "rate": 417.96
+            },
+            {
+                "item-slug": "weapons/desert-eagle",
+                "item-display": "Desert Eagle",
+                "rate": 417.96
+            },
+            {
+                "item-slug": "weapons/desert-eagle",
+                "item-display": "Desert Eagle",
+                "rate": 417.96
+            },
+            {
+                "item-slug": "units/v502",
+                "item-display": "V502",
+                "rate": 365.71
+            },
+            {
+                "item-slug": "weapons/rambling-may",
+                "item-display": "Rambling May",
+                "rate": 417.96
+            }
+        ]
+    },
+    {
+        "enemy-slug": "pyro-goran",
+        "enemy-display": "Pyro Goran",
+        "dar": 35,
+        "drops": [
+            {
+                "item-slug": "frames/tripolic-reflector",
+                "item-display": "Tripolic Reflector",
+                "rate": 1462.87
+            },
+            {
+                "item-slug": "frames/revival-curiass",
+                "item-display": "Revival Curiass",
+                "rate": 1462.87
+            },
+            {
+                "item-slug": "frames/revival-curiass",
+                "item-display": "Revival Curiass",
+                "rate": 1462.87
+            },
+            {
+                "item-slug": "frames/tripolic-reflector",
+                "item-display": "Tripolic Reflector",
+                "rate": 1462.87
+            },
+            {
+                "item-slug": "frames/tripolic-reflector",
+                "item-display": "Tripolic Reflector",
+                "rate": 1462.87
+            },
+            {
+                "item-slug": "frames/tripolic-reflector",
+                "item-display": "Tripolic Reflector",
+                "rate": 1462.87
+            },
+            {
+                "item-slug": "weapons/heaven-striker",
+                "item-display": "Heaven Striker",
+                "rate": 2127.8
+            },
+            {
+                "item-slug": "weapons/glide-divine-x",
+                "item-display": "Glide Divine X",
+                "rate": 2127.8
+            },
+            {
+                "item-slug": "weapons/death-reaper",
+                "item-display": "Death Reaper",
+                "rate": 900.22
+            },
+            {
+                "item-slug": "frames/ignition-cloak",
+                "item-display": "Ignition Cloak",
+                "rate": 1462.87
+            }
+        ]
+    },
+    {
+        "enemy-slug": "sand-rappy",
+        "enemy-display": "Sand Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/glide-divine",
+                "item-display": "Glide Divine",
+                "rate": 1489.45
+            },
+            {
+                "item-slug": "weapons/glide-divine",
+                "item-display": "Glide Divine",
+                "rate": 1489.45
+            },
+            {
+                "item-slug": "units/centurion-arms",
+                "item-display": "Centurion/Arms",
+                "rate": 1260.3
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            },
+            {
+                "item-slug": "weapons/glide-divine",
+                "item-display": "Glide Divine",
+                "rate": 1489.45
+            },
+            {
+                "item-slug": "weapons/glide-divine",
+                "item-display": "Glide Divine",
+                "rate": 1489.45
+            },
+            {
+                "item-slug": "weapons/glide-divine",
+                "item-display": "Glide Divine",
+                "rate": 1489.45
+            },
+            {
+                "item-slug": "weapons/glide-divine",
+                "item-display": "Glide Divine",
+                "rate": 1489.45
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 6553.51
+            },
+            {
+                "item-slug": "weapons/glide-divine",
+                "item-display": "Glide Divine",
+                "rate": 1489.45
+            }
+        ]
+    },
+    {
+        "enemy-slug": "del-rappy",
+        "enemy-display": "Del Rappy",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "units/heavenly-legs",
+                "item-display": "Heavenly/Legs",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/rappy-wing",
+                "item-display": "Rappy's Wing",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "tools/rappy-beak",
+                "item-display": "Rappy's Beak",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "units/heavenly-legs",
+                "item-display": "Heavenly/Legs",
+                "rate": 36.57
+            },
+            {
+                "item-slug": "units/heavenly-mind",
+                "item-display": "Heavenly/Mind",
+                "rate": 36.57
+            }
+        ]
+    },
+    {
+        "enemy-slug": "saint-million",
+        "enemy-display": "Saint Million",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "weapons/desert-eagle",
+                "item-display": "Desert Eagle",
+                "rate": 32
+            },
+            {
+                "item-slug": "units/immortal-ability",
+                "item-display": "Immortal/Ability",
+                "rate": 51.2
+            },
+            {
+                "item-slug": "units/v502",
+                "item-display": "V502",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/twin-pallasch",
+                "item-display": "Twin Pallasch",
+                "rate": 32
+            },
+            {
+                "item-slug": "units/immortal-ability",
+                "item-display": "Immortal/Ability",
+                "rate": 51.2
+            },
+            {
+                "item-slug": "weapons/glide-divine-x",
+                "item-display": "Glide Divine X",
+                "rate": 46.55
+            },
+            {
+                "item-slug": "frames/ring-of-fire",
+                "item-display": "Ring of Fire",
+                "rate": 64
+            },
+            {
+                "item-slug": "units/v502",
+                "item-display": "V502",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/mystic-spirit",
+                "item-display": "Mystic Spirit",
+                "rate": 32
+            },
+            {
+                "item-slug": "units/v502",
+                "item-display": "V502",
+                "rate": 16
+            }
+        ]
+    },
+    {
+        "enemy-slug": "shambertin",
+        "enemy-display": "Shambertin",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "tools/pandora-box",
+                "item-display": "Pandora's Box",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/pandora-box",
+                "item-display": "Pandora's Box",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/pandora-box",
+                "item-display": "Pandora's Box",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/pandora-box",
+                "item-display": "Pandora's Box",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/pandora-box",
+                "item-display": "Pandora's Box",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/pandora-box",
+                "item-display": "Pandora's Box",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/pandora-box",
+                "item-display": "Pandora's Box",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/pandora-box",
+                "item-display": "Pandora's Box",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/pandora-box",
+                "item-display": "Pandora's Box",
+                "rate": 39.38
+            },
+            {
+                "item-slug": "tools/pandora-box",
+                "item-display": "Pandora's Box",
+                "rate": 39.38
+            }
+        ]
+    },
+    {
+        "enemy-slug": "kondrieu",
+        "enemy-display": "Kondrieu",
+        "dar": 100,
+        "drops": [
+            {
+                "item-slug": "units/immortal-ability",
+                "item-display": "Immortal/Ability",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/heaven-striker",
+                "item-display": "Heaven Striker",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/lame-dargent",
+                "item-display": "Lame d'Argent",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/centurion-battle",
+                "item-display": "Centurion/Battle",
+                "rate": 16
+            },
+            {
+                "item-slug": "units/centurion-battle",
+                "item-display": "Centurion/Battle",
+                "rate": 16
+            },
+            {
+                "item-slug": "frames/dynasty-armor",
+                "item-display": "Dynasty Armor",
+                "rate": 16
+            },
+            {
+                "item-slug": "tools/pandora-box",
+                "item-display": "Pandora's Box",
+                "rate": 8
+            },
+            {
+                "item-slug": "weapons/daylight-scar",
+                "item-display": "Daylight Scar",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/hell-striker",
+                "item-display": "Hell Striker",
+                "rate": 16
+            },
+            {
+                "item-slug": "weapons/heaven-striker",
+                "item-display": "Heaven Striker",
+                "rate": 16
+            }
+        ]
+    }
+]
