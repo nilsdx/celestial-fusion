@@ -1,6 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  outputFileTracingIncludes: { "/**": ["./data/drops/**/*.json"] },
   images: {
     remotePatterns: [
       {
