@@ -179,6 +179,51 @@
                 "item-slug": "",
                 "item-display": "",
                 "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             }
         ]
     },
@@ -2154,6 +2199,16 @@
                 "item-slug": "weapons/storm-wand-indra",
                 "item-display": "Storm Wand:Indra",
                 "rate": 3150.8
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             },
             {
                 "item-slug": "weapons/guilty-light",

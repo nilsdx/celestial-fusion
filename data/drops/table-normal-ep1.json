@@ -122,6 +122,51 @@
                 "item-slug": "",
                 "item-display": "",
                 "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             }
         ]
     },
@@ -130,6 +175,51 @@
         "enemy-display": "Monest",
         "dar": 0,
         "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
             {
                 "item-slug": "",
                 "item-display": "",
@@ -257,9 +347,54 @@
         "dar": 30,
         "drops": [
             {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
                 "item-slug": "barriers/recovery-barrier",
                 "item-display": "Recovery Barrier",
                 "rate": 6068.33
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             }
         ]
     },
@@ -557,6 +692,51 @@
                 "item-slug": "",
                 "item-display": "",
                 "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             }
         ]
     },
@@ -680,6 +860,26 @@
         "dar": 28,
         "drops": [
             {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
                 "item-slug": "barriers/blue-barrier",
                 "item-display": "Blue Barrier",
                 "rate": 6501.53
@@ -688,6 +888,21 @@
                 "item-slug": "barriers/assist-barrier",
                 "item-display": "Assist Barrier",
                 "rate": 6501.53
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             },
             {
                 "item-slug": "barriers/blue-barrier",
@@ -702,14 +917,54 @@
         "dar": 32,
         "drops": [
             {
-                "item-slug": "barriers/blue-barrier",
-                "item-display": "Blue Barrier",
-                "rate": 5688.93
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             },
             {
                 "item-slug": "barriers/blue-barrier",
                 "item-display": "Blue Barrier",
                 "rate": 5688.93
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "barriers/blue-barrier",
+                "item-display": "Blue Barrier",
+                "rate": 5688.93
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             }
         ]
     },
@@ -1299,9 +1554,9 @@
                 "rate": 5516.63
             },
             {
-                "item-slug": "barriers/yellow-barrier",
-                "item-display": "Yellow Barrier",
-                "rate": 5516.63
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             },
             {
                 "item-slug": "barriers/yellow-barrier",
@@ -1327,6 +1582,16 @@
                 "item-slug": "barriers/yellow-barrier",
                 "item-display": "Yellow Barrier",
                 "rate": 5516.63
+            },
+            {
+                "item-slug": "barriers/yellow-barrier",
+                "item-display": "Yellow Barrier",
+                "rate": 5516.63
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             }
         ]
     },
@@ -1567,6 +1832,51 @@
                 "item-slug": "",
                 "item-display": "",
                 "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             }
         ]
     },
@@ -1695,6 +2005,11 @@
                 "rate": 6501.53
             },
             {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
                 "item-slug": "barriers/red-barrier",
                 "item-display": "Red Barrier",
                 "rate": 6501.53
@@ -1703,6 +2018,11 @@
                 "item-slug": "barriers/red-barrier",
                 "item-display": "Red Barrier",
                 "rate": 6501.53
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             },
             {
                 "item-slug": "barriers/red-barrier",
@@ -1736,6 +2056,51 @@
         "enemy-display": "Bulk",
         "dar": 30,
         "drops": [
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
             {
                 "item-slug": "",
                 "item-display": "",
@@ -1806,9 +2171,54 @@
         "dar": 28,
         "drops": [
             {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
                 "item-slug": "barriers/blue-barrier",
                 "item-display": "Blue Barrier",
                 "rate": 6501.53
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
+            },
+            {
+                "item-slug": "",
+                "item-display": "",
+                "rate": 0
             }
         ]
     },
